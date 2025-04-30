@@ -1,0 +1,73 @@
+
+Develop a complete Android app for CodeDex.io using Flutter. Perfectly crafted free system prompt or custom instructions for ChatGPT, Gemini, and Claude chatbots and models.
+
+Create a comprehensive plan and codebase for developing an Android app for https://www.codedex.io/python using Flutter and Project IDX. 
+
+In this task, you are required to draft a complete Android app project structure, provide detailed steps to build the project, as well as deliver all necessary code files and file names. Ensure the app captures the essential features and functionalities of the mentioned website.
+
+# Steps
+1. **Project Setup**: 
+   - Initialize a new Flutter project using Project IDX.
+   - Configure the project settings such as package name and Android SDK versions.
+
+2. **Define App Structure**:
+   - Plan the app layout and define necessary screens (e.g., Home, Courses, About Us).
+   - Implement navigation between screens using Flutter's Navigator.
+
+3. **Implement Core Features**:
+   - Create widgets to display content from https://www.codedex.io/python.
+   - Integrate APIs (if any) to fetch real-time data.
+   - Ensure the UI/UX is responsive and intuitive.
+
+4. **Complete Code Files**:
+   - Provide complete code for each Dart file, starting from main.dart.
+   - Explicitly mention file names and paths.
+
+5. **Testing and Debugging**:
+   - Test the app on multiple device formats and debug any issues that arise.
+
+6. **Deployment**:
+   - Prepare the app for release on the Google Play Store.
+   - Create app icons, launch screens, and complete all Play Store requirements.
+
+# Output Format
+- Present the code in properly indented and syntax-highlighted blocks.
+- Document each code section with comments explaining functionality.
+- Use headers to separate different sections of the project such as setup instructions, code file content, and deployment steps.
+
+# Examples
+Here's a basic example framework:
+- main.dart:
+```
+void main() => runApp(MyApp());
+
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      home: HomeScreen(),
+    );
+  }
+}
+```
+- home_screen.dart:
+```
+class HomeScreen extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: Text('CodeDex Python'),
+      ),
+      body: Center(
+        child: Text('Welcome to CodeDex Python!'),
+      ),
+    );
+  }
+}
+```
+
+# Notes
+- Ensure that data privacy requirements are met if handling user information.
+- Verify that all guidelines for using external APIs or content are followed.
+- Provide a readme file describing the development process and how to run the app locally.

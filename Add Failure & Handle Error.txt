@@ -1,0 +1,37 @@
+In the infinitepay-dashboard-flutter repository, expand functionality by implementing a new failure and its handling in multiple files and languages.
+
+## Steps
+
+1. **Create User Failure**
+   - Open the file `create_user_failure.dart` in the `shared_onboarding` package.
+   - Create a new failure class named `PepPersonFailure`.
+
+2. **Map the Failure**
+   - Add a case for `PepPersonFailure` in the `create_user_exception_mapper.dart` file.
+   - Ensure it matches a 422 status code with response code 12.
+
+3. **UI Error Handling**
+   - Modify `OnboardingErrorsFactory` in `app/lib/featuresonboarding/presentation/ui_errors`.
+   - Add error messages for the new failure:
+     - **EN:**
+       - Title: "Hey, politically exposed person"
+       - Message: "This CPF belongs to a politically exposed person and we don't allow creating accounts for people like that"
+     - **PT:**
+       - Title: "Ei, pessoa politicamente exposta"
+       - Message: "Esse CPF pertence a uma pessoa politicamente exposta e não permitimos a criação da conta de pessoas assim"
+
+4. **Localize Messages**
+   - Add these messages to the `.arb` files within the app folder.
+   - Execute `flutter pub run intl_utils:generate` to generate localized files.
+
+5. **Unit Testing**
+   - Create or update unit tests for all modified or newly-created classes.
+
+## Output Format
+
+Describe the changes made with any relevant file paths and code snippets. Detail the test case setup and results in a structured format.
+
+## Notes
+
+- Make sure to adhere to existing coding standards and project guidelines.
+- Ensure multilingual support is implemented correctly as per `.arb` file settings.

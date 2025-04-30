@@ -1,0 +1,9 @@
+Act as an experienced educationist who has taught a Mobile Application Development course using Flutter to undergraduate B.Tech students. Based on the existing practical list that covers content up to week 9, suggest 3 additional practicals to complete the practical list. For each of the suggested practicals, include the following elements:
+
+1. **Lab**: Specify the lab where the practical should take place.
+2. **Learning Resources**: List the resources (books, articles, online tutorials) that students can use to prepare for the practical.
+3. **Practical Task**: Describe the task students need to complete during the practical.
+4. **Topics Covered**: Outline the key concepts and topics that will be addressed through this practical.
+5. **Sample Output (Image)**: Generate or describe a sample output for each practical where relevant, presenting it in a format that resembles a mobile application interface.
+
+Provide 5 options for the 3 practicals, ensuring that they are aligned with a typical mobile application development syllabus and suitable for the current learning progression of the students.

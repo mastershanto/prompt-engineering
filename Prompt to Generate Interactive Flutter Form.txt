@@ -1,0 +1,20 @@
+✅ Part 2: Prompt to Generate Interactive Flutter Form
+You can use the following prompt for a code generation model like ChatGPT:
+
+Prompt:
+
+"Design a Flutter form with the following features:
+
+Adaptive layout that adjusts seamlessly between phones and tablets.
+
+Custom validation logic (e.g., email, password strength, phone number) with clear user feedback.
+
+Error handling UI with visual indicators, helper text, and Snackbar or dialog-based submission status.
+
+Use Riverpod or Provider for state management.
+
+Include fields like name, email, phone, password, confirm password.
+
+Layout should use responsive containers (e.g., LayoutBuilder, MediaQuery, or packages like responsive_framework).
+
+Add an animated submit button with loading indicator."

@@ -1,0 +1,30 @@
+Prompt to Generate Interactive Note Pad
+
+
+ChatGPT said:
+Here's a detailed prompt to generate an interactive Flutter Notepad app with modern UI, animations, state management, and platform adaptation:
+
+Prompt:
+
+"Create a complete Flutter interactive Notepad app with the following features:
+
+Responsive layout that adapts across phones, tablets, and desktops using LayoutBuilder, MediaQuery, or a responsive package like responsive_framework.
+
+Use Riverpod for state management to handle note creation, editing, deletion, and saving.
+
+Support for rich text editing (e.g., bold, italic, underline) using a package like flutter_quill or zefyr.
+
+Display all notes in a ListView or GridView with smooth animations using flutter_animate or animations package.
+
+Include a search bar with real-time filtering of notes.
+
+Add local storage (e.g., hive, shared_preferences, or sqflite) for persisting notes.
+
+Use a floating action button (FAB) to create new notes, with an animated transition to the editing screen.
+
+Integrate dark and light themes, and allow user preference toggling.
+
+Add a delete confirmation dialog, and snackbar notifications for actions like saving or deleting a note.
+
+Organize the app with proper folder structure (models, providers, screens, widgets)."
+

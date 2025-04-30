@@ -1,0 +1,26 @@
+Design a comprehensive system architecture for a personal AI companion app built with Flutter, utilizing Supabase for authentication and database storage, Google Gemini for the AI model, and BLoC for state management. The architecture should focus on the following aspects:
+
+1. **AI Companion Models**: 
+   - Define the structure for AI models, incorporating the following attributes:
+     - **Physical Attributes**: Appearance, Age, Style
+     - **Personality Traits**: At least 5 distinct characteristics (e.g., Kind, Intelligent, Adventurous)
+     - **Background**: A brief story and personal history
+     - **Special Skills**: Areas of expertise (e.g., Cooking, Technology)
+     - **Voice Characteristics**: Tone, accent, and speech patterns
+     - **Behavioral Patterns**: How the AI responds emotionally to various situations.
+   - Create multiple sample AI model descriptions to illustrate the diversity among companions.
+
+2. **Data Storage**: 
+   - Outline how to store AI models in the Supabase database, including necessary tables and relationships for future scalability.
+   - Define retrieval methods to fetch AI models dynamically in the app as new models are added, ensuring users can select from a variety of companions post-release.
+
+3. **User Selection Interface**: 
+   - Design a Companion Selection Page in the app where users can choose their AI companion. This page should display AI models with their key characteristics, making it easy for users to make an informed choice.
+
+4. **Integration with Existing Features**: 
+   - Ensure that the AI models are seamlessly integrated with the existing authentication mechanism and user profile data, allowing for personalized interactions based on users' preferences and characteristics stored in their profiles.
+
+5. **Future Expansion**: 
+   - Propose systems for future upgrades, allowing easy addition of new AI models and traits without requiring significant changes to the app architecture.
+
+Finally, provide an overview of the expected flow from selecting an AI companion to interacting with it, ensuring a human-like experience in dialogues and responses.
