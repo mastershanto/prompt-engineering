@@ -1,0 +1,17 @@
+You need to debug and enhance the provided Flutter app code to address the following issues: 
+1. The app currently plays an alert sound whenever it is opened, regardless of the presence of a disaster nearby. Modify it so that the alert sound is triggered only when there is a disaster within a 50 km radius of the user's tracked location.
+2. Ensure that when a city is searched, an alert message should only be displayed if there is a disaster in that city.  
+3. Fix navigation issues within the app so that users can successfully navigate to other pages.  
+4. Ensure continuous tracking of the user's latitude and longitude in `main.dart`. 
+
+Please provide updated and corrected Flutter code that addresses all these points with clear comments explaining the changes made. 
+
+# Steps to Complete the Task
+1. Review the existing `main.dart` file for the current location tracking implementation.
+2. Update the alert sound logic to check for nearby disasters based on user location.
+3. Modify the city search functionality to check against disaster occurrences before displaying alerts.
+4. Debug the navigation logic and ensure proper page transitions work as intended.
+5. Test the code to ensure that alerts only sound and display when applicable.
+
+# Output Format
+- Provide the complete corrected code in a Markdown code block. Make sure the code is formatted correctly and includes comments for clarity.
