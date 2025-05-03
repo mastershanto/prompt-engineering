@@ -1,0 +1,32 @@
+✅ Gen Command :
+flutter pub get
+flutter clean
+dart run build_runner clean
+dart run build_runner build --delete-conflicting-outputs
+
+
+
+✅ Clean Run: 
+
+flutter clean
+flutter pub get
+flutter run
+
+✅ 2. If files were staged for deletion:
+
+git status
+git checkout -- lib/path/to/file_name.gen.dart
+   or
+git status
+git reset HEAD .
+git checkout -- .
+
+This will unstage and restore deleted files.
+
+
+
+
+
+
+
+
