@@ -1,0 +1,714 @@
+font-family: DM Sans;
+font-weight: 400;
+font-size: 13.81px;
+line-height: 164%;
+letter-spacing: 0%;
+text-align: center;
+background: #585858;
+
+font-family: Inter;
+font-weight: 700;
+font-size: 26px;
+line-height: 130%;
+letter-spacing: 0%;
+text-align: center;
+background: #FFFFFF;
+
+font-family: DM Sans;
+font-weight: 400;
+font-size: 13px;
+line-height: 150%;
+letter-spacing: 0%;
+text-align: center;
+background: #FFFFFF;
+
+font-family: Inter;
+font-weight: 700;
+font-size: 14px;
+line-height: 132%;
+letter-spacing: 0%;
+background: #FFFFFF;
+
+
+font-family: DM Sans;
+font-weight: 400;
+font-size: 16px;
+line-height: 164%;
+letter-spacing: 0%;
+background: #585858;
+
+
+font-family: DM Sans;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+letter-spacing: 0%;
+text-decoration: underline;
+text-decoration-style: solid;
+text-decoration-offset: 0%;
+text-decoration-thickness: 0%;
+background: #FFFFFF;
+
+
+font-family: Inter;
+font-weight: 600;
+font-size: 14px;
+line-height: 136%;
+letter-spacing: 0%;
+text-align: center;
+background: #004372;
+
+
+font-family: DM Sans;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+letter-spacing: 0%;
+background: #FFFFFF;
+
+
+
+font-family: DM Sans;
+font-weight: 400;
+font-size: 14px;
+line-height: 160%;
+letter-spacing: 0%;
+background: #FFFFFF;
+................................
+
+font-family: Inter;
+font-weight: 700;
+font-size: 26px;
+line-height: 130%;
+letter-spacing: 0%;
+background: #FFF1F1;
+
+font-family: DM Sans;
+font-weight: 400;
+font-size: 13px;
+line-height: 150%;
+letter-spacing: 0%;
+background: #FFFFFF;
+
+font-family: Inter;
+font-weight: 700;
+font-size: 14px;
+line-height: 132%;
+letter-spacing: 0%;
+background: #FFFFFF;
+
+font-family: DM Sans;
+font-weight: 400;
+font-size: 16px;
+line-height: 164%;
+letter-spacing: 0%;
+background: #585858;
+
+
+font-family: DM Sans;
+font-weight: 700;
+font-size: 14px;
+line-height: 100%;
+letter-spacing: 0%;
+text-decoration: underline;
+text-decoration-style: solid;
+text-decoration-offset: 0%;
+text-decoration-thickness: 0%;
+background: #FFFFFF;
+
+font-family: Inter;
+font-weight: 600;
+font-size: 14px;
+line-height: 136%;
+letter-spacing: 0%;
+text-align: center;
+background: #004372;
+
+font-family: Poppins;
+font-weight: 600;
+font-size: 14px;
+line-height: 130%;
+letter-spacing: 0%;
+background: #FFFFFF;
+
+font-family: DM Sans;
+font-weight: 400;
+font-size: 16px;
+line-height: 164%;
+letter-spacing: 0%;
+background: #E51A1A;
+
+font-family: DM Sans;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+letter-spacing: 0%;
+text-align: center;
+background: #FFFFFF;
+
+font-family: DM Sans;
+font-weight: 400;
+font-size: 16px;
+line-height: 164%;
+letter-spacing: 0%;
+vertical-align: middle;
+background: #FFFFFF;
+
+font-family: DM Sans;
+font-weight: 400;
+font-size: 16px;
+line-height: 164%;
+letter-spacing: 0%;
+text-align: center;
+background: #FFFFFF;
+
+font-family: DM Sans;
+font-weight: 400;
+font-size: 13px;
+line-height: 150%;
+letter-spacing: 0%;
+background: #FFFFFF;
+
+.............................................
+font-family: Inter;
+font-weight: 700;
+font-size: 28px;
+line-height: 132%;
+letter-spacing: 0%;
+text-align: center;
+background: #051520;
+
+font-family: DM Sans;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+letter-spacing: 0%;
+text-align: right;
+background: #051520;
+
+font-family: Inter;
+font-weight: 600;
+font-size: 14px;
+line-height: 136%;
+letter-spacing: 0%;
+text-align: center;
+background: #FFFFFF;
+
+
+font-family: Inter;
+font-weight: 600;
+font-size: 14px;
+line-height: 136%;
+letter-spacing: 0%;
+text-align: center;
+background: #004372;
+
+font-family: Inter;
+font-weight: 600;
+font-size: 14px;
+line-height: 136%;
+letter-spacing: 0%;
+text-align: center;
+background: #051520;
+
+
+font-family: DM Sans;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+letter-spacing: 0%;
+background: #A5A5A5;
+
+font-family: Inter;
+font-weight: 600;
+font-size: 14px;
+line-height: 136%;
+letter-spacing: 0%;
+text-align: center;
+background: #004372;
+
+font-family: DM Sans;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+letter-spacing: 0%;
+background: #051520;
+
+
+font-family: Roboto;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.5px;
+vertical-align: middle;
+background: #051520;
+
+font-family: Roboto;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0.5px;
+background: #A5A5A5;
+
+font-family: Inter;
+font-weight: 600;
+font-size: 14px;
+line-height: 136%;
+letter-spacing: 0%;
+text-align: center;
+background: #004372;
+
+font-family: DM Sans;
+font-weight: 400;
+font-size: 14px;
+line-height: 140%;
+letter-spacing: 0%;
+background: #333333;
+
+font-family: DM Sans;
+font-weight: 500;
+font-size: 13px;
+line-height: 140%;
+letter-spacing: 0%;
+text-align: right;
+background: #004372;
+
+font-family: Inter;
+font-weight: 600;
+font-size: 14px;
+line-height: 136%;
+letter-spacing: 0%;
+text-align: center;
+background: #FFFFFF;
+
+font-family: DM Sans;
+font-weight: 400;
+font-size: 14px;
+line-height: 140%;
+letter-spacing: 0%;
+background: #051520;
+
+width: 390;
+height: 987;
+top: 104px;
+left: 2001px;
+border-radius: 28px;
+border-width: 6px;
+background: #FAFBFC;
+
+font-family: Inter;
+font-weight: 600;
+font-size: 16px;
+line-height: 132%;
+letter-spacing: 0%;
+background: #FFFFFF;
+
+font-family: Inter;
+font-weight: 600;
+font-size: 16px;
+line-height: 132%;
+letter-spacing: 0%;
+background: #051520;
+
+font-family: DM Sans;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+letter-spacing: 0%;
+background: #A5A5A5;
+
+font-family: Inter;
+font-weight: 600;
+font-size: 16px;
+line-height: 132%;
+letter-spacing: 0%;
+background: #051520;
+
+font-family: DM Sans;
+font-weight: 400;
+font-size: 13px;
+line-height: 150%;
+letter-spacing: 0%;
+text-decoration: underline;
+text-decoration-style: solid;
+text-decoration-offset: 0%;
+text-decoration-thickness: 0%;
+background: #004372;
+
+font-family: DM Sans;
+font-weight: 400;
+font-size: 16px;
+line-height: 164%;
+letter-spacing: 0%;
+text-align: center;
+background: #051520;
+
+font-family: Inter;
+font-weight: 600;
+font-size: 16px;
+line-height: 132%;
+letter-spacing: 0%;
+background: #051520;
+
+
+font-family: DM Sans;
+font-weight: 400;
+font-size: 13px;
+line-height: 150%;
+letter-spacing: 0%;
+text-align: center;
+background: #004372;
+
+font-family: DM Sans;
+font-weight: 400;
+font-size: 13px;
+line-height: 150%;
+letter-spacing: 0%;
+text-align: center;
+background: #585858;
+
+...................................
+
+font-family: Inter;
+font-weight: 600;
+font-size: 14px;
+line-height: 136%;
+letter-spacing: 0%;
+text-align: center;
+background: #051520;
+
+font-family: DM Sans;
+font-weight: 600;
+font-size: 12px;
+line-height: 134%;
+letter-spacing: 0%;
+text-align: center;
+background: #585858;
+
+font-family: DM Sans;
+font-weight: 400;
+font-size: 12px;
+line-height: 150%;
+letter-spacing: 0%;
+text-align: center;
+background: #585858;
+
+font-family: DM Sans;
+font-weight: 400;
+font-size: 11px;
+line-height: 164%;
+letter-spacing: 0%;
+background: #585858;
+
+font-family: Inter;
+font-weight: 600;
+font-size: 14px;
+line-height: 136%;
+letter-spacing: 0%;
+text-align: center;
+background: #4E984F;
+
+font-family: DM Sans;
+font-weight: 400;
+font-size: 11px;
+line-height: 164%;
+letter-spacing: 0%;
+text-align: center;
+background: #4E984F;
+
+width: 154;
+height: 28;
+gap: 12px;
+border-radius: 6px;
+padding-top: 6px;
+padding-right: 12px;
+padding-bottom: 6px;
+padding-left: 12px;
+background: #FFFFFF;
+
+font-family: Inter;
+font-weight: 700;
+font-size: 18px;
+line-height: 164%;
+letter-spacing: 0%;
+background: #051520;
+
+font-family: DM Sans;
+font-weight: 400;
+font-size: 16px;
+line-height: 164%;
+letter-spacing: 0%;
+background: #051520;
+
+font-family: Inter;
+font-weight: 600;
+font-size: 14px;
+line-height: 136%;
+letter-spacing: 0%;
+text-align: center;
+background: #051520;
+
+font-family: Inter;
+font-weight: 600;
+font-size: 16px;
+line-height: 132%;
+letter-spacing: 0%;
+background: #051520;
+
+font-family: Inter;
+font-weight: 600;
+font-size: 16px;
+line-height: 132%;
+letter-spacing: 0%;
+background: #051520;
+
+font-family: DM Sans;
+font-weight: 400;
+font-size: 14px;
+line-height: 140%;
+letter-spacing: 0%;
+background: #051520;
+
+font-family: Inter;
+font-weight: 600;
+font-size: 16px;
+line-height: 132%;
+letter-spacing: 0%;
+background: #051520;
+
+font-family: Inter;
+font-weight: 600;
+font-size: 16px;
+line-height: 132%;
+letter-spacing: 0%;
+background: #051520;
+
+font-family: Inter;
+font-weight: 700;
+font-size: 18px;
+line-height: 132%;
+letter-spacing: -1%;
+text-align: center;
+background: #FFFFFF;
+
+font-family: DM Sans;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+letter-spacing: 0%;
+text-align: center;
+background: #FFFFFF;
+
+font-family: DM Sans;
+font-weight: 400;
+font-size: 14px;
+line-height: 140%;
+letter-spacing: 0%;
+background: #FFFFFF;
+
+font-family: Inter;
+font-weight: 700;
+font-size: 18px;
+line-height: 164%;
+letter-spacing: 0%;
+background: #FFFFFF;
+
+font-family: DM Sans;
+font-weight: 400;
+font-size: 13px;
+line-height: 150%;
+letter-spacing: 0%;
+background: #FFFFFF;
+
+font-family: DM Sans;
+font-weight: 600;
+font-size: 12px;
+line-height: 134%;
+letter-spacing: 0%;
+background: #004372;
+
+
+font-family: Inter;
+font-weight: 600;
+font-size: 14px;
+line-height: 136%;
+letter-spacing: 0%;
+text-align: center;
+background: #FFFFFF;
+
+font-family: Inter;
+font-weight: 600;
+font-size: 14px;
+line-height: 136%;
+letter-spacing: 0%;
+text-align: center;
+background: #004372;
+
+font-family: Inter;
+font-weight: 600;
+font-size: 16px;
+line-height: 132%;
+letter-spacing: 0%;
+text-align: center;
+background: #051520;
+
+
+font-family: DM Sans;
+font-weight: 400;
+font-size: 13px;
+line-height: 150%;
+letter-spacing: 0%;
+background: #585858;
+
+
+font-family: Inter;
+font-weight: 600;
+font-size: 16px;
+line-height: 132%;
+letter-spacing: 0%;
+text-align: center;
+background: #051520;
+
+font-family: Inter;
+font-weight: 600;
+font-size: 14px;
+line-height: 136%;
+letter-spacing: 0%;
+text-align: center;
+background: #FFFFFF;
+
+font-family: DM Sans;
+font-weight: 600;
+font-size: 12px;
+line-height: 134%;
+letter-spacing: 0%;
+background: #FFFFFF;
+
+
+font-family: Inter;
+font-weight: 700;
+font-size: 14px;
+line-height: 132%;
+letter-spacing: 0%;
+background: #051520;
+
+font-family: Inter;
+font-weight: 500;
+font-size: 12px;
+line-height: 164%;
+letter-spacing: 0%;
+background: #585858;
+
+font-family: DM Sans;
+font-weight: 500;
+font-size: 13px;
+line-height: 140%;
+letter-spacing: 0%;
+background: #585858;
+
+font-family: DM Sans;
+font-weight: 700;
+font-size: 14px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+text-decoration: underline;
+text-decoration-style: solid;
+text-decoration-offset: 0%;
+text-decoration-thickness: 0%;
+background: #4E984F;
+
+font-family: Inter;
+font-weight: 600;
+font-size: 14px;
+line-height: 136%;
+letter-spacing: 0%;
+text-align: center;
+background: #051520;
+
+font-family: Roboto;
+font-weight: 400;
+font-size: 12px;
+line-height: 164%;
+letter-spacing: 0%;
+text-align: center;
+vertical-align: middle;
+background: #8993A4;
+
+font-family: DM Sans;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+letter-spacing: 0%;
+background: #585858;
+
+font-family: DM Sans;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+letter-spacing: 0%;
+background: #FFFFFF;
+
+font-family: DM Sans;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+letter-spacing: 0%;
+background: #585858;
+
+font-family: DM Sans;
+font-weight: 400;
+font-size: 16px;
+line-height: 164%;
+letter-spacing: 0%;
+background: #97A0AF;
+.......................................
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
