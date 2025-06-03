@@ -1,0 +1,726 @@
+// Get Your Cash Quote in Seconds!
+color: #202020;
+ font-size: 24px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 36px;
+ word-wrap: break-word
+
+// Ready to turn your extra diabetic supplies into fast cash? Simply select your test strips or other supplies, and we’ll provide you with an instant quote—no waiting, no hassle!<br/>
+It’s quick, easy, and guaranteed to be the best price for your extra supplies.(will price match other quotes)
+color: #838383;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word
+
+
+// Skip
+color: #55AE5B;
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 42px;
+ word-wrap: break-word
+
+
+// Good to See You!
+color: #202020;
+ font-size: 32px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 42px;
+ word-wrap: break-word
+
+// Log in to continue where you left off.
+color: #565656;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 16px;
+ word-wrap: break-word
+
+
+// Login
+color: white;
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 42px;
+ word-wrap: break-word
+
+
+// Register
+color: #838383;
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 42px;
+ word-wrap: break-word
+
+
+// Email
+color: #838383;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 42px;
+ word-wrap: break-word
+
+// Remember me
+color: #838383;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 42px;
+ word-wrap: break-word
+
+// Forget  Password ?
+color: #55AE5B;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 42px;
+ word-wrap: break-word
+
+// Your personal data will be used to support your experience throughout this website, to manage access to your account, and for other purposes described in our 
+color: #838383;
+ font-size: 10px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 16.40px;
+ word-wrap: break-word
+---
+// privacy policy.
+color: #55AE5B;
+ font-size: 10px;
+ font-family: Inter;
+ font-weight: 500;
+ text-decoration: underline;
+ line-height: 16.40px;
+ word-wrap: break-word
+
+
+// Welcome To
+color: #202020;
+ font-size: 24px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 39.60px;
+ word-wrap: break-word
+
+
+// Sell Your
+color: #55AE5B;
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 26.40px;
+ word-wrap: break-word
+---
+//  
+color: #202020;
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 26.40px;
+ word-wrap: break-word
+---
+// Strips
+color: #55AE5B;
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 26.40px;
+ word-wrap: break-word
+
+// Search
+color: #838383;
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 42px;
+ word-wrap: break-word
+
+// Sell Your Unused Diabetic Supplies for Fast Cash!
+color: white;
+ font-size: 18px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 29.70px;
+ word-wrap: break-word
+
+// Sell Now
+color: white;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 42px;
+ word-wrap: break-word
+
+
+// Top Items
+color: #202020;
+ font-size: 18px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 29.70px;
+ word-wrap: break-word
+
+// See all
+color: #838383;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 19.80px;
+ word-wrap: break-word
+
+
+// AccuChek 
+color: #202020;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 23.10px;
+ word-wrap: break-word
+
+
+// 17 items
+color: #838383;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 19.80px;
+ word-wrap: break-word
+
+// Featured Items
+color: #202020;
+ font-size: 18px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 29.70px;
+ word-wrap: break-word
+
+// Home
+color: #55AE5B;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 400;
+ word-wrap: break-word
+
+
+  // Search
+color: #838383;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 400;
+ word-wrap: break-word
+
+// All Items
+color: #202020;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 23.10px;
+ word-wrap: break-word
+
+
+// Aviva Plus 
+color: #202020;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 23.10px;
+ word-wrap: break-word
+
+
+// $0.00
+color: #838383;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 19.80px;
+ word-wrap: break-word
+
+
+// AccuChek
+color: #202020;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 23.10px;
+ word-wrap: break-word
+
+// AccuChek Aviva Plus 100ct
+color: #202020;
+ font-size: 24px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 39.60px;
+ word-wrap: break-word
+
+
+// $45.00
+color: #838383;
+ font-size: 18px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 29.70px;
+ word-wrap: break-word
+
+
+// Select an option
+color: #838383;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 42px;
+ word-wrap: break-word
+
+
+
+// Add to cart
+color: white;
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 42px;
+ word-wrap: break-word
+
+
+
+// Description
+color: #55AE5B;
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 42px;
+ word-wrap: break-word
+
+// Reviews
+color: #838383;
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 42px;
+ word-wrap: break-word
+
+// Accu-Chek Aviva Plus Test Strips are designed to deliver 
+color: #838383;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word
+
+
+// Related Items
+color: #202020;
+ font-size: 18px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 29.70px;
+ word-wrap: break-word
+
+
+// Contact Us
+color: #202020;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 23.10px;
+ word-wrap: break-word
+
+// Get in Touch – We're Here to Help You
+color: white;
+ font-size: 18px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 29.70px;
+ word-wrap: break-word
+
+
+// See Location On Map
+color: white;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 42px;
+ word-wrap: break-word
+
+// Get in Touch with Us
+color: #202020;
+ font-size: 18px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 29.70px;
+ word-wrap: break-word
+
+// Please fill out the form to share your concerns with us.
+color: #838383;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 19.80px;
+ word-wrap: break-word
+
+// First  Name
+color: #838383;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 42px;
+ word-wrap: break-word
+
+// Phone Number
+color: #202020;
+ font-size: 18px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 29.70px;
+ word-wrap: break-word
+
+// import@usamedsurplus.com
+color: #838383;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 19.80px;
+ word-wrap: break-word
+
+
+// 4.05 pm
+color: #218D6E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ word-wrap: break-word
+
+
+color: #000000 ;
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+
+
+// Select FAQ Type
+color: #838383;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 42px;
+ word-wrap: break-word
+
+// What diabetic supplies Do We Buy?
+color: white;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 42px;
+ word-wrap: break-word
+
+// We buy top-name brand diabetic supplies. For the most current list of brands we accept,
+please visit our "Sell Test Strips" page.
+color: #4D4D4D;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 19.80px;
+ word-wrap: break-word
+
+// Still Have A Questions?
+color: #202020;
+ font-size: 18px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 29.70px;
+ word-wrap: break-word
+
+// If you didn’t find the answer you were looking for, don’t worry! Our team is here to help. Simply submit your question below, and we’ll get back to you as quickly as possible. We’re happy to assist you!
+color: #838383;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word
+
+// First  Name
+color: #838383;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 42px;
+ word-wrap: break-word
+
+
+// Performance Highlights
+color: white;
+ font-size: 18px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 29.70px;
+ word-wrap: break-word
+
+// 25,000+
+color: #202020;
+ font-size: 23px;
+ font-family: Inter;
+ font-weight: 700;
+ line-height: 37.95px;
+ word-wrap: break-word
+
+
+// Supplies Returned
+color: #202020;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 23.10px;
+ word-wrap: break-word
+
+
+// Reviews From Our Clients
+color: #202020;
+ font-size: 18px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 29.70px;
+ word-wrap: break-word
+
+healthcare needs!
+color: #838383;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word
+
+// Sam Manual
+color: white;
+ font-size: 18px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 23.76px;
+ word-wrap: break-word
+
+// Nurse
+color: #E2E2E2;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 15.84px;
+ word-wrap: break-word
+
+
+// The delivery man was punctual, friendly, and handled my package with care. Excellent service, will definitely request him again!
+color: #FFFFFF;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+
+
+
+// Our Vision
+color: #FFFFFF;
+ font-size: 23px;
+ font-family: Inter;
+ font-weight: 700;
+ line-height: 37.95px;
+ word-wrap: break-word
+
+
+// To create a trusted marketplace where unused diabetic supplies find new purpose, making healthcare more affordable and accessible for everyone.
+color: #FFFFFF;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 23.10px;
+ word-wrap: break-word
+
+// Why Choose Us ?
+color: #000000;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 18px;
+ word-wrap: break-word
+
+// Trust, Service, Sustainability
+color: #202020;
+ font-size: 18px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 29.70px;
+ word-wrap: break-word
+
+// Trust & Transparency
+color: #202020;
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 26.40px;
+ word-wrap: break-word
+
+// We prioritize honesty and fairness, offering transparent transactions and secure processes for buying unused diabetic supplies.
+color: #494949;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word
+
+// AccuChek Aviva Plus 100ct
+color: #202020;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 23.10px;
+ word-wrap: break-word
+
+// $600
+color: #202020;
+ font-size: 18px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 29.70px;
+ word-wrap: break-word
+
+
+// Select Option
+color: #838383;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 19.80px;
+ word-wrap: break-word
+
+// Quantity : 17
+color: #838383;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 19.80px;
+ word-wrap: break-word
+
+
+// Quantity : 17
+color: #838383;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 19.80px;
+ word-wrap: break-word
+
+// Summary
+color: #202020;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 23.10px;
+ word-wrap: break-word
+
+// 12
+color: #838383;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 23.10px;
+ word-wrap: break-word
+
+// $12
+color: #000000;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 23.10px;
+ word-wrap: break-word
+
+
+// $144
+color: #000000;
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 26.40px;
+ word-wrap: break-word
+
+// Info
+color: white;
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 42px;
+ word-wrap: break-word
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

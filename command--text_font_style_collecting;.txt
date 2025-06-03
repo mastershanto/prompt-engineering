@@ -7,77 +7,6 @@
     fontWeight: FontWeight.w900,
   );
 
-  static final textStylec16cFFFFFFDMSans400 = TextStyle(
-    fontFamily: "DMSans",
-    fontFamilyFallback: const [
-      'DMSans',
-      'Poppins',
-      'Inter',
-      'Roboto',
-      'Noto Sans',
-    ],
-    color: AppColors.c000000,
-    fontSize: 16.sp,
-    fontWeight: FontWeight.w400,
-  );
-
-  static final textStylec16c3A1222DMSans600 = TextStyle(
-    fontFamily: "DMSans",
-    fontFamilyFallback: const [
-      "DMSans"
-          'Poppins',
-      'Inter',
-      'Roboto',
-      'Noto Sans',
-    ],
-    color: AppColors.c3A1222,
-    fontSize: 16.sp,
-    fontWeight: FontWeight.w600,
-  );
-
-  static final textStylec16cFFFFFFDMSans500 = TextStyle(
-    fontFamily: "DMSans",
-    fontFamilyFallback: const [
-      "DMSans"
-          'Poppins',
-      'Inter',
-      'Roboto',
-      'Noto Sans',
-    ],
-    color: AppColors.cFFFFFF,
-    fontSize: 16.sp,
-    fontWeight: FontWeight.w500,
-  );
-
-  //Login Flow Screens & Signup Flow Screens
-  static final textStylec26cFFF1F1DMSans700 = TextStyle(
-    fontFamily: "DMSans",
-    fontFamilyFallback: const [
-      "DMSans"
-          'Poppins',
-      'Inter',
-      'Roboto',
-      'Noto Sans',
-    ],
-    color: AppColors.cF1F1F1,
-    fontSize: 26.sp,
-    fontWeight: FontWeight.w700,
-  );
-
-  static final textStylec14cD9D9D9DMSans400 = TextStyle(
-    fontFamily: "DMSans",
-    fontFamilyFallback: const [
-      "DMSans"
-          'Poppins',
-      'Inter',
-      'Roboto',
-      'Noto Sans',
-    ],
-    color: AppColors.cD9D9D9,
-    fontSize: 14.sp,
-    fontWeight: FontWeight.w400,
-  );
-
   static final textStylec16c606060DMSans400 = TextStyle(
     fontFamily: "DMSans",
     fontFamilyFallback: const [
@@ -104,7 +33,18 @@
     color: AppColors.cFFFFFF,
     fontSize: 14.sp,
     fontWeight: FontWeight.w700,
-  );                  this is a file format you have to create data following this above format: for creating you have to use this below data (note: 1. no need to change "Fallsback" data, 2. collect only "font-family", "font-weight", "font-size" & "color or background" , without these avoid others, 3. if "font-size" will be 18 or above, instead of "textStyle" it will be "headline" into this type of data- textStylec16cFFFFFFDMSans400, 4. No need the duplicate format by using _1,_2,_3, just remove these duplicates):  font-family: DM Sans; 
+  );               
+   this is a file format you have to create data following this above format: for creating you have to use this below data 
+(note: 1. no need to change "Fallsback" data, 
+2. collect only "font-family", "font-weight", "font-size" & "color or background" , without these avoid others,
+ 3. if "font-size" will be 18 or above, instead of "textStyle" it will be "headline" into this type of data- textStylec16cFFFFFFDMSans400, 
+4. No need the duplicate format by using _1,_2,_3, just remove these duplicates,
+5. if find "color: white;" this type then convert these as their hax color code. example: color: white will be color: #FFFFFF):
+
+work on this below data: 
+
+
+ font-family: DM Sans; 
 font-weight: 400;
 font-size: 13.81px;
 line-height: 164%;
