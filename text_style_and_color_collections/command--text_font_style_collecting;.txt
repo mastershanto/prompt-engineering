@@ -1,4 +1,6 @@
-  TextFontStyle._(); 
+by ChatGPT 
+
+ TextFontStyle._(); 
   static final textStylec28cFFFFFFDMSans900 = TextStyle(
     fontFamily: "DMSans",
     fontFamilyFallback: const ['DMSans', 'Open Sans', 'Roboto', 'Noto Sans'],

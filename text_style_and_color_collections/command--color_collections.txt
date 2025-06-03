@@ -1,0 +1,113 @@
+by chatGPT
+
+1. this is a  format:
+<?xml version="1.0" encoding="UTF-8"?>
+<colors>
+<color name="allPrimaryColor">#FFFB6514</color>
+<color name="secondaryColor">#FF3B82F6</color>
+<color name="scaffoldColor">#FFfbfbfb</color>
+<color name="disableColour">#FFBABABA</color>
+
+<color name="accentColor">#FF10B981</color>
+<color name="c333333">#FF3333338</color>
+<color name="cFFFFFF">#FFFFFFFF</color>
+<color name="c6C7685">#FF6C7685</color>
+<color name="c071731">#FF071731</color>
+<color name="c000000">#FF000000</color>
+<color name="c027A48">#FF027A48</color>
+<color name="c027A481A">#FF027A481A</color>
+<color name="cFFC107">#FFFFC107</color>
+<color name="c2B2C3F">#FF2B2C3F</color>
+<color name="cDC3545">#FFDC3545</color>
+<color name="c1A2E35">#FF1A2E35</color>
+<color name="cFFAD69">#FFFFAD69</color>
+<color name="c141B34">#FF141B34</color>
+<color name="cDD5152">#FFDD5152</color>
+<color name="cFE7966">#FFFE7966</color>
+<color name="cDC3545">#FFDC3545</color>
+<color name="c8A8B96">#FF8A8B96</color>
+<color name="c2D3643">#FF2D3643</color>
+<color name="cAFBACA">#FFAFBACA1</color>
+<color name="c6B6B6B">#FF6B6B6B</color>
+<color name="c141B34">#FF141B34</color>
+<color name="c202020">#FF202020</color>
+<color name="c071731">#FF071731</color>
+<color name="cDAA356">#FFDAA356</color>
+</colors>
+
+2. make the below data[4] as like this above format[1],
+3. and then (after completed this [2] work), remove the duplicates"
+
+4. these are the data, work apply above [1,2,3] on these:
+
+#000000
+#55ADD8
+#FFFFFF	
+#1E2032
+#C59A27
+#E47323
+#E94448
+#FFD25B
+#86B3CE
+#9E4433
+#2B2F47
+#2B2F47
+#86B3CE
+#1C1A25i
+#CABEF9
+#3E4350
+#1C1A25
+#F5966A
+#BCC9FD
+#EA5180
+#EBC2AE
+#FFFCF6
+#FAF3E3
+#1C1A25
+#1C1A25
+#CABEF9
+#FFFCF6
+#C6B9F5
+#5B4591
+#9382C5
+#96B0B4
+#1C1A25
+#FFC833
+#EBF0FF
+#D9D9D9
+#FFFCF6
+#797878
+#1C1A25
+#FFFCF6
+#FAF3E3
+#E4E7E9
+#1FFDFA
+#FFFCF6
+#928787
+#CABEF9
+#FFFCF6
+#FFFAED
+#F1EADA
+#FFFCF6
+#CABEF9
+#FFFCF6 
+#CABEF9
+#F04D4E
+#FCD346
+#A37765
+#5B5B5B
+#D7E0EF
+#9A6E3D
+#D08D78
+#66C3E9
+#FFD98C
+#F9CB5D
+#FFE161
+#FBBC05
+#4C4372
+#FF1849
+#CABEF9
+#FFFCF6
+#BFBFBF
+#FFFCF6
+#F6F6F6

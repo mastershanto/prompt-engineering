@@ -1,3 +1,5 @@
+by Grok
+
 1. clean data from letter-spacing: line (letter-spacing: 0.07px; is a line) to color: line (color: var(--Text-Color, #1C1A25); is a line)
 2. & make a empty line between these two lines ( letter-spacing & color lines),
 3. example: [pre data is now: 
