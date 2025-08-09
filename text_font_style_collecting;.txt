@@ -1,0 +1,111 @@
+by ChatGPT
+
+  static const List<String> _fontFamilyFallBackDmSans = [
+	'Poppins'
+    'Inter',
+    'Open Sans',
+    'Roboto',
+    'Noto Sans',
+  ];
+  static const String _fontFamilyDMSans = "DM Sans";
+
+  static final textStylec16c606060DMSans400 = TextStyle(
+    fontFamily: _fontFamilyDMSans,
+    fontFamilyFallback: _fontFamilyFallBackDMSans
+    color: AppColors.c606060,
+    fontSize: 16.sp,
+    fontWeight: FontWeight.w400,
+  );
+
+  static final textStylec14cFFFFFFDMSans700 = TextStyle(
+    fontFamily: "DMSans",
+    fontFamilyFallback: const [
+      "DMSans"
+          'Poppins',
+      'Inter',
+      'Roboto',
+      'Noto Sans',
+    ],
+    color: AppColors.cFFFFFF,
+    fontSize: 14.sp,
+    fontWeight: FontWeight.w700,
+  );                  this is a file format you have to create data following this above format: for creating you have to use this below data (note: 1. no need to change "Fallsback" data, 2. collect only "font-family", "font-weight", "font-size" & "color or background" , without these avoid others, 3. if "font-size" will be 18 or above, instead of "textStyle" it will be "headline" into this type of data- textStylec16cFFFFFFDMSans400, 4. No need the duplicate format by using _1,_2,_3 or more, just remove these duplicates): 
+
+
+
+ font-family: DM Sans; 
+font-weight: 400;
+font-size: 13.81px;
+line-height: 164%;
+letter-spacing: 0%;
+text-align: center;
+background: #585858;
+
+font-family: Inter;
+font-weight: 700;
+font-size: 26px;
+line-height: 130%;
+letter-spacing: 0%;
+text-align: center;
+background: #FFFFFF;
+
+font-family: DM Sans;
+font-weight: 400;
+font-size: 13px;
+line-height: 150%;
+letter-spacing: 0%;
+text-align: center;
+background: #FFFFFF;
+
+font-family: Inter;
+font-weight: 700;
+font-size: 14px;
+line-height: 132%;
+letter-spacing: 0%;
+background: #FFFFFF;
+
+
+font-family: DM Sans;
+font-weight: 400;
+font-size: 16px;
+line-height: 164%;
+letter-spacing: 0%;
+background: #585858;
+
+
+font-family: DM Sans;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+letter-spacing: 0%;
+text-decoration: underline;
+text-decoration-style: solid;
+text-decoration-offset: 0%;
+text-decoration-thickness: 0%;
+background: #FFFFFF;
+
+
+font-family: Inter;
+font-weight: 600;
+font-size: 14px;
+line-height: 136%;
+letter-spacing: 0%;
+text-align: center;
+background: #004372;
+
+
+font-family: DM Sans;
+font-weight: 400;
+font-size: 14px;
+line-height: 150%;
+letter-spacing: 0%;
+background: #FFFFFF;
+
+
+
+font-family: DM Sans;
+font-weight: 400;
+font-size: 14px;
+line-height: 160%;
+letter-spacing: 0%;
+background: #FFFFFF;

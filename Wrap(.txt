@@ -1,0 +1,44 @@
+Wrap(
+  spacing: 8.w,
+  runSpacing: 8.h,
+  children: List.generate(categories.length, (index) {
+    bool isSelected = false; // Maintain selection state for each category
+
+    return FittedBox(
+      child: InkWell(
+        onTap: () {
+          setState(() {
+            isSelected = !isSelected; // Toggle state for each category
+          });
+        },
+        child: Container(
+          padding: EdgeInsets.symmetric(horizontal: 8.w, vertical: 4.h),
+          decoration: BoxDecoration(
+            borderRadius: BorderRadius.circular(8.r),
+            color: isSelected ? AppColors.allPrimaryColor : Colors.transparent, // Change background color
+            border: Border.all(
+              color: isSelected ? AppColors.allPrimaryColor : Color(0xFFA1A1A1),
+            ),
+          ),
+          child: Row(
+            mainAxisSize: MainAxisSize.min,
+            children: [
+              Text(
+                categories[index], // Use category name
+                style: isSelected
+                    ? TextFontStyle.headline12CFFFFFFMntserrat500.copyWith(fontSize: 16) // Selected text style
+                    : TextFontStyle.textStyle16c5C5C5CMntserrat500, // Default text style
+              ),
+              UIHelper.horizontalSpace(6.w),
+              Image.asset(
+                isSelected ? Assets.icons.multiplyIcon.path : Assets.icons.addIcon.path, // Toggle icon
+                height: 24.h,
+                width: 24.w,
+              ),
+            ],
+          ),
+        ),
+      ),
+    );
+  }),
+)

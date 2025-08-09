@@ -1,0 +1,784 @@
+TextFontStyle._();
+static final textStylec28cFFFFFFDMSans900 = TextStyle(
+fontFamily: "DMSans",
+fontFamilyFallback: const ['DMSans', 'Open Sans', 'Roboto', 'Noto Sans'],
+color: AppColors.cFFFFFF,
+fontSize: 28.sp,
+fontWeight: FontWeight.w900,
+);
+static final textStylec16cFFFFFFDMSans400 = TextStyle(
+fontFamily: "DMSans",
+fontFamilyFallback: const [
+'DMSans',
+'Poppins',
+'Inter',
+'Roboto',
+'Noto Sans',
+],
+color: AppColors.c000000,
+fontSize: 16.sp,
+fontWeight: FontWeight.w400,
+);
+static final textStylec16c3A1222DMSans600 = TextStyle(
+fontFamily: "DMSans",
+fontFamilyFallback: const [
+"DMSans"
+'Poppins',
+'Inter',
+'Roboto',
+'Noto Sans',
+],
+color: AppColors.c3A1222,
+fontSize: 16.sp,
+fontWeight: FontWeight.w600,
+);
+static final textStylec16cFFFFFFDMSans500 = TextStyle(
+fontFamily: "DMSans",
+fontFamilyFallback: const [
+"DMSans"
+'Poppins',
+'Inter',
+'Roboto',
+'Noto Sans',
+],
+color: AppColors.cFFFFFF,
+fontSize: 16.sp,
+fontWeight: FontWeight.w500,
+);
+//Login Flow Screens & Signup Flow Screens
+static final textStylec26cFFF1F1DMSans700 = TextStyle(
+fontFamily: "DMSans",
+fontFamilyFallback: const [
+"DMSans"
+'Poppins',
+'Inter',
+'Roboto',
+'Noto Sans',
+],
+color: AppColors.cF1F1F1,
+fontSize: 26.sp,
+fontWeight: FontWeight.w700,
+);
+static final textStylec14cD9D9D9DMSans400 = TextStyle(
+fontFamily: "DMSans",
+fontFamilyFallback: const [
+"DMSans"
+'Poppins',
+'Inter',
+'Roboto',
+'Noto Sans',
+],
+color: AppColors.cD9D9D9,
+fontSize: 14.sp,
+fontWeight: FontWeight.w400,
+);
+static final textStylec16c606060DMSans400 = TextStyle(
+fontFamily: "DMSans",
+fontFamilyFallback: const [
+"DMSans"
+'Poppins',
+'Inter',
+'Roboto',
+'Noto Sans',
+],
+color: AppColors.c606060,
+fontSize: 16.sp,
+fontWeight: FontWeight.w400,
+);
+static final textStylec14cFFFFFFDMSans700 = TextStyle(
+fontFamily: "DMSans",
+fontFamilyFallback: const [
+"DMSans"
+'Poppins',
+'Inter',
+'Roboto',
+'Noto Sans',
+],
+color: AppColors.cFFFFFF,
+fontSize: 14.sp,
+fontWeight: FontWeight.w700,
+);                  this is a file format you have to create data following this above format: for creating you have to use this below data (note: 1. no need to change "Fallsback" data, 2. collect only "font-family", "font-weight", "font-size" & "color or background" , without these avoid others, 3. if "font-size" will be 18 or above, instead of "textStyle" it will be "headline" into this type of data- textStylec16cFFFFFFDMSans400, 4. No need the duplicate format by using _1,_2,_3, just remove these duplicates):  font-family: DM Sans;
+
+color: #202020;
+font-size: 24px;
+font-family: Inter;
+font-weight: 600;
+line-height: 36px;
+word-wrap: break-word
+
+color: #838383;
+font-size: 12px;
+font-family: Inter;
+font-weight: 400;
+line-height: 18px;
+word-wrap: break-word
+
+color: #55AE5B;
+font-size: 16px;
+font-family: Inter;
+font-weight: 500;
+line-height: 42px;
+word-wrap: break-word
+
+color: #202020;
+font-size: 32px;
+font-family: Inter;
+font-weight: 600;
+line-height: 42px;
+word-wrap: break-word
+
+color: #565656;
+font-size: 14px;
+font-family: Inter;
+font-weight: 400;
+line-height: 16px;
+word-wrap: break-word
+
+color: white;
+font-size: 16px;
+font-family: Inter;
+font-weight: 500;
+line-height: 42px;
+word-wrap: break-word
+
+color: #838383;
+font-size: 16px;
+font-family: Inter;
+font-weight: 500;
+line-height: 42px;
+word-wrap: break-word
+
+color: #838383;
+font-size: 12px;
+font-family: Inter;
+font-weight: 500;
+line-height: 42px;
+word-wrap: break-word
+
+color: #838383;
+font-size: 12px;
+font-family: Inter;
+font-weight: 500;
+line-height: 42px;
+word-wrap: break-word
+
+color: #55AE5B;
+font-size: 12px;
+font-family: Inter;
+font-weight: 500;
+line-height: 42px;
+word-wrap: break-word
+
+color: #838383;
+font-size: 10px;
+font-family: Inter;
+font-weight: 500;
+line-height: 16.40px;
+word-wrap: break-word
+
+color: #55AE5B;
+font-size: 10px;
+font-family: Inter;
+font-weight: 500;
+text-decoration: underline;
+line-height: 16.40px;
+word-wrap: break-word
+
+color: #202020;
+font-size: 24px;
+font-family: Inter;
+font-weight: 600;
+line-height: 39.60px;
+word-wrap: break-word
+
+color: #55AE5B;
+font-size: 16px;
+font-family: Inter;
+font-weight: 600;
+line-height: 26.40px;
+word-wrap: break-word
+
+color: #202020;
+font-size: 16px;
+font-family: Inter;
+font-weight: 600;
+line-height: 26.40px;
+word-wrap: break-word
+
+color: #55AE5B;
+font-size: 16px;
+font-family: Inter;
+font-weight: 600;
+line-height: 26.40px;
+word-wrap: break-word
+
+color: #838383;
+font-size: 16px;
+font-family: Inter;
+font-weight: 500;
+line-height: 42px;
+word-wrap: break-word
+
+color: white;
+font-size: 18px;
+font-family: Inter;
+font-weight: 600;
+line-height: 29.70px;
+word-wrap: break-word
+
+color: white;
+font-size: 12px;
+font-family: Inter;
+font-weight: 500;
+line-height: 42px;
+word-wrap: break-word
+ 
+ 
+
+color: #202020;
+font-size: 18px;
+font-family: Inter;
+font-weight: 600;
+line-height: 29.70px;
+word-wrap: break-word
+
+color: #838383;
+font-size: 12px;
+font-family: Inter;
+font-weight: 400;
+line-height: 19.80px;
+
+color: #202020;
+font-size: 14px;
+font-family: Inter;
+font-weight: 600;
+line-height: 23.10px;
+word-wrap: break-word
+
+color: #838383;
+font-size: 12px;
+font-family: Inter;
+font-weight: 400;
+line-height: 19.80px;
+word-wrap: break-word
+
+color: #202020;
+font-size: 18px;
+font-family: Inter;
+font-weight: 600;
+line-height: 29.70px;
+word-wrap: break-word
+
+color: #55AE5B;
+font-size: 14px;
+font-family: Inter;
+font-weight: 400;
+word-wrap: break-word
+
+color: #838383;
+font-size: 14px;
+font-family: Inter;
+font-weight: 400;
+word-wrap: break-word
+
+color: #202020;
+font-size: 14px;
+font-family: Inter;
+font-weight: 600;
+line-height: 23.10px;
+word-wrap: break-word
+
+color: #202020;
+font-size: 14px;
+font-family: Inter;
+font-weight: 600;
+line-height: 23.10px;
+word-wrap: break-word
+..........................................
+color: #838383;
+font-size: 12px;
+font-family: Inter;
+font-weight: 400;
+line-height: 19.80px;
+word-wrap: break-word
+
+color: #202020;
+font-size: 14px;
+font-family: Inter;
+font-weight: 600;
+line-height: 23.10px;
+word-wrap: break-word
+
+color: #202020;
+font-size: 24px;
+font-family: Inter;
+font-weight: 600;
+line-height: 39.60px;
+word-wrap: break-word
+
+color: #838383;
+font-size: 18px;
+font-family: Inter;
+font-weight: 500;
+line-height: 29.70px;
+word-wrap: break-word
+
+color: #838383;
+font-size: 12px;
+font-family: Inter;
+font-weight: 500;
+line-height: 42px;
+word-wrap: break-word
+
+color: white;
+font-size: 16px;
+font-family: Inter;
+font-weight: 500;
+line-height: 42px;
+word-wrap: break-word
+
+color: #55AE5B;
+font-size: 16px;
+font-family: Inter;
+font-weight: 500;
+line-height: 42px;
+word-wrap: break-word
+
+color: #838383;
+font-size: 16px;
+font-family: Inter;
+font-weight: 500;
+line-height: 42px;
+word-wrap: break-word
+
+color: #838383;
+font-size: 12px;
+font-family: Inter;
+font-weight: 400;
+line-height: 18px;
+word-wrap: break-word
+
+color: #202020;
+font-size: 18px;
+font-family: Inter;
+font-weight: 600;
+line-height: 29.70px;
+word-wrap: break-word
+
+color: #202020;
+font-size: 14px;
+font-family: Inter;
+font-weight: 600;
+line-height: 23.10px;
+word-wrap: break-word
+
+color: white;
+font-size: 18px;
+font-family: Inter;
+font-weight: 600;
+line-height: 29.70px;
+word-wrap: break-word
+
+color: white;
+font-size: 12px;
+font-family: Inter;
+font-weight: 500;
+line-height: 42px;
+word-wrap: break-word
+
+color: #202020;
+font-size: 18px;
+font-family: Inter;
+font-weight: 600;
+line-height: 29.70px;
+word-wrap: break-word
+
+color: #838383;
+font-size: 12px;
+font-family: Inter;
+font-weight: 400;
+line-height: 19.80px;
+word-wrap: break-word
+
+color: #838383;
+font-size: 14px;
+font-family: Inter;
+font-weight: 500;
+line-height: 42px;
+word-wrap: break-word
+
+color: #202020;
+font-size: 18px;
+font-family: Inter;
+font-weight: 400;
+line-height: 29.70px;
+word-wrap: break-word
+
+color: #838383;
+font-size: 12px;
+font-family: Inter;
+font-weight: 400;
+line-height: 19.80px;
+word-wrap: break-word
+
+color: #218D6E;
+font-size: 14px;
+font-family: Poppins;
+font-weight: 400;
+word-wrap: break-word
+
+color: #000000 ;
+font-size: 16px;
+font-family: Inter;
+font-weight: 400;
+line-height: 24px;
+word-wrap: break-word
+
+color: #838383;
+font-size: 12px;
+font-family: Inter;
+font-weight: 500;
+line-height: 42px;
+word-wrap: break-word
+
+color: white;
+font-size: 12px;
+font-family: Inter;
+font-weight: 500;
+line-height: 42px;
+word-wrap: break-word
+
+please visit our "Sell Test Strips" page.
+color: #4D4D4D;
+font-size: 12px;
+font-family: Inter;
+font-weight: 400;
+line-height: 19.80px;
+word-wrap: break-word
+
+color: #202020;
+font-size: 18px;
+font-family: Inter;
+font-weight: 600;
+line-height: 29.70px;
+word-wrap: break-word
+
+color: #838383;
+font-size: 12px;
+font-family: Inter;
+font-weight: 400;
+line-height: 18px;
+word-wrap: break-word
+
+color: #838383;
+font-size: 14px;
+font-family: Inter;
+font-weight: 500;
+line-height: 42px;
+word-wrap: break-word
+
+color: white;
+font-size: 18px;
+font-family: Inter;
+font-weight: 600;
+line-height: 29.70px;
+word-wrap: break-word
+
+color: #202020;
+font-size: 23px;
+font-family: Inter;
+font-weight: 700;
+line-height: 37.95px;
+word-wrap: break-word
+
+color: #202020;
+font-size: 14px;
+font-family: Inter;
+font-weight: 500;
+line-height: 23.10px;
+word-wrap: break-word
+
+color: #202020;
+font-size: 18px;
+font-family: Inter;
+font-weight: 600;
+line-height: 29.70px;
+word-wrap: break-word
+
+color: #838383;
+font-size: 12px;
+font-family: Inter;
+font-weight: 400;
+line-height: 18px;
+word-wrap: break-word
+
+color: #FFFFFF
+font-size: 18px;
+font-family: Inter;
+font-weight: 600;
+line-height: 23.76px;
+word-wrap: break-word
+
+color: #E2E2E2;
+font-size: 12px;
+font-family: Inter;
+font-weight: 400;
+line-height: 15.84px;
+word-wrap: break-word
+
+color: #FFFFFF;
+font-size: 14px;
+font-family: Inter;
+font-weight: 400;
+line-height: 22.96px;
+word-wrap: break-word
+
+color: #FFFFFF;
+font-size: 23px;
+font-family: Inter;
+font-weight: 700;
+line-height: 37.95px;
+word-wrap: break-word
+
+color: #FFFFFF;
+font-size: 14px;
+font-family: Inter;
+font-weight: 500;
+line-height: 23.10px;
+word-wrap: break-word
+
+color: #000000;
+font-size: 12px;
+font-family: Inter;
+font-weight: 500;
+line-height: 18px;
+word-wrap: break-word
+
+color: #202020;
+font-size: 18px;
+font-family: Inter;
+font-weight: 600;
+line-height: 29.70px;
+word-wrap: break-word
+
+color: #202020;
+font-size: 16px;
+font-family: Inter;
+font-weight: 600;
+line-height: 26.40px;
+word-wrap: break-word
+
+color: #494949;
+font-size: 12px;
+font-family: Inter;
+font-weight: 400;
+line-height: 18px;
+word-wrap: break-word
+
+color: #202020;
+font-size: 14px;
+font-family: Inter;
+font-weight: 600;
+line-height: 23.10px;
+word-wrap: break-word
+
+color: #202020;
+font-size: 18px;
+font-family: Inter;
+font-weight: 600;
+line-height: 29.70px;
+word-wrap: break-word
+
+color: #838383;
+font-size: 12px;
+font-family: Inter;
+font-weight: 500;
+line-height: 19.80px;
+word-wrap: break-word
+
+color: #838383;
+font-size: 12px;
+font-family: Inter;
+font-weight: 500;
+line-height: 19.80px;
+word-wrap: break-word
+
+color: #838383;
+font-size: 12px;
+font-family: Inter;
+font-weight: 500;
+line-height: 19.80px;
+word-wrap: break-word
+
+color: #202020;
+font-size: 14px;
+font-family: Inter;
+font-weight: 600;
+line-height: 23.10px;
+word-wrap: break-word
+
+color: #838383;
+font-size: 14px;
+font-family: Inter;
+font-weight: 500;
+line-height: 23.10px;
+word-wrap: break-word
+
+color: #000000;
+font-size: 14px;
+font-family: Inter;
+font-weight: 500;
+line-height: 23.10px;
+word-wrap: break-word
+
+color: #000000;
+font-size: 16px;
+font-family: Inter;
+font-weight: 500;
+line-height: 26.40px;
+word-wrap: break-word
+
+color: white;
+font-size: 16px;
+font-family: Inter;
+font-weight: 500;
+line-height: 42px;
+word-wrap: break-word
+
+color: #838383;
+font-size: 14px;
+font-family: Inter;
+font-weight: 500;
+line-height: 23.10px;
+word-wrap: break-word
+
+color: #838383;
+font-size: 16px;
+font-family: Inter;
+font-weight: 500;
+line-height: 42px;
+word-wrap: break-word
+
+color: #838383;
+font-size: 18px;
+font-family: Inter;
+font-weight: 500;
+line-height: 29.70px;
+word-wrap: break-word
+
+color: #FF5630;
+font-size: 18px;
+font-family: Inter;
+font-weight: 500;
+line-height: 29.70px;
+word-wrap: break-word
+
+color: #838383;
+font-size: 14px;
+font-family: Inter;
+font-weight: 500;
+line-height: 42px;
+word-wrap: break-word
+
+color: #202020;
+font-size: 18px;
+font-family: Inter;
+font-weight: 600;
+line-height: 29.70px;
+word-wrap: break-word
+
+color: #838383;
+font-size: 14px;
+font-family: Inter;
+font-weight: 500;
+line-height: 23.10px;
+word-wrap: break-word
+
+color: #202020;
+font-size: 14px;
+font-family: Inter;
+font-weight: 600;
+line-height: 23.10px;
+word-wrap: break-word
+
+
+color: #202020;
+font-size: 18px;
+font-family: Inter;
+font-weight: 600;
+line-height: 29.70px;
+word-wrap: break-word
+
+color: #202020;
+font-size: 18px;
+font-family: Inter;
+font-weight: 600;
+line-height: 29.70px;
+
+color: #838383;
+font-size: 12px;
+font-family: Inter;
+font-weight: 400;
+line-height: 19.80px;
+word-wrap: break-word
+
+color: #202020;
+font-size: 18px;
+font-family: Inter;
+font-weight: 600;
+line-height: 29.70px;
+
+color: #838383;
+font-size: 12px;
+font-family: Inter;
+font-weight: 400;
+line-height: 19.80px;
+word-wrap: break-word
+
+color: #202020;
+font-size: 18px;
+font-family: Inter;
+font-weight: 600;
+line-height: 29.70px;
+
+color: #838383;
+font-size: 12px;
+font-family: Inter;
+font-weight: 400;
+line-height: 19.80px;
+word-wrap: break-word
+
+color: #202020;
+font-size: 32px;
+font-family: Inter;
+font-weight: 600;
+line-height: 42px;
+word-wrap: break-word
+
+color: #565656;
+font-size: 14px;
+font-family: Inter;
+font-weight: 400;
+line-height: 16px;
+
+color: #838383;
+font-size: 12px;
+font-family: Inter;
+font-weight: 500;
+line-height: 16.80px;
+word-wrap: break-word
+
+color: #55AE5B;
+font-size: 12px;
+font-family: Inter;
+font-weight: 500;
+text-decoration: underline;
+line-height: 16.80px;
+word-wrap: break-word
+
+color: #55AE5B;
+font-size: 12px;
+font-family: Inter;
+font-weight: 500;
+line-height: 42px;
+word-wrap: break-word

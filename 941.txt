@@ -1,0 +1,8154 @@
+// 9:41
+color: #191B21;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// William Anderson
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Good morning!
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Today's Lesson
+color: white;
+ font-size: 20px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 28px;
+ word-wrap: break-word
+---
+// Mindful Eating Basics
+color: white;
+ font-size: 16px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// 15 Mins
+color: white;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 300;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Start Lesson
+color: white;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Start Lesson
+color: white;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Daily Check-ins
+color: #0F1215;
+ font-size: 20px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 28px;
+ word-wrap: break-word
+---
+// Nutrition
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// 70%
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Sleep
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// 70%
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Movement
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// 70%
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Mental Wellbeing
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// 70%
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+// Today  7:30pm
+color: #0F1215;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Evening Reflection
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Had a peaceful morning meditation followed by a healthy breakfast. Feeling centered and ready for the day ahead...
+color: #7E7E7E;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+// Tomorrow  8:00am
+color: #0F1215;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Morning Goals
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Plan to tackle priorities after a workout and smoothie. Excited for a productive day!
+color: #7E7E7E;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+
+// Today  7:30pm
+color: #0F1215;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Nutrition Reflection
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Had a peaceful morning meditation followed by a healthy breakfast. Feeling centered and ready for the day ahead...
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// My Journal
+color: #0F1215;
+ font-size: 24px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 36px;
+ word-wrap: break-word
+---
+// June ,2025
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// 18
+color: #0F1215;
+ font-size: 14px;
+ font-family: Roboto;
+ font-weight: 400;
+ line-height: 21px;
+ word-wrap: break-word
+---
+// Mo
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 300;
+ line-height: 18px;
+ word-wrap: break-word
+---
+// 19
+color: #0F1215;
+ font-size: 14px;
+ font-family: Roboto;
+ font-weight: 400;
+ line-height: 21px;
+ word-wrap: break-word
+---
+// Tu
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 300;
+ line-height: 18px;
+ word-wrap: break-word
+---
+// 20
+color: #0F1215;
+ font-size: 14px;
+ font-family: Roboto;
+ font-weight: 400;
+ line-height: 21px;
+ word-wrap: break-word
+---
+// Wed
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 300;
+ line-height: 18px;
+ word-wrap: break-word
+---
+// 21
+color: #08233E;
+ font-size: 14px;
+ font-family: Roboto;
+ font-weight: 400;
+ line-height: 21px;
+ word-wrap: break-word
+---
+// Th
+color: white;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 18px;
+ word-wrap: break-word
+---
+// 22
+color: #0F1215;
+ font-size: 14px;
+ font-family: Roboto;
+ font-weight: 400;
+ line-height: 21px;
+ word-wrap: break-word
+---
+// Fr
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 300;
+ line-height: 18px;
+ word-wrap: break-word
+---
+// 23
+color: #0F1215;
+ font-size: 14px;
+ font-family: Roboto;
+ font-weight: 400;
+ line-height: 21px;
+ word-wrap: break-word
+---
+// Sa
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 300;
+ line-height: 18px;
+ word-wrap: break-word
+---
+// 24
+color: #0F1215;
+ font-size: 14px;
+ font-family: Roboto;
+ font-weight: 400;
+ line-height: 21px;
+ word-wrap: break-word
+---
+// Su
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 300;
+ line-height: 18px;
+ word-wrap: break-word
+---
+// All Entries
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 32.80px;
+ word-wrap: break-word
+---
+// 9:41
+color: #191B21;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+
+// 9:41
+color: #191B21;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// All Entires
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Search entries
+color: #7E7E7E;
+ font-size: 16px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 26.24px;
+ word-wrap: break-word
+---
+// Today  7:30pm
+color: #0F1215;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Evening Reflection
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Had a peaceful morning meditation followed by a healthy breakfast. Feeling centered and ready for the day ahead...
+color: #7E7E7E;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Today  7:30pm
+color: #0F1215;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Evening Reflection
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Had a peaceful morning meditation followed by a healthy breakfast. Feeling centered and ready for the day ahead...
+color: #7E7E7E;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Tomorrow  8:00am
+color: #0F1215;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Morning Goals
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Plan to tackle priorities after a workout and smoothie. Excited for a productive day!
+color: #7E7E7E;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+
+// New Journey  Entry
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 500;
+ word-wrap: break-word
+---
+// How are you feeling?
+color: #0F1215;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Choose category (optional)
+color: #0F1215;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Nutrition
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Sleep
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Movement
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Mind
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Question no 1
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// save Entry
+color: white;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+// How are you feeling?
+color: #0F1215;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Choose category (optional)
+color: #0F1215;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Nutrition
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Sleep
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Movement
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Mind
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Question no 1
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ word-wrap: break-word
+// New Journey  Entry
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 500;
+ word-wrap: break-word
+// save Entry
+color: white;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+// 9:41
+color: #191B21;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Education Library
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// All
+color: white;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Bookmarked
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Foundations of Fitness and Wellness
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Article · 3 min
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Holistic Health: A Comprehensive Guide
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Article · 4 min
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Exploring Wellness Through User Insights
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Article · 5 min
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Effective Techniques for Wellness Prototyping
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Vedio · 6 min
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word// 9:41
+color: #191B21;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Education Library
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// All
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Bookmarked
+color: white;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Content Strategy Fundamentals
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Article · 3 min
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Design Thinking: An Overview
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Article · 4 min
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// User Research Techniques
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Article · 5 min
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Prototyping Best Practices
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Article · 6 min
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word// Unlock Premium Content
+color: #0F1215;
+ font-size: 24px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 36px;
+ word-wrap: break-word
+---
+// Subscribe to access all lessons and get personalized guidance
+color: #7E7E7E;
+ font-size: 16px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Upgrade Premium
+color: white;
+ font-size: 18px;
+ font-family: Gotham Rounded;
+ font-weight: 350;
+ line-height: 27px;
+ word-wrap: break-word// New Journal
+color: #0F1215;
+ font-size: 24px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 36px;
+ word-wrap: break-word// June ,2025
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word// Choose category (optional)
+color: #0F1215;
+ font-size: 16px;
+ font-family: Poppins;
+ font-weight: 400;
+ word-wrap: break-word// Choose category (optional)
+color: #0F1215;
+ font-size: 16px;
+ font-family: Poppins;
+ font-weight: 400;
+ word-wrap: break-word// Sleep
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word// What did you eat today?
+color: #0F1215;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Any cravings today?
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// How healthy were your meals?
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Any nutrition win today?
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word// 9:41
+color: #191B21;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Tutorials
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Foundations of Fitness and Wellness
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Article · 3 min
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// The Importance of Sleep Quality
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Sleep is not just about getting enough hours of rest. The quality of your sleep plays a crucial role in your overall well-being, affecting everything from your mood and energy levels to your cognitive function and physical health.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Remember These Points
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// • Maintain a consistent sleep schedule.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Keep your bedroom cool and dark.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Create a relaxing bedtime routine.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Avoid screens before bedtime.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word// 9:41
+color: #191B21;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Tutorials
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Foundations of Fitness and Wellness
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Article · 3 min
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// The Importance of Sleep Quality
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Sleep is not just about getting enough hours of rest. The quality of your sleep plays a crucial role in your overall well-being, affecting everything from your mood and energy levels to your cognitive function and physical health.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Remember These Points
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// • Maintain a consistent sleep schedule.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Keep your bedroom cool and dark.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Create a relaxing bedtime routine.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Avoid screens before bedtime.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word// Message
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word
+---
+// Jordan Mitchell
+color: #0F1215;
+ font-size: 18px;
+ font-family: Roboto;
+ font-weight: 600;
+ word-wrap: break-word
+---
+// 9:50
+color: #0F1215;
+ font-size: 15px;
+ font-family: Matt_Trial;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word
+---
+// Your AI Companion Here to Help, Anytime! you can discus here for your pet health & foods
+color: #57606D;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word// Jordan Mitchell
+color: #0F1215;
+ font-size: 18px;
+ font-family: Roboto;
+ font-weight: 600;
+ word-wrap: break-word// Jordan Mitchell
+color: #0F1215;
+ font-size: 18px;
+ font-family: Roboto;
+ font-weight: 600;
+ word-wrap: break-word// Hi, I’m worried about my dog’s health. Can you help?
+color: #57606D;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word
+---
+// Of course! I’d be happy to help. What seems to be going on with your dog?
+color: var(--white, white);
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word
+---
+// It's been going on for about 3 days now, and he’s been a bit more restless, but no vomiting or diarrhea
+color: #57606D;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word
+---
+// That could be a sign of something, but it’s important to look at the bigger picture. How long has this been happening? Has he had any other changes, like vomiting, diarrhea, or a change in behavior?
+color: var(--white, white);
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word
+---
+// He’s been acting a bit lethargic lately, and I’ve noticed he’s not eating as much as usual. Should I be concerned?
+color: #57606D;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word
+---
+// Message
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word
+---
+// 9:50
+color: #0F1215;
+ font-size: 15px;
+ font-family: Matt_Trial;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word
+---
+// Jordan Mitchell
+color: #0F1215;
+ font-size: 18px;
+ font-family: Roboto;
+ font-weight: 600;
+ word-wrap: break-word// Message
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word// Your AI Companion Here to Help, Anytime! you can discus here for your pet health & foods
+color: #57606D;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word// Jordan Mitchell
+color: #0F1215;
+ font-size: 18px;
+ font-family: Roboto;
+ font-weight: 600;
+ word-wrap: break-word// 9:41
+color: #191B21;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Goals
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Goal title
+color: black;
+ font-size: 16px;
+ font-family: Poppins;
+ font-weight: 500;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Enter your goal
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Add more description
+color: black;
+ font-size: 16px;
+ font-family: Poppins;
+ font-weight: 500;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Write Here.....
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Wellness  pillqrs
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 28px;
+ word-wrap: break-word
+---
+// Nutrition
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+//  Sleep
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// Movem....
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// Mental.... 
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+//  Frequency
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 28px;
+ word-wrap: break-word
+---
+// Daily
+color: white;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Weekly
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Monthly
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Add to Daily Task List
+color: black;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Start Date
+color: black;
+ font-size: 16px;
+ font-family: Poppins;
+ font-weight: 500;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Today
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// End Date (Optional)
+color: black;
+ font-size: 16px;
+ font-family: Poppins;
+ font-weight: 500;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Select date
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Add more description
+color: black;
+ font-size: 16px;
+ font-family: Poppins;
+ font-weight: 500;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Write Here.....
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Save Goals
+color: white;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 19.60px;
+ word-wrap: break-word// 9:41
+color: #191B21;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// My Goals
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// All
+color: white;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Active
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Completed
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Devid added a new goal for you
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// View details
+color: #5080BE;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Take a 10-minute walk in nature
+color: #0F1215;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 25.20px;
+ word-wrap: break-word
+---
+// Nutrition
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// Weekly
+color: #5080BE;
+ font-size: 10px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 14px;
+ word-wrap: break-word
+---
+// 2 of 3 weeks
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// 67%
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Mark as Done
+color: #0F1215;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Take a 10-minute walk in nature
+color: #0F1215;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 25.20px;
+ word-wrap: break-word
+---
+//  Sleep
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// Weekly
+color: #5080BE;
+ font-size: 10px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 14px;
+ word-wrap: break-word
+---
+// 2 of 3 weeks
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// 67%
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Mark as Done
+color: #0F1215;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Take a 10-minute walk in nature
+color: #0F1215;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 25.20px;
+ word-wrap: break-word
+---
+// Movement
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// Weekly
+color: #5080BE;
+ font-size: 10px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 14px;
+ word-wrap: break-word
+---
+// 2 of 3 weeks
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// 67%
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Mark as Done
+color: #0F1215;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Practice 5-minute mindfulness
+color: #0F1215;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 25.20px;
+ word-wrap: break-word
+---
+// Mental well-being
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// Daily
+color: #5080BE;
+ font-size: 10px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 14px;
+ word-wrap: break-word
+---
+// 5 of 7 days
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// 70%
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Mark as Done
+color: #0F1215;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Practice 5-minute mindfulness
+color: #0F1215;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 25.20px;
+ word-wrap: break-word
+---
+//  Completed
+color: #00BA00;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Take a brisk 10-minute walk
+color: #0F1215;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 25.20px;
+ word-wrap: break-word
+---
+//  Completed
+color: #00BA00;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word// 9:41
+color: #191B21;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// My Goals
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// All
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Active
+color: white;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Completed
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Take a 10-minute walk in nature
+color: #0F1215;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 25.20px;
+ word-wrap: break-word
+---
+// Nutrition
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// Weekly
+color: #5080BE;
+ font-size: 10px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 14px;
+ word-wrap: break-word
+---
+// 2 of 3 weeks
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// 67%
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Mark as Done
+color: #0F1215;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Take a 10-minute walk in nature
+color: #0F1215;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 25.20px;
+ word-wrap: break-word
+---
+//  Sleep
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// Weekly
+color: #5080BE;
+ font-size: 10px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 14px;
+ word-wrap: break-word
+---
+// 2 of 3 weeks
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// 67%
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Mark as Done
+color: #0F1215;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Take a 10-minute walk in nature
+color: #0F1215;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 25.20px;
+ word-wrap: break-word
+---
+// Movement
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// Weekly
+color: #5080BE;
+ font-size: 10px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 14px;
+ word-wrap: break-word
+---
+// 2 of 3 weeks
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// 67%
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Mark as Done
+color: #0F1215;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Practice 5-minute mindfulness
+color: #0F1215;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 25.20px;
+ word-wrap: break-word
+---
+// maental well-being
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// Daily
+color: #5080BE;
+ font-size: 10px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 14px;
+ word-wrap: break-word
+---
+// 5 of 7 days
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// 70%
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Mark as Done
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word// 9:41
+color: #191B21;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// My Goals
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// All
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Active
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Completed
+color: white;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Eat Balanced Meals
+color: #0F1215;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 25.20px;
+ word-wrap: break-word
+---
+//  Completed
+color: #00BA00;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Get 7-9 Hours of Sleep
+color: #0F1215;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 25.20px;
+ word-wrap: break-word
+---
+//  Completed
+color: #00BA00;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Move Daily
+color: #0F1215;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 25.20px;
+ word-wrap: break-word
+---
+//  Completed
+color: #00BA00;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Practice Mindfulness Daily
+color: #0F1215;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 25.20px;
+ word-wrap: break-word
+---
+//  Completed
+color: #00BA00;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word// 9:41
+color: #191B21;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Goals Details
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Your coach Maria has added a new goal to support your progress!
+color: white;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Practice 5-minute mindfulness
+color: #0F1215;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 29.52px;
+ word-wrap: break-word
+---
+// Assigned By            :
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Coach Maria
+color: #0F1215;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Wellness Pillar        :
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Mental Well-being
+color: #0F1215;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 500;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Frequency               :
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Daily
+color: #0F1215;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Started Date           :
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// June 18
+color: #0F1215;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Add to 
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Daily
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ text-transform: lowercase;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+//  
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Task
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ text-transform: lowercase;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+//    :
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Daily
+color: #0F1215;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// "This small practice can ground your mornings. Try it before breakfast."
+color: #0F1215;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Accept Goals
+color: white;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Massage coach
+color: #5080BE;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 19.60px;
+ word-wrap: break-word// 9:41
+color: #191B21;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Your Wellness Journey
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 28px;
+ word-wrap: break-word
+---
+// Visualize your journey by tracking your progress with engaging charts and graphs. This way, you can easily see how far you've come and what goals are still ahead.
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Daily
+color: white;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Weekly
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Monthly
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// 85%
+color: #454459;
+ font-size: 25px;
+ font-family: Nunito Sans;
+ font-weight: 700;
+ line-height: 30px;
+ word-wrap: break-word
+---
+//  ovarall Sccore
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 14.40px;
+ word-wrap: break-word
+---
+// Progress
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Wellness  pillers
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 28px;
+ word-wrap: break-word
+---
+// Nutrition
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// 70%
+color: #4FB976;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+//  Sleep
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// 70%
+color: #4FB976;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Movement
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// 70%
+color: #FF4C4C;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Mental W.. 
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// 70%
+color: #FF4C4C;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Your Movement score has 
+color: #0F1215;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// increased 12% 
+color: #2666C4;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// from last week.!
+color: #0F1215;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word// 9:41
+color: #191B21;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Your Wellness Journey
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 28px;
+ word-wrap: break-word
+---
+// Visualize your journey by tracking your progress with engaging charts and graphs. This way, you can easily see how far you've come and what goals are still ahead.
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Daily
+color: white;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Weekly
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Monthly
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// 85%
+color: #454459;
+ font-size: 25px;
+ font-family: Nunito Sans;
+ font-weight: 700;
+ line-height: 30px;
+ word-wrap: break-word
+---
+//  ovarall Sccore
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 14.40px;
+ word-wrap: break-word
+---
+// Progress
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Wellness  pillers
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 28px;
+ word-wrap: break-word
+---
+// Nutrition
+color: #4F5E78;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Nutrition
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// 70%
+color: #4FB976;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+//  Sleep
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// 70%
+color: #4FB976;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Sleep
+color: #7B8D7F;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Moveme...
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// 70%
+color: #FF4C4C;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Movement
+color: #8C8C70;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Mental W.. 
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// 70%
+color: #FF4C4C;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Nutrition
+color: #6D6687;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Your Movement score has 
+color: #0F1215;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// increased 12% 
+color: #2666C4;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// from last week.!
+color: #0F1215;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word// 9:41
+color: #191B21;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Tutorials
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Foundations of Fitness and Wellness
+color: #0F1215;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 25.20px;
+ word-wrap: break-word
+---
+// 🧠 Mental Well-being
+color: #5080BE;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// Article · 3 min
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// The Basics of Mindful Breathing
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Mindful breathing reduces anxiety, improves focus, and promotes better sleep. Many feel calmer after just a few minutes. Incorporate it into your daily routine, even for 5 minutes, while waiting in line or before meetings.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Simple Steps to Practice
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// • Sit comfortably with your back straight.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Rest your hands on your lap or knees.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Either close your eyes or keep a soft gaze.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Inhale slowly through your nose for 4 drops.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Hold your breath gently for a count of 2.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Exhale slowly through your mouth for 6 drops.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Benefits of Regular Practice
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Mindful breathing reduces anxiety, improves focus, and promotes better sleep. Many feel calmer after a few minutes. Incorporate it into your daily routine, even for just 5 minutes.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word// Foundations of Fitness and Wellness
+color: #0F1215;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 25.20px;
+ word-wrap: break-word
+---
+// 🧠 Mental Well-being
+color: #5080BE;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// Article · 3 min
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// The Basics of Mindful Breathing
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Mindful breathing reduces anxiety, improves focus, and promotes better sleep. Many feel calmer after just a few minutes. Incorporate it into your daily routine, even for 5 minutes, while waiting in line or before meetings.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Simple Steps to Practice
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// • Sit comfortably with your back straight.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Rest your hands on your lap or knees.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Either close your eyes or keep a soft gaze.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Inhale slowly through your nose for 4 drops.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Hold your breath gently for a count of 2.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Exhale slowly through your mouth for 6 drops.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Benefits of Regular Practice
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Mindful breathing reduces anxiety, improves focus, and promotes better sleep. Many feel calmer after a few minutes. Incorporate it into your daily routine, even for just 5 minutes.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word// 9:41
+color: #191B21;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Tutorials
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Foundations of Fitness and Wellness
+color: #0F1215;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 25.20px;
+ word-wrap: break-word
+---
+// 🧠 Mental Well-being
+color: #5080BE;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// Article · 3 min
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// The Basics of Mindful Breathing
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Mindful breathing reduces anxiety, improves focus, and promotes better sleep. Many feel calmer after just a few minutes. Incorporate it into your daily routine, even for 5 minutes, while waiting in line or before meetings.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Simple Steps to Practice
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// • Sit comfortably with your back straight.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Rest your hands on your lap or knees.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Either close your eyes or keep a soft gaze.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Inhale slowly through your nose for 4 drops.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Hold your breath gently for a count of 2.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Exhale slowly through your mouth for 6 drops.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Benefits of Regular Practice
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Mindful breathing reduces anxiety, improves focus, and promotes better sleep. Many feel calmer after a few minutes. Incorporate it into your daily routine, even for just 5 minutes.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word// Foundations of Fitness and Wellness
+color: #0F1215;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 25.20px;
+ word-wrap: break-word
+---
+// 🧠 Mental Well-being
+color: #5080BE;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// Audio · 3 min
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// 1:45
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// 5:30
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// The Basics of Mindful Breathing
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Mindful breathing reduces anxiety, improves focus, and promotes better sleep. Many feel calmer after just a few minutes. Incorporate it into your daily routine, even for 5 minutes, while waiting in line or before meetings.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Simple Steps to Practice
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// • Sit comfortably with your back straight.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Rest your hands on your lap or knees.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Either close your eyes or keep a soft gaze.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Inhale slowly through your nose for 4 drops.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Hold your breath gently for a count of 2.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Exhale slowly through your mouth for 6 drops.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Benefits of Regular Practice
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Mindful breathing reduces anxiety, improves focus, and promotes better sleep. Many feel calmer after a few minutes. Incorporate it into your daily routine, even for just 5 minutes.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word// Foundations of Fitness and Wellness
+color: #0F1215;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 25.20px;
+ word-wrap: break-word
+---
+// 🧠 Mental Well-being
+color: #5080BE;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// Audio · 3 min
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// 1:45
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// 5:30
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// The Basics of Mindful Breathing
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Mindful breathing reduces anxiety, improves focus, and promotes better sleep. Many feel calmer after just a few minutes. Incorporate it into your daily routine, even for 5 minutes, while waiting in line or before meetings.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Simple Steps to Practice
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// • Sit comfortably with your back straight.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Rest your hands on your lap or knees.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Either close your eyes or keep a soft gaze.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Inhale slowly through your nose for 4 drops.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Hold your breath gently for a count of 2.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Exhale slowly through your mouth for 6 drops.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Benefits of Regular Practice
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Mindful breathing reduces anxiety, improves focus, and promotes better sleep. Many feel calmer after a few minutes. Incorporate it into your daily routine, even for just 5 minutes.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word// Foundations of Fitness and Wellness
+color: #0F1215;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 25.20px;
+ word-wrap: break-word
+---
+// 🧠 Mental Well-being
+color: #5080BE;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// Audio · 3 min
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// 1:45
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// 5:30
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// The Basics of Mindful Breathing
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Mindful breathing reduces anxiety, improves focus, and promotes better sleep. Many feel calmer after just a few minutes. Incorporate it into your daily routine, even for 5 minutes, while waiting in line or before meetings.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Simple Steps to Practice
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// • Sit comfortably with your back straight.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Rest your hands on your lap or knees.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Either close your eyes or keep a soft gaze.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Inhale slowly through your nose for 4 drops.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Hold your breath gently for a count of 2.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Exhale slowly through your mouth for 6 drops.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Benefits of Regular Practice
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Mindful breathing reduces anxiety, improves focus, and promotes better sleep. Many feel calmer after a few minutes. Incorporate it into your daily routine, even for just 5 minutes.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word// 9:41
+color: #191B21;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Profile Details
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Alex Mercer
+color: #0F1215;
+ font-size: 24px;
+ font-family: Lufga;
+ font-weight: 600;
+ word-wrap: break-word
+---
+// Prioritizing balance every day
+color: #0F1215;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Chancege Coach
+color: black;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 500;
+ word-wrap: break-word
+---
+// View Coaches
+color: #0F1215;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Account & Settings
+color: black;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 500;
+ word-wrap: break-word
+---
+// Notifications Settings
+color: #0F1215;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Subscription & Billing
+color: #0F1215;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Privacy & Terms
+color: #0F1215;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Logout
+color: #DD393C;
+ font-size: 17px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 25px;
+ word-wrap: break-word// 9:41
+color: #191B21;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Notification 
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// All
+color: white;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Coach
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Reminders
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Alex Mercer
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 500;
+ word-wrap: break-word
+---
+// replied to your journal entry
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// 2h ago
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Free Trial
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 500;
+ word-wrap: break-word
+---
+// Your free trial ends tomorrow.
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// 2h ago
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Weekly Sleep Goal
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 500;
+ word-wrap: break-word
+---
+// You completed your goal! 
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// 2h ago
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Alex Mercer
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 500;
+ word-wrap: break-word
+---
+// replied to your journal entry
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// 2h ago
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Alex Mercer
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 500;
+ word-wrap: break-word
+---
+// replied to your journal entry
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// 2h ago
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Alex Mercer
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 500;
+ word-wrap: break-word
+---
+// replied to your journal entry
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// 2h ago
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word// 9:41
+color: #191B21;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Subscription & Billing
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Your plan
+color: black;
+ font-size: 18px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 25.20px;
+ word-wrap: break-word
+---
+// You're currently on the Free Plan
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Active
+color: #4CA24C;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Free
+color: #0F1215;
+ font-size: 24px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 39.36px;
+ word-wrap: break-word
+---
+// Starter 
+color: #0F1215;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// For the self-starter who wants to begin building better habits with foundational tools.
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// Daily journal tracking for all four pillars
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// Access to your basic wellness history
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// Daily journal tracking for all four pillars
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word// Free
+color: #0F1215;
+ font-size: 74px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 121.36px;
+ word-wrap: break-word
+---
+// Starter 
+color: #0F1215;
+ font-size: 32px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 52.48px;
+ word-wrap: break-word
+---
+// For the self-starter who wants to begin building better habits with foundational tools.
+color: #7E7E7E;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 32.80px;
+ word-wrap: break-word
+---
+// Daily journal tracking for all four pillars
+color: #7E7E7E;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 32.80px;
+ word-wrap: break-word
+---
+// Access to your basic wellness history
+color: #7E7E7E;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 32.80px;
+ word-wrap: break-word
+---
+// Daily journal tracking for all four pillars
+color: #7E7E7E;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 32.80px;
+ word-wrap: break-word
+---
+// Start the Free Program
+color: #0F1215;
+ font-size: 24px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 39.36px;
+ word-wrap: break-word// $99/mo
+color: white;
+ font-size: 74px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 121.36px;
+ word-wrap: break-word
+---
+// Premium Membership
+color: white;
+ font-size: 32px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 52.48px;
+ word-wrap: break-word
+---
+// For those ready to take control of their health with full coaching support and professional accountability. Includes Everything in Free.
+color: #A3AFBC;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 29.52px;
+ word-wrap: break-word
+---
+// Daily self check ins And journaling
+color: white;
+ font-size: 24px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 39.36px;
+ word-wrap: break-word
+---
+// Check-in daily on each of the pillars (from a scale from 1-100). For each check-in, you have the opportunity to journal on that particular pillar. Journal your food, movement, sleep, and stress using text or photos.
+color: #A3AFBC;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 29.52px;
+ word-wrap: break-word
+---
+// Advance Analytics
+color: white;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 32.80px;
+ word-wrap: break-word
+---
+// Pilers Curriculum
+color: white;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 32.80px;
+ word-wrap: break-word
+---
+// Daily coach check and In messaging
+color: white;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 32.80px;
+ word-wrap: break-word
+---
+// Resource database
+color: white;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 32.80px;
+ word-wrap: break-word
+---
+// Face to face calling 
+color: white;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 32.80px;
+ word-wrap: break-word
+---
+// Community
+color: white;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 32.80px;
+ word-wrap: break-word
+---
+// Start Your 7 Day Free Trial 
+color: white;
+ font-size: 24px;
+ font-family: Poppins;
+ font-weight: 600;
+ text-transform: capitalize;
+ line-height: 39.36px;
+ word-wrap: break-word// Start Your 7 Day Free Trial 
+color: white;
+ font-size: 24px;
+ font-family: Poppins;
+ font-weight: 600;
+ text-transform: capitalize;
+ line-height: 39.36px;
+ word-wrap: break-word// 9:41
+color: #191B21;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Privacy Policy
+color: #030401;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 36px;
+ word-wrap: break-word
+---
+// Welcome to our wellness app. Read this Privacy Policy to learn our practices.
+color: #0F1215;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 25px;
+ word-wrap: break-word
+---
+// Data We Collect
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 26.24px;
+ word-wrap: break-word
+---
+// When using our app, we may collect the following information:
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// Personal Information: Your name, email, profile photo, and shared journal entries.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// Usage Data: Info on app interactions, device details, and analytics on movement, sleep, nutrition, and uploads.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// How We Use Your Information
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 26.24px;
+ word-wrap: break-word
+---
+// We use your information to:
+color: #696969;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// Improve your app.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// Enhance app performance and add features as needed.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// Updates, offers, or announcements about your wellness.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// Sharing Your Information
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 26.24px;
+ word-wrap: break-word
+---
+// We do not sell your personal data for marketing. However, we may share limited information with:
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// Tools like Calendly for scheduling, Mailchimp for emails, and Firebase for storage.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// Legal authorities when required by law or to protect our rights.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// Your Rights Regarding Information
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 26.24px;
+ word-wrap: break-word
+---
+// You have the right to access, correct, or delete your personal data.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// You can request to see what data we hold about you and how it’s used.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// You can object to our processing of your personal information.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// Data Security Measures
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 26.24px;
+ word-wrap: break-word
+---
+// We implement a variety of security measures to maintain the safety of your personal data.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// Data encryption, secure servers, and regular security audits are in place.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// We also train our staff on data protection best practices.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word// Are You Sure You Want to Logout?
+color: #030401;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 30px;
+ word-wrap: break-word// Cancel
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word// Log out
+color: white;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word// 9:41
+color: #191B21;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Coach Profile
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Choose Your Pillars Coach
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 32.80px;
+ word-wrap: break-word
+---
+// Jordan Mitchell
+color: black;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 600;
+ text-transform: capitalize;
+ line-height: 29.52px;
+ word-wrap: break-word
+---
+// Denver, Colorado, USA
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ text-transform: capitalize;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// Alex brings over 7 years of experience in holistic health coaching, with a background in behavioral psychology and certified training in various wellness modalities.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// View Profile
+color: #5080BE;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 600;
+ text-transform: capitalize;
+ word-wrap: break-word
+---
+// Jordan Mitchell
+color: black;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 600;
+ text-transform: capitalize;
+ line-height: 29.52px;
+ word-wrap: break-word
+---
+// Denver, Colorado, USA
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ text-transform: capitalize;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// Alex brings over 7 years of experience in holistic health coaching, with a background in behavioral psychology and certified training in various wellness modalities.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// View Profile
+color: #5080BE;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 600;
+ text-transform: capitalize;
+ word-wrap: break-word
+---
+// Jordan Mitchell
+color: black;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 600;
+ text-transform: capitalize;
+ line-height: 29.52px;
+ word-wrap: break-word
+---
+// Denver, Colorado, USA
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ text-transform: capitalize;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// Alex brings over 7 years of experience in holistic health coaching, with a background in behavioral psychology and certified training in various wellness modalities.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// View Profile
+color: #5080BE;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 600;
+ text-transform: capitalize;
+ word-wrap: break-word
+---
+// Jordan Mitchell
+color: black;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 600;
+ text-transform: capitalize;
+ line-height: 29.52px;
+ word-wrap: break-word
+---
+// Denver, Colorado, USA
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ text-transform: capitalize;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// Alex brings over 7 years of experience in holistic health coaching, with a background in behavioral psychology and certified training in various wellness modalities.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// View Profile
+color: #5080BE;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 600;
+ text-transform: capitalize;
+ word-wrap: break-word
+---
+// Explore expert led support in nutrition, movement, sleep, and mindset all tailored to your unique goals.
+color: #827979;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word// 9:41
+color: #191B21;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Coach  Details
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Jordan Mitchell
+color: black;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 600;
+ text-transform: capitalize;
+ line-height: 32.80px;
+ word-wrap: break-word
+---
+// Denver, Colorado, USA
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ text-transform: capitalize;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// 95% Match
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ text-transform: capitalize;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// Holistic Health Mentor
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ text-transform: capitalize;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// Behavior Change Specialist
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ text-transform: capitalize;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// For the last 7 years, Jordan has been a holistic health coach, blending their psychology know-how with a passion for plant-based nutrition. They’re all about helping busy professionals and parents build lasting habits around food, fitness, and mindset. People love Jordan for their friendly vibe and smart goal-setting tips.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// Coaching Style
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 28px;
+ word-wrap: break-word
+---
+// Certified Wellness Coach
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// 500+ Hour Yoga Instructor
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// Mindfulness Meditation Specialist
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// Experience
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 600;
+ text-transform: capitalize;
+ word-wrap: break-word
+---
+// Strength & conditioning
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// Habit formation
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// Post injury fitness
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// Loves
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 600;
+ text-transform: capitalize;
+ word-wrap: break-word
+---
+// Hiking trails & nature
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// Playing acoustic guitar
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// Cooking plant based meals
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word// Anything else we should know ?
+color: white;
+ font-size: 32px;
+ font-family: Lufga;
+ font-weight: 600;
+ word-wrap: break-word// Wright here
+color: #9CA5AD;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word// Skip
+color: white;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20.80px;
+ word-wrap: break-word// 00/300
+color: #9CA5AD;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ text-transform: capitalize;
+ word-wrap: break-word// Do you have any health concerns we should be aware of ?
+color: black;
+ font-size: 32px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 52.48px;
+ word-wrap: break-word
+---
+// Ask question
+color: #9CA5AD;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// 00/300
+color: #9CA5AD;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ text-transform: capitalize;
+ word-wrap: break-word
+---
+// Anything else we should know ?
+color: black;
+ font-size: 32px;
+ font-family: Lufga;
+ font-weight: 600;
+ word-wrap: break-word
+---
+// Wright here
+color: #9CA5AD;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// 00/300
+color: #9CA5AD;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ text-transform: capitalize;
+ word-wrap: break-word
+---
+// Skip
+color: #0F1215;
+ font-size: 24px;
+ font-family: Lufga;
+ font-weight: 600;
+ text-transform: capitalize;
+ word-wrap: break-word
+---
+// Get Started
+color: white;
+ font-size: 24px;
+ font-family: Lufga;
+ font-weight: 600;
+ text-transform: capitalize;
+ word-wrap: break-word// Describe your ideal coach
+color: white;
+ font-size: 32px;
+ font-family: Lufga;
+ font-weight: 600;
+ word-wrap: break-word// Has a sense of humor
+color: #939393;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word// Goes the extra mile to personalize my experience
+color: #939393;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word// Select all
+color: white;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 600;
+ word-wrap: break-word// Skip
+color: white;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20.80px;
+ word-wrap: break-word// Describe your ideal coach
+color: black;
+ font-size: 32px;
+ font-family: Lufga;
+ font-weight: 600;
+ word-wrap: break-word
+---
+// Knows when to give me tough love
+color: #9CA5AD;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// High energy
+color: #9CA5AD;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Drill sergeant
+color: #9CA5AD;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Always positive
+color: #9CA5AD;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Calm, cool and collected
+color: #9CA5AD;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Analytical and results-driven
+color: #9CA5AD;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Strictly business
+color: #9CA5AD;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Goes the extra mile to personalize my experience
+color: #9CA5AD;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Has a sense of humor
+color: #9CA5AD;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Select all
+color: black;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 600;
+ word-wrap: break-word
+---
+// Next
+color: white;
+ font-size: 24px;
+ font-family: Lufga;
+ font-weight: 600;
+ text-transform: capitalize;
+ word-wrap: break-word// Who do you prefer?
+color: white;
+ font-size: 32px;
+ font-family: Lufga;
+ font-weight: 600;
+ word-wrap: break-word// Male coach
+color: #939393;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word// Female coach
+color: white;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 500;
+ word-wrap: break-word// Skip
+color: white;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20.80px;
+ word-wrap: break-word// Who do you prefer?
+color: black;
+ font-size: 32px;
+ font-family: Lufga;
+ font-weight: 600;
+ word-wrap: break-word
+---
+// Male coach
+color: #9CA5AD;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Female coach
+color: black;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 600;
+ word-wrap: break-word
+---
+// Next
+color: white;
+ font-size: 24px;
+ font-family: Lufga;
+ font-weight: 600;
+ text-transform: capitalize;
+ word-wrap: break-word// Which wellness pillar needs your focus right now?
+color: white;
+ font-size: 32px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 46.40px;
+ word-wrap: break-word
+---
+// Movement
+color: #939393;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Select All
+color: white;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 500;
+ word-wrap: break-word
+---
+// Skip
+color: white;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20.80px;
+ word-wrap: break-word// Which wellness pillar needs your focus right now?
+color: white;
+ font-size: 32px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 46.40px;
+ word-wrap: break-word
+---
+// Nutrition
+color: #939393;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Sleep
+color: #939393;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Stress management
+color: #939393;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Skip
+color: white;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20.80px;
+ word-wrap: break-word// Which wellness pillar needs your focus right now?
+color: black;
+ font-size: 32px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 52.48px;
+ word-wrap: break-word
+---
+// Nutrition
+color: #9CA5AD;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Sleep
+color: #9CA5AD;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Stress management
+color: #9CA5AD;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Movement  
+color: #9CA5AD;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Select all
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 600;
+ word-wrap: break-word
+---
+// Next
+color: white;
+ font-size: 24px;
+ font-family: Lufga;
+ font-weight: 600;
+ text-transform: capitalize;
+ word-wrap: break-word// Which wellness pillar are you thriving in?
+color: white;
+ font-size: 32px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 46.40px;
+ word-wrap: break-word
+---
+// Movement
+color: #939393;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Select All
+color: white;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 500;
+ word-wrap: break-word
+---
+// Skip
+color: white;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20.80px;
+ word-wrap: break-word// Which wellness pillar are you thriving in?
+color: white;
+ font-size: 32px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 46.40px;
+ word-wrap: break-word
+---
+// Nutrition
+color: #939393;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Sleep
+color: #939393;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Stress management
+color: #939393;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Skip
+color: white;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20.80px;
+ word-wrap: break-word// Which wellness pillar are you thriving in?
+color: black;
+ font-size: 32px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 52.48px;
+ word-wrap: break-word
+---
+// Nutrition
+color: #9CA5AD;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Sleep
+color: #9CA5AD;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Stress management
+color: #9CA5AD;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Movement  
+color: #9CA5AD;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Select all
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 600;
+ word-wrap: break-word
+---
+// Next
+color: white;
+ font-size: 24px;
+ font-family: Lufga;
+ font-weight: 600;
+ text-transform: capitalize;
+ word-wrap: break-word// What has gotten in the way of your wellness journey?
+color: white;
+ font-size: 32px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 46.40px;
+ word-wrap: break-word
+---
+// Too busy
+color: #939393;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// None of these
+color: #939393;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Select All
+color: white;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 500;
+ word-wrap: break-word
+---
+// Skip
+color: white;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20.80px;
+ word-wrap: break-word// What has gotten in the way of your wellness journey?
+color: white;
+ font-size: 32px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 46.40px;
+ word-wrap: break-word
+---
+// Lost motivation
+color: #939393;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Not enough accountability
+color: #939393;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Discouraged after not seeing results
+color: #939393;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Program not enjoyable
+color: #939393;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Skip
+color: white;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20.80px;
+ word-wrap: break-word// What has gotten in the way of your wellness journey?
+color: black;
+ font-size: 32px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 52.48px;
+ word-wrap: break-word
+---
+// Lost motivation
+color: #9CA5AD;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Not enough accountability
+color: #9CA5AD;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Discouraged after not seeing results
+color: #9CA5AD;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Program not enjoyable
+color: #9CA5AD;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Too busy
+color: #9CA5AD;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// None of these 
+color: #9CA5AD;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Select All
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 500;
+ word-wrap: break-word
+---
+// Next
+color: white;
+ font-size: 24px;
+ font-family: Lufga;
+ font-weight: 600;
+ text-transform: capitalize;
+ word-wrap: break-word// What is your top wellness goal?
+color: white;
+ font-size: 32px;
+ font-family: Lufga;
+ font-weight: 600;
+ word-wrap: break-word
+---
+// Improve nutrition
+color: #939393;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Improve sleep
+color: #939393;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Improve stress management
+color: white;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 500;
+ word-wrap: break-word
+---
+// Improve movement  
+color: #939393;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Skip
+color: white;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20.80px;
+ word-wrap: break-word// What is your top wellness goal?
+color: black;
+ font-size: 32px;
+ font-family: Lufga;
+ font-weight: 600;
+ word-wrap: break-word
+---
+// Improve nutrition
+color: #9CA5AD;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Improve sleep
+color: #9CA5AD;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Improve stress management
+color: black;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 500;
+ word-wrap: break-word
+---
+// Improve movement  
+color: #9CA5AD;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Next
+color: white;
+ font-size: 24px;
+ font-family: Lufga;
+ font-weight: 600;
+ text-transform: capitalize;
+ word-wrap: break-word// Basic demographics
+color: white;
+ font-size: 32px;
+ font-family: Lufga;
+ font-weight: 600;
+ word-wrap: break-word
+---
+// Name
+color: #939393;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Gender
+color: #939393;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Age
+color: #939393;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Skip
+color: white;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20.80px;
+ word-wrap: break-word// Basic demographics
+color: black;
+ font-size: 32px;
+ font-family: Lufga;
+ font-weight: 600;
+ word-wrap: break-word
+---
+// Name
+color: #9CA5AD;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Gender
+color: #9CA5AD;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Age
+color: #9CA5AD;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Next
+color: white;
+ font-size: 24px;
+ font-family: Lufga;
+ font-weight: 600;
+ text-transform: capitalize;
+ word-wrap: break-word// Welcome to Pillars. We're glad you're here <br/>
+color: white;
+ font-size: 32px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 48px;
+ word-wrap: break-word
+---
+// Let's find the best pillars coach for you with this 3 minute quiz.
+color: #E4E4E4;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 26.24px;
+ word-wrap: break-word
+---
+// Let’s go
+color: white;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 20.80px;
+ word-wrap: break-word// Welcome to Pillars. We're glad you're here <br/>
+color: black;
+ font-size: 56px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 84px;
+ word-wrap: break-word
+---
+// Let's find the best pillars coach for you with this 3-minute quiz.
+color: #7E7E7E;
+ font-size: 24px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 39.36px;
+ word-wrap: break-word
+---
+// Next
+color: white;
+ font-size: 24px;
+ font-family: Lufga;
+ font-weight: 600;
+ text-transform: capitalize;
+ word-wrap: break-word// 9:41
+color: #191B21;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Your Wellness Journey
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 28px;
+ word-wrap: break-word
+---
+// Visualize your journey by tracking your progress with engaging charts and graphs. This way, you can easily see how far you've come and what goals are still ahead.
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Daily
+color: white;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Weekly
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Monthly
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// 85%
+color: #454459;
+ font-size: 25px;
+ font-family: Nunito Sans;
+ font-weight: 700;
+ line-height: 30px;
+ word-wrap: break-word
+---
+//  ovarall Sccore
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 14.40px;
+ word-wrap: break-word
+---
+// Progress
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Wellness  pillers
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 28px;
+ word-wrap: break-word
+---
+// Nutrition
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// 70%
+color: #4FB976;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+//  Sleep
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// 70%
+color: #4FB976;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Movement
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// 70%
+color: #FF4C4C;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Mental W.. 
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// 70%
+color: #FF4C4C;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Your Movement score has 
+color: #0F1215;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// increased 12% 
+color: #2666C4;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// from last week.!
+color: #0F1215;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word// 9:41
+color: #191B21;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Your Wellness Journey
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 28px;
+ word-wrap: break-word
+---
+// Visualize your journey by tracking your progress with engaging charts and graphs. This way, you can easily see how far you've come and what goals are still ahead.
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Daily
+color: white;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Weekly
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Monthly
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// 85%
+color: #454459;
+ font-size: 25px;
+ font-family: Nunito Sans;
+ font-weight: 700;
+ line-height: 30px;
+ word-wrap: break-word
+---
+//  ovarall Sccore
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 14.40px;
+ word-wrap: break-word
+---
+// Progress
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Wellness  pillers
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 28px;
+ word-wrap: break-word
+---
+// Nutrition
+color: #4F5E78;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Nutrition
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// 70%
+color: #4FB976;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+//  Sleep
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// 70%
+color: #4FB976;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Sleep
+color: #7B8D7F;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Moveme...
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// 70%
+color: #FF4C4C;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Movement
+color: #8C8C70;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Mental W.. 
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// 70%
+color: #FF4C4C;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Nutrition
+color: #6D6687;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Your Movement score has 
+color: #0F1215;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// increased 12% 
+color: #2666C4;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// from last week.!
+color: #0F1215;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word// Foundations of Fitness and Wellness
+color: #0F1215;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 25.20px;
+ word-wrap: break-word
+---
+// 🧠 Mental Well-being
+color: #5080BE;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// Audio · 3 min
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// 1:45
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// 5:30
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// The Basics of Mindful Breathing
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Mindful breathing reduces anxiety, improves focus, and promotes better sleep. Many feel calmer after just a few minutes. Incorporate it into your daily routine, even for 5 minutes, while waiting in line or before meetings.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Simple Steps to Practice
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// • Sit comfortably with your back straight.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Rest your hands on your lap or knees.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Either close your eyes or keep a soft gaze.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Inhale slowly through your nose for 4 drops.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Hold your breath gently for a count of 2.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Exhale slowly through your mouth for 6 drops.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Benefits of Regular Practice
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Mindful breathing reduces anxiety, improves focus, and promotes better sleep. Many feel calmer after a few minutes. Incorporate it into your daily routine, even for just 5 minutes.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word// Foundations of Fitness and Wellness
+color: #0F1215;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 25.20px;
+ word-wrap: break-word
+---
+// 🧠 Mental Well-being
+color: #5080BE;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// Audio · 3 min
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// The Basics of Mindful Breathing
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Mindful breathing reduces anxiety, improves focus, and promotes better sleep. Many feel calmer after just a few minutes. Incorporate it into your daily routine, even for 5 minutes, while waiting in line or before meetings.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Simple Steps to Practice
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// • Sit comfortably with your back straight.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Rest your hands on your lap or knees.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Either close your eyes or keep a soft gaze.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Inhale slowly through your nose for 4 drops.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Hold your breath gently for a count of 2.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Exhale slowly through your mouth for 6 drops.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Benefits of Regular Practice
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Mindful breathing reduces anxiety, improves focus, and promotes better sleep. Many feel calmer after a few minutes. Incorporate it into your daily routine, even for just 5 minutes.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word// Foundations of Fitness and Wellness
+color: #0F1215;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 25.20px;
+ word-wrap: break-word
+---
+// 🧠 Mental Well-being
+color: #5080BE;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// Vedio· 3 min
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// The Basics of Mindful Breathing
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Mindful breathing reduces anxiety, improves focus, and promotes better sleep. Many feel calmer after just a few minutes. Incorporate it into your daily routine, even for 5 minutes, while waiting in line or before meetings.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Simple Steps to Practice
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// • Sit comfortably with your back straight.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Rest your hands on your lap or knees.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Either close your eyes or keep a soft gaze.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Inhale slowly through your nose for 4 drops.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Hold your breath gently for a count of 2.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Exhale slowly through your mouth for 6 drops.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Benefits of Regular Practice
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Mindful breathing reduces anxiety, improves focus, and promotes better sleep. Many feel calmer after a few minutes. Incorporate it into your daily routine, even for just 5 minutes.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// 9:41
+color: #191B21;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word// Foundations of Fitness and Wellness
+color: #0F1215;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 25.20px;
+ word-wrap: break-word
+---
+// 🧠 Mental Well-being
+color: #5080BE;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// Vedio· 3 min
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// The Basics of Mindful Breathing
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Mindful breathing reduces anxiety, improves focus, and promotes better sleep. Many feel calmer after just a few minutes. Incorporate it into your daily routine, even for 5 minutes, while waiting in line or before meetings.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Simple Steps to Practice
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// • Sit comfortably with your back straight.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Rest your hands on your lap or knees.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Either close your eyes or keep a soft gaze.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Inhale slowly through your nose for 4 drops.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Hold your breath gently for a count of 2.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Exhale slowly through your mouth for 6 drops.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Benefits of Regular Practice
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Mindful breathing reduces anxiety, improves focus, and promotes better sleep. Many feel calmer after a few minutes. Incorporate it into your daily routine, even for just 5 minutes.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// 9:41
+color: #191B21;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word// Foundations of Fitness and Wellness
+color: #0F1215;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 25.20px;
+ word-wrap: break-word
+---
+// 🧠 Mental Well-being
+color: #5080BE;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// Article · 3 min
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// The Basics of Mindful Breathing
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Mindful breathing reduces anxiety, improves focus, and promotes better sleep. Many feel calmer after just a few minutes. Incorporate it into your daily routine, even for 5 minutes, while waiting in line or before meetings.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Simple Steps to Practice
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// • Sit comfortably with your back straight.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Rest your hands on your lap or knees.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Either close your eyes or keep a soft gaze.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Inhale slowly through your nose for 4 drops.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Hold your breath gently for a count of 2.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Exhale slowly through your mouth for 6 drops.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Benefits of Regular Practice
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Mindful breathing reduces anxiety, improves focus, and promotes better sleep. Many feel calmer after a few minutes. Incorporate it into your daily routine, even for just 5 minutes.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word// 9:41
+color: #191B21;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Tutorials
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Foundations of Fitness and Wellness
+color: #0F1215;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 25.20px;
+ word-wrap: break-word
+---
+// 🧠 Mental Well-being
+color: #5080BE;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// Article · 3 min
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// The Basics of Mindful Breathing
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Mindful breathing reduces anxiety, improves focus, and promotes better sleep. Many feel calmer after just a few minutes. Incorporate it into your daily routine, even for 5 minutes, while waiting in line or before meetings.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Simple Steps to Practice
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// • Sit comfortably with your back straight.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Rest your hands on your lap or knees.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Either close your eyes or keep a soft gaze.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Inhale slowly through your nose for 4 drops.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Hold your breath gently for a count of 2.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Exhale slowly through your mouth for 6 drops.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Benefits of Regular Practice
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Mindful breathing reduces anxiety, improves focus, and promotes better sleep. Many feel calmer after a few minutes. Incorporate it into your daily routine, even for just 5 minutes.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word// Jordan Mitchell
+color: black;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 600;
+ text-transform: capitalize;
+ line-height: 32.80px;
+ word-wrap: break-word
+---
+// Denver, Colorado, USA
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ text-transform: capitalize;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// 95% Match
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ text-transform: capitalize;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// Holistic Health Mentor
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ text-transform: capitalize;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// Behavior Change Specialist
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ text-transform: capitalize;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// For the last 7 years, Jordan has been a holistic health coach, blending their psychology know-how with a passion for plant-based nutrition. They’re all about helping busy professionals and parents build lasting habits around food, fitness, and mindset. People love Jordan for their friendly vibe and smart goal-setting tips.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// Coaching Style
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 28px;
+ word-wrap: break-word
+---
+// Certified Wellness Coach
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// 500+ Hour Yoga Instructor
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// Mindfulness Meditation Specialist
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// Experience
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 600;
+ text-transform: capitalize;
+ word-wrap: break-word
+---
+// Strength & conditioning
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// Habit formation
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// Post injury fitness
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// Loves
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 600;
+ text-transform: capitalize;
+ word-wrap: break-word
+---
+// Hiking trails & nature
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// Playing acoustic guitar
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// Cooking plant based meals
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word// 9:41
+color: #191B21;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Coach  Details
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Jordan Mitchell
+color: black;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 600;
+ text-transform: capitalize;
+ line-height: 32.80px;
+ word-wrap: break-word
+---
+// Denver, Colorado, USA
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ text-transform: capitalize;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// 95% Match
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ text-transform: capitalize;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// Holistic Health Mentor
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ text-transform: capitalize;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// Behavior Change Specialist
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ text-transform: capitalize;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// For the last 7 years, Jordan has been a holistic health coach, blending their psychology know-how with a passion for plant-based nutrition. They’re all about helping busy professionals and parents build lasting habits around food, fitness, and mindset. People love Jordan for their friendly vibe and smart goal-setting tips.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// Coaching Style
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 28px;
+ word-wrap: break-word
+---
+// Certified Wellness Coach
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// 500+ Hour Yoga Instructor
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// Mindfulness Meditation Specialist
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// Experience
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 600;
+ text-transform: capitalize;
+ word-wrap: break-word
+---
+// Strength & conditioning
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// Habit formation
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// Post injury fitness
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// Loves
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 600;
+ text-transform: capitalize;
+ word-wrap: break-word
+---
+// Hiking trails & nature
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// Playing acoustic guitar
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// Cooking plant based meals
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word// 9:41
+color: #191B21;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Coach Profile
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// Choose Your Pillars Coach
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 32.80px;
+ word-wrap: break-word
+---
+// Jordan Mitchell
+color: black;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 600;
+ text-transform: capitalize;
+ line-height: 29.52px;
+ word-wrap: break-word
+---
+// Denver, Colorado, USA
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ text-transform: capitalize;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// Alex brings over 7 years of experience in holistic health coaching, with a background in behavioral psychology and certified training in various wellness modalities.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// View Profile
+color: #5080BE;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 600;
+ text-transform: capitalize;
+ word-wrap: break-word
+---
+// Jordan Mitchell
+color: black;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 600;
+ text-transform: capitalize;
+ line-height: 29.52px;
+ word-wrap: break-word
+---
+// Denver, Colorado, USA
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ text-transform: capitalize;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// Alex brings over 7 years of experience in holistic health coaching, with a background in behavioral psychology and certified training in various wellness modalities.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// View Profile
+color: #5080BE;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 600;
+ text-transform: capitalize;
+ word-wrap: break-word
+---
+// Jordan Mitchell
+color: black;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 600;
+ text-transform: capitalize;
+ line-height: 29.52px;
+ word-wrap: break-word
+---
+// Denver, Colorado, USA
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ text-transform: capitalize;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// Alex brings over 7 years of experience in holistic health coaching, with a background in behavioral psychology and certified training in various wellness modalities.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// View Profile
+color: #5080BE;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 600;
+ text-transform: capitalize;
+ word-wrap: break-word
+---
+// Jordan Mitchell
+color: black;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 600;
+ text-transform: capitalize;
+ line-height: 29.52px;
+ word-wrap: break-word
+---
+// Denver, Colorado, USA
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ text-transform: capitalize;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// Alex brings over 7 years of experience in holistic health coaching, with a background in behavioral psychology and certified training in various wellness modalities.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word
+---
+// View Profile
+color: #5080BE;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 600;
+ text-transform: capitalize;
+ word-wrap: break-word
+---
+// Explore expert led support in nutrition, movement, sleep, and mindset all tailored to your unique goals.
+color: #827979;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 22.96px;
+ word-wrap: break-word// $99/mo
+color: white;
+ font-size: 74px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 121.36px;
+ word-wrap: break-word
+---
+// Premium Membership
+color: white;
+ font-size: 32px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 52.48px;
+ word-wrap: break-word
+---
+// For those ready to take control of their health with full coaching support and professional accountability. Includes Everything in Free.
+color: #A3AFBC;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 29.52px;
+ word-wrap: break-word
+---
+// Daily self check ins And journaling
+color: white;
+ font-size: 24px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 39.36px;
+ word-wrap: break-word
+---
+// Check-in daily on each of the pillars (from a scale from 1-100). For each check-in, you have the opportunity to journal on that particular pillar. Journal your food, movement, sleep, and stress using text or photos.
+color: #A3AFBC;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 29.52px;
+ word-wrap: break-word
+---
+// Advance Analytics
+color: white;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 32.80px;
+ word-wrap: break-word
+---
+// Pilers Curriculum
+color: white;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 32.80px;
+ word-wrap: break-word
+---
+// Daily coach check and In messaging
+color: white;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 32.80px;
+ word-wrap: break-word
+---
+// Resource database
+color: white;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 32.80px;
+ word-wrap: break-word
+---
+// Face to face calling 
+color: white;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 32.80px;
+ word-wrap: break-word
+---
+// Community
+color: white;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 32.80px;
+ word-wrap: break-word
+---
+// Start Your 7 Day Free Trial 
+color: white;
+ font-size: 24px;
+ font-family: Poppins;
+ font-weight: 600;
+ text-transform: capitalize;
+ line-height: 39.36px;
+ word-wrap: break-word// William Anderson
+color: #0F1215;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 21px;
+ word-wrap: break-word
+---
+// June 20, 2025
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Daily<br/>Check-ins
+color: #0F1215;
+ font-size: 32px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 44.80px;
+ word-wrap: break-word
+---
+// Nutrition
+color: #4F5E78;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// 00% 
+color: #4F5E78;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Sleep
+color: #7B8D7F;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// 00% 
+color: #8C8C70;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Movement
+color: #8C8C70;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// 00% 
+color: #6D6687;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Nutrition
+color: #6D6687;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Your Wellness Goal
+color: #0F1215;
+ font-size: 16px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Today's Lesson
+color: white;
+ font-size: 20px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 28px;
+ word-wrap: break-word
+---
+// Get ready to start Today 
+color: white;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Start Lesson
+color: white;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Set your goal
+color: white;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// 00% 
+color: #7B8D7F;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Goal
+color: white;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 500;
+ text-transform: capitalize;
+ line-height: 19.68px;
+ word-wrap: break-word// Hunger before eating
+color: #111827;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 500;
+ word-wrap: break-word
+---
+// 1 - Not hungry
+color: #6B7280;
+ font-size: 8px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16px;
+ word-wrap: break-word
+---
+// 5
+color: #6B7280;
+ font-size: 8px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16px;
+ word-wrap: break-word
+---
+// 10 - Very hungry
+color: #6B7280;
+ font-size: 8px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16px;
+ word-wrap: break-word
+---
+// Fullness after eating
+color: #111827;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 500;
+ word-wrap: break-word
+---
+// 1 - Not satisfied
+color: #6B7280;
+ font-size: 8px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16px;
+ word-wrap: break-word
+---
+// 5
+color: #6B7280;
+ font-size: 8px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16px;
+ word-wrap: break-word
+---
+// 10 - Very hungry
+color: #6B7280;
+ font-size: 8px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16px;
+ word-wrap: break-word
+---
+// Satisfaction with eating
+color: #111827;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 500;
+ word-wrap: break-word
+---
+// 1 - Not hungry
+color: #6B7280;
+ font-size: 8px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16px;
+ word-wrap: break-word
+---
+// 5
+color: #6B7280;
+ font-size: 8px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16px;
+ word-wrap: break-word
+---
+// 10 - Very satisfied
+color: #6B7280;
+ font-size: 8px;
+ font-family: Roboto;
+ font-weight: 400;
+ line-height: 16px;
+ word-wrap: break-word
+---
+// Next
+color: white;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word// Motivation for food choices
+color: #111827;
+ font-size: 24px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 39.36px;
+ word-wrap: break-word
+---
+// Energy
+color: white;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word
+---
+// Health
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word
+---
+// Other
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word
+---
+// Cravings
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word
+---
+// Emotions
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word
+---
+// Convenience
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word
+---
+// Next
+color: white;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word// Hours slept last night
+color: #111827;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 500;
+ word-wrap: break-word
+---
+// 1 
+color: #6B7280;
+ font-size: 8px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16px;
+ word-wrap: break-word
+---
+// 12
+color: #6B7280;
+ font-size: 8px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16px;
+ word-wrap: break-word
+---
+// 24
+color: #6B7280;
+ font-size: 8px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16px;
+ word-wrap: break-word
+---
+// Sleep quality
+color: #111827;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 500;
+ word-wrap: break-word
+---
+// 1
+color: #6B7280;
+ font-size: 8px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16px;
+ word-wrap: break-word
+---
+// 5
+color: #6B7280;
+ font-size: 8px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16px;
+ word-wrap: break-word
+---
+// 10
+color: #6B7280;
+ font-size: 8px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16px;
+ word-wrap: break-word
+---
+// Felt rested this morning?
+color: #111827;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 500;
+ word-wrap: break-word
+---
+// 1
+color: #6B7280;
+ font-size: 8px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16px;
+ word-wrap: break-word
+---
+// 5
+color: #6B7280;
+ font-size: 8px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16px;
+ word-wrap: break-word
+---
+// 10
+color: #6B7280;
+ font-size: 8px;
+ font-family: Roboto;
+ font-weight: 400;
+ line-height: 16px;
+ word-wrap: break-word
+---
+// Next
+color: white;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word// Factors that affected sleep 
+color: #111827;
+ font-size: 24px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 39.36px;
+ word-wrap: break-word
+---
+// Stress
+color: white;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word
+---
+// Pets
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word
+---
+// None
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word
+---
+// Caffeine
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word
+---
+// Other
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word
+---
+// Noise
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word
+---
+// Screen time
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word
+---
+// Next
+color: white;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word// Eating driven by
+color: #111827;
+ font-size: 24px;
+ font-family: Lufga;
+ font-weight: 600;
+ word-wrap: break-word
+---
+// Physical hunger
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word
+---
+// A mix of both
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word
+---
+// Emotional reasons
+color: white;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word
+---
+// Others
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word
+---
+// Next
+color: white;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word// Used any wind-down strategies?
+color: #111827;
+ font-size: 24px;
+ font-family: Lufga;
+ font-weight: 600;
+ word-wrap: break-word
+---
+// Yes
+color: white;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word
+---
+// No 
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word// Enjoyed what you ate?
+color: #111827;
+ font-size: 24px;
+ font-family: Lufga;
+ font-weight: 600;
+ word-wrap: break-word
+---
+// Slider 1–10 (1 is not enjoy
+color: #6B7280;
+ font-size: 8px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16px;
+ word-wrap: break-word
+---
+// 5
+color: #6B7280;
+ font-size: 8px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16px;
+ word-wrap: break-word
+---
+//  10 is enjoy)
+color: #6B7280;
+ font-size: 8px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16px;
+ word-wrap: break-word
+---
+// Save
+color: white;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word//  Did you move your body today?
+color: #111827;
+ font-size: 24px;
+ font-family: Lufga;
+ font-weight: 600;
+ word-wrap: break-word
+---
+// Yes
+color: white;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word
+---
+// No 
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word// What did you do?
+color: #111827;
+ font-size: 24px;
+ font-family: Lufga;
+ font-weight: 600;
+ word-wrap: break-word
+---
+// Write here...
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+---
+// Send
+color: white;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word
+---
+// Next
+color: white;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word// Number of minutes?
+color: #111827;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 500;
+ word-wrap: break-word
+---
+// 1 
+color: #6B7280;
+ font-size: 8px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16px;
+ word-wrap: break-word
+---
+// 150
+color: #6B7280;
+ font-size: 8px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16px;
+ word-wrap: break-word
+---
+// 10
+color: #6B7280;
+ font-size: 8px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16px;
+ word-wrap: break-word
+---
+// Intensity?
+color: #111827;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 500;
+ word-wrap: break-word
+---
+// 1
+color: #6B7280;
+ font-size: 8px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16px;
+ word-wrap: break-word
+---
+// 5
+color: #6B7280;
+ font-size: 8px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16px;
+ word-wrap: break-word
+---
+// 10
+color: #6B7280;
+ font-size: 8px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16px;
+ word-wrap: break-word
+---
+// Enjoyment level?
+color: #111827;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 500;
+ word-wrap: break-word
+---
+// 1
+color: #6B7280;
+ font-size: 8px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16px;
+ word-wrap: break-word
+---
+// 5
+color: #6B7280;
+ font-size: 8px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16px;
+ word-wrap: break-word
+---
+// 10
+color: #6B7280;
+ font-size: 8px;
+ font-family: Roboto;
+ font-weight: 400;
+ line-height: 16px;
+ word-wrap: break-word
+---
+// Next
+color: white;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word// Motivation for movement today?
+color: #111827;
+ font-size: 24px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 39.36px;
+ word-wrap: break-word
+---
+// Stress relief
+color: white;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word
+---
+// Energy
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word
+---
+// Habit
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word
+---
+// Joy
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word
+---
+// Next
+color: white;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word// Respected your body’s energy level today?
+color: #111827;
+ font-size: 24px;
+ font-family: Lufga;
+ font-weight: 600;
+ word-wrap: break-word
+---
+// Yes
+color: white;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word
+---
+// No 
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word// rate your mood?
+color: #111827;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 500;
+ word-wrap: break-word
+---
+// 1
+color: #6B7280;
+ font-size: 8px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16px;
+ word-wrap: break-word
+---
+// 5
+color: #6B7280;
+ font-size: 8px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16px;
+ word-wrap: break-word
+---
+// 10
+color: #6B7280;
+ font-size: 8px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16px;
+ word-wrap: break-word
+---
+// Next
+color: white;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word// After these skills, felt more?
+color: #111827;
+ font-size: 24px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 39.36px;
+ word-wrap: break-word
+---
+// Overwhelmed
+color: white;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word
+---
+// Grounded
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word
+---
+// Neutral
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word
+---
+// The same
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word
+---
+// Next
+color: white;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word// Next
+color: white;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word// Next
+color: white;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word// 9:41
+color: #191B21;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Education Library
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word
+---
+// All
+color: white;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Bookmarked
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Foundations of Fitness and Wellness
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Article · 3 min
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Holistic Health: A Comprehensive Guide
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Article · 4 min
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Exploring Wellness Through User Insights
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Article · 5 min
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Effective Techniques for Wellness Prototyping
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Vedio · 6 min
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word// 9:41
+color: #191B21;
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Education Library
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// All
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Bookmarked
+color: white;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Content Strategy Fundamentals
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Article · 3 min
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Design Thinking: An Overview
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Article · 4 min
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// User Research Techniques
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Article · 5 min
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// Prototyping Best Practices
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Article · 6 min
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word// Foundations of Fitness and Wellness
+color: #0F1215;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 25.20px;
+ word-wrap: break-word
+---
+// 🧠 Mental Well-being
+color: #5080BE;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// Article · 3 min
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// The Basics of Mindful Breathing
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Mindful breathing reduces anxiety, improves focus, and promotes better sleep. Many feel calmer after just a few minutes. Incorporate it into your daily routine, even for 5 minutes, while waiting in line or before meetings.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Simple Steps to Practice
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// • Sit comfortably with your back straight.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Rest your hands on your lap or knees.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Either close your eyes or keep a soft gaze.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Inhale slowly through your nose for 4 drops.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Hold your breath gently for a count of 2.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Exhale slowly through your mouth for 6 drops.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Benefits of Regular Practice
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Mindful breathing reduces anxiety, improves focus, and promotes better sleep. Many feel calmer after a few minutes. Incorporate it into your daily routine, even for just 5 minutes.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word// Foundations of Fitness and Wellness
+color: #0F1215;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 25.20px;
+ word-wrap: break-word
+---
+// 🧠 Mental Well-being
+color: #5080BE;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// Vedio· 3 min
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// The Basics of Mindful Breathing
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Mindful breathing reduces anxiety, improves focus, and promotes better sleep. Many feel calmer after just a few minutes. Incorporate it into your daily routine, even for 5 minutes, while waiting in line or before meetings.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Simple Steps to Practice
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// • Sit comfortably with your back straight.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Rest your hands on your lap or knees.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Either close your eyes or keep a soft gaze.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Inhale slowly through your nose for 4 drops.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Hold your breath gently for a count of 2.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Exhale slowly through your mouth for 6 drops.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Benefits of Regular Practice
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Mindful breathing reduces anxiety, improves focus, and promotes better sleep. Many feel calmer after a few minutes. Incorporate it into your daily routine, even for just 5 minutes.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word// Foundations of Fitness and Wellness
+color: #0F1215;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 25.20px;
+ word-wrap: break-word
+---
+// 🧠 Mental Well-being
+color: #5080BE;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// Audio · 3 min
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// The Basics of Mindful Breathing
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Mindful breathing reduces anxiety, improves focus, and promotes better sleep. Many feel calmer after just a few minutes. Incorporate it into your daily routine, even for 5 minutes, while waiting in line or before meetings.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Simple Steps to Practice
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// • Sit comfortably with your back straight.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Rest your hands on your lap or knees.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Either close your eyes or keep a soft gaze.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Inhale slowly through your nose for 4 drops.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Hold your breath gently for a count of 2.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Exhale slowly through your mouth for 6 drops.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Benefits of Regular Practice
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Mindful breathing reduces anxiety, improves focus, and promotes better sleep. Many feel calmer after a few minutes. Incorporate it into your daily routine, even for just 5 minutes.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word// Foundations of Fitness and Wellness
+color: #0F1215;
+ font-size: 18px;
+ font-family: Lufga;
+ font-weight: 600;
+ line-height: 25.20px;
+ word-wrap: break-word
+---
+// 🧠 Mental Well-being
+color: #5080BE;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.68px;
+ word-wrap: break-word
+---
+// Audio · 3 min
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// 1:45
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// 5:30
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+---
+// The Basics of Mindful Breathing
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Mindful breathing reduces anxiety, improves focus, and promotes better sleep. Many feel calmer after just a few minutes. Incorporate it into your daily routine, even for 5 minutes, while waiting in line or before meetings.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Simple Steps to Practice
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// • Sit comfortably with your back straight.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Rest your hands on your lap or knees.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Either close your eyes or keep a soft gaze.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Inhale slowly through your nose for 4 drops.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Hold your breath gently for a count of 2.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// • Exhale slowly through your mouth for 6 drops.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+---
+// Benefits of Regular Practice
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+---
+// Mindful breathing reduces anxiety, improves focus, and promotes better sleep. Many feel calmer after a few minutes. Incorporate it into your daily routine, even for just 5 minutes.
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word

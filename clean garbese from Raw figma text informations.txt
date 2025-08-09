@@ -1,0 +1,1156 @@
+1. clean data from letter-spacing: line (letter-spacing: 0.07px; is a line) to color: line (color: var(--Text-Color, #1C1A25); is a line)
+2. & make a empty line between these two lines ( letter-spacing & color lines),
+3. example: [pre data is now: 
+color: var(--Text-Color, #1C1A25);
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 18px;
+ word-wrap: break-word// Welcome to Larana Shop
+color: var(---second-Color, #797878);
+ font-size: 11px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word// 50-40% OFF
+color: white;
+ font-size: 20px;]
+
+
+& Post-data will be: [
+color: var(--Text-Color, #1C1A25);
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 18px;
+
+color: var(---second-Color, #797878);
+ font-size: 11px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 20px;
+]
+
+4. After completing above work remove the duplicates
+
+work on this below data: 
+
+
+color: var(--Text-Color, #1C1A25);
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 24px;
+ letter-spacing: 0.07px;
+ word-wrap: break-word// Hello Alex!
+color: var(--Text-Color, #1C1A25);
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 18px;
+ word-wrap: break-word// Welcome to Larana Shop
+color: var(---second-Color, #797878);
+ font-size: 11px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word// 50-40% OFF
+color: white;
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 700;
+ line-height: 22px;
+ word-wrap: break-word// Now in (product)
+color: white;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 16px;
+ word-wrap: break-word// All colours
+color: white;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 16px;
+ word-wrap: break-word// Shop Now
+color: white;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 16px;
+ word-wrap: break-word// Recent Blog
+color: var(--Text-Color, #1C1A25);
+ font-size: 18px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 27px;
+ word-wrap: break-word// See all
+color: var(--Text-Color, #1C1A25);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 18px;
+ word-wrap: break-word// January 3, 2025
+color: var(---second-Color, #797878);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word// Valais Fair 2024- The Unmissable event of the year
+color: var(--Text-Color, #1C1A25);
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 21px;
+ word-wrap: break-word// Every year, the Valais Fair attracts
+thousands of visitors to the heart of the
+canton for a unique experience combining... 
+color: var(--Text-Color, #1C1A25);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word
+---
+// Learn more
+color: var(--Text-Color, #1C1A25);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 700;
+ text-decoration: underline;
+ line-height: 18px;
+ word-wrap: break-word// BJ TALKS PODCAST EPISODE 0
+color: var(--Text-Color, #1C1A25);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 18px;
+ word-wrap: break-word// 34 minutes
+color: var(---second-Color, #797878);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word// See all
+color: var(--Text-Color, #1C1A25);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 18px;
+ word-wrap: break-word// Recent Podcasts
+color: var(--Text-Color, #1C1A25);
+ font-size: 18px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 27px;
+ word-wrap: break-word
+
+// Nike Air Max 270 React ENG
+color: var(--Text-Color, #1C1A25);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 18px;
+ word-wrap: break-word
+// $109.99
+color: var(--Text-Color, #1C1A25);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 700;
+ line-height: 18px;
+ letter-spacing: 0.50px;
+ word-wrap: break-word// $149,99
+color: var(---second-Color, #797878);
+ font-size: 10px;
+ font-family: Inter;
+ font-weight: 500;
+ text-decoration: line-through;
+ line-height: 15px;
+ letter-spacing: 0.50px;
+ word-wrap: break-word// Product
+color: var(--Text-Color, #1C1A25);
+ font-size: 18px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 22px;
+ word-wrap: break-word// Search here...
+color: var(---second-Color, #797878);
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 400;
+ word-wrap: break-word// Home
+color: var(---second-Color, #797878);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ word-wrap: break-word// Review & Rating
+color: var(--Text-Color, #1C1A25);
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ word-wrap: break-word// Review & Rating
+color: var(--Text-Color, #1C1A25);
+ font-size: 18px;
+ font-family: Poppins;
+ font-weight: 500;
+ word-wrap: break-word// 4.9 (22 Reviews)
+color: var(---second-Color, #797878);
+ font-size: 16px;
+ font-family: Poppins;
+ font-weight: 400;
+ word-wrap: break-word// All review
+color: var(--Text-Color, #1C1A25);
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 21px;
+ word-wrap: break-word// Charli Curs
+color: var(--Text-Color, #1C1A25);
+ font-size: 18px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 27px;
+ word-wrap: break-word// May 20, 2025
+color: var(---second-Color, #797878);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word// I’ve been wearing the Air Max 270 for about two weeks now, and they’ve quickly become my go-to everyday sneakers. The heel cushioning is next-level—feels like I’m walking on air. They’re super lightweight and
+color: var(---second-Color, #797878);
+ font-size: 16px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word// $458<br/>
+color: var(--PM-Color, #CABEF9);
+ font-size: 22px;
+ font-family: Inter;
+ font-weight: 600;
+ word-wrap: break-word
+---
+// $45
+color: var(---second-Color, #797878);
+ font-size: 20px;
+ font-family: Inter;
+ font-weight: 400;
+ text-decoration: line-through;
+ word-wrap: break-word
+---
+//  
+color: var(--PM-Color, #CABEF9);
+ font-size: 22px;
+ font-family: Inter;
+ font-weight: 400;
+ word-wrap: break-word// Select Amount
+color: var(--Text-Color, #1C1A25);
+ font-size: 18px;
+ font-family: Poppins;
+ font-weight: 500;
+ word-wrap: break-word// 01
+color: var(--Text-Color, #1C1A25);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word// Buy Now
+color: var(--Text-Color, #1C1A25);
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 24px;
+ letter-spacing: 0.16px;
+ word-wrap: break-word// Nike Air Zoom Dark Blur Shoes
+color: var(--Text-Color, #1C1A25);
+ font-size: 22px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 33px;
+ letter-spacing: 0.11px;
+ word-wrap: break-word// $458
+color: var(--PM-Color, #CABEF9);
+ font-size: 22px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 33px;
+ letter-spacing: 1.10px;
+ word-wrap: break-word// 4.9 (22 Reviews)
+color: var(---second-Color, #797878);
+ font-size: 16px;
+ font-family: Poppins;
+ font-weight: 400;
+ word-wrap: break-word// S
+color: var(--Text-Color, #1C1A25);
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 21px;
+ word-wrap: break-word// Product Details
+color: var(--Text-Color, #1C1A25);
+ font-size: 18px;
+ font-family: Poppins;
+ font-weight: 500;
+ word-wrap: break-word// Experience the perfect blend of comfort, performance, and street-ready style with the Nike Air Max 270. Designed with Nike's biggest heel Air unit yet, it delivers a super-soft ride and bold visual statement. Whether you're running errands or hitting the gym, the Air Max 270 has your back in every step.
+color: var(---second-Color, #797878);
+ font-size: 16px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word// Switzerland
+color: var(--Text-Color, #1C1A25);
+ font-size: 16px;
+ font-family: Poppins;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word
+---
+//  : 2-5 working days<br/>Order preparation generally takes 2-3 working days for all destinations offered, your orders leave from our warehouse in Switzerland.<br/><br/>
+color: var(---second-Color, #797878);
+ font-size: 16px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Returns<br/>
+color: var(--Text-Color, #1C1A25);
+ font-size: 16px;
+ font-family: Poppins;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// - BJ Positive Wear offers a 14-day turnaround time from the delivery date.
+color: var(---second-Color, #797878);
+ font-size: 16px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word// Check Out
+color: var(--Text-Color, #1C1A25);
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ word-wrap: break-word// Nike Air Zoom Pegasus 36 Miami
+color: var(--Text-Color, #1C1A25);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 18px;
+ word-wrap: break-word// $299,43
+color: var(--Text-Color, #1C1A25);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 700;
+ line-height: 18px;
+ word-wrap: break-word// Enter coupon code
+color: var(---second-Color, #797878);
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word// Apply
+color: var(--Text-Color, #1C1A25);
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 24px;
+ letter-spacing: 0.16px;
+ word-wrap: break-word// Address
+color: var(--Text-Color, #1C1A25);
+ font-size: 18px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 27px;
+ word-wrap: break-word// Default Address
+color: var(--Text-Color, #1C1A25);
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word// Items (1)
+color: var(---second-Color, #797878);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word// $658
+color: var(--Text-Color, #1C1A25);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 18px;
+ word-wrap: break-word// Total Price
+color: var(--Text-Color, #1C1A25);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 18px;
+ word-wrap: break-word// $658.00
+color: var(--Text-Color, #1C1A25);
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 18px;
+ word-wrap: break-word// All
+color: var(--Text-Color, #1C1A25);
+ font-size: 10px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 15px;
+ word-wrap: break-word// Unread
+color: var(--Text-Color, #1C1A25);
+ font-size: 10px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 15px;
+ word-wrap: break-word// Game  Discussion 
+color: var(--Text-Color, #1C1A25);
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 21px;
+ word-wrap: break-word// I mean he wrecked it! 😶😶
+color: var(---second-Color, #797878);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word// 2
+color: var(--Text-Color, #1C1A25);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word// Search here...
+color: var(---second-Color, #797878);
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 400;
+ word-wrap: break-word // Clothing Discussion
+color: var(--Text-Color, #1C1A25);
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word// Hello, I want to the card but could you give me some extra money?
+color: var(--Text-Color, #1C1A25);
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 21px;
+ word-wrap: break-word// Type message here...
+color: var(---second-Color, #797878);
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ word-wrap: break-word// Clothing Discussion
+color: var(--Text-Color, #1C1A25);
+ font-size: 18px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 27px;
+ word-wrap: break-word// All Member (121)
+color: var(--Text-Color, #1C1A25);
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 22px;
+ word-wrap: break-word// Albert Flores
+color: var(--Text-Color, #1C1A25);
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 21px;
+ word-wrap: break-word// Create Community Chat
+color: var(--Text-Color, #1C1A25);
+ font-size: 18px;
+ font-family: Inter;
+ font-weight: 500;
+ word-wrap: break-word// Create Community Chat
+color: var(--Text-Color, #1C1A25);
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 400;
+ word-wrap: break-word// No Message
+color: var(--Text-Color, #1C1A25);
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 600;
+ word-wrap: break-word// We’ll let you know when there will be<br/>message for you.
+color: var(---second-Color, #797878);
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 400;
+ word-wrap: break-word// BJ Story
+color: var(--Text-Color, #1C1A25);
+ font-size: 10px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 15px;
+ word-wrap: break-word// BJ Gossip-Blog
+color: var(--Text-Color, #1C1A25);
+ font-size: 10px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 15px;
+ word-wrap: break-word// Our concept
+color: var(--Text-Color, #1C1A25);
+ font-size: 18px;
+ font-family: Poppins;
+ font-weight: 500;
+ word-wrap: break-word// At BJ Positive Wear, it all started with a simple but powerful idea: to create a brand that celebrates female strength, confidence and solidarity .<br/>Born during the Covid crisis, BJ is the result of a fierce desire to transform mentalities and encourage women to flourish, love and respect themselves. What started as an Instagram account quickly evolved into a real movement , driven by a community of women determined to make a difference.
+color: var(---second-Color, #797878);
+ font-size: 16px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word // BJ Positive Wear: When Strength Becomes Revolution
+color: var(--Text-Color, #1C1A25);
+ font-size: 18px;
+ font-family: Poppins;
+ font-weight: 500;
+ word-wrap: break-word// Our short film
+color: var(---second-Color, #797878);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word// BJ TALKS PODCAST EPISODE 0
+color: var(--Text-Color, #1C1A25);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 18px;
+ word-wrap: break-word// 34 minutes
+color: var(---second-Color, #797878);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word// BJ Podcasts
+color: var(--Text-Color, #1C1A25);
+ font-size: 18px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 27px;
+ word-wrap: break-word// January 3, 2025
+color: var(---second-Color, #797878);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word// Valais Fair 2024- The Unmissable event of the year
+color: var(--Text-Color, #1C1A25);
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 21px;
+ word-wrap: break-word// Every year, the Valais Fair attracts
+thousands of visitors to the heart of the
+canton for a unique experience combining... 
+color: var(--Text-Color, #1C1A25);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word
+---
+// Learn more
+color: var(--Text-Color, #1C1A25);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 700;
+ text-decoration: underline;
+ line-height: 18px;
+ word-wrap: break-word// Valais Fair 2024- The Unmissable event of the year
+color: var(--Text-Color, #1C1A25);
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 21px;
+
+color: var(--Text-Color, #1C1A25);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word// January 3, 2025
+color: var(---second-Color, #797878);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word// More articles that may interest you
+color: var(--Text-Color, #1C1A25);
+ font-size: 18px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 27px;
+ word-wrap: break-word// Valais Fair 2024- The Unmissable event of the year
+color: var(--Text-Color, #1C1A25);
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 21px;
+ word-wrap: break-word// It's More Than a Role, It's a Mission
+color: var(---second-Color, #797878);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word// Why Become an Ambassador?
+color: var(--Text-Color, #1C1A25);
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 21px;
+ word-wrap: break-word// At BJ Positive Wear, we're looking for motivated and passionate women ready to embody our movement.<br/>Being a BJ Ambassador is more than a collaboration – it's an adventure, a way to share your values ​​while enjoying exclusive benefits.
+color: var(--Text-Color, #1C1A25);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word// Switzerland
+color: var(--Text-Color, #1C1A25);
+ font-size: 16px;
+ font-family: Poppins;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word
+---
+//  : 2-5 working days<br/>Order preparation generally takes 2-3 working days for all destinations offered, your orders leave from our warehouse in Switzerland.<br/><br/>
+color: var(---second-Color, #797878);
+ font-size: 16px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Returns<br/>
+color: var(--Text-Color, #1C1A25);
+ font-size: 16px;
+ font-family: Poppins;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// - BJ Positive Wear offers a 14-day turnaround time from the delivery date.
+color: var(---second-Color, #797878);
+ font-size: 16px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word// Review & Rating
+color: var(--Text-Color, #1C1A25);
+ font-size: 18px;
+ font-family: Poppins;
+ font-weight: 500;
+ word-wrap: break-word// 4.9 (22 Reviews)
+color: var(---second-Color, #797878);
+ font-size: 16px;
+ font-family: Poppins;
+ font-weight: 400;
+ word-wrap: break-word// Charli Curs
+color: var(--Text-Color, #1C1A25);
+ font-size: 18px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 27px;
+ word-wrap: break-word// May 20, 2025
+color: var(---second-Color, #797878);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word// I’ve been wearing the Air Max 270 for about two weeks now, and they’ve quickly become my go-to everyday sneakers. The heel cushioning is next-level—feels like I’m walking on air. They’re super lightweight and
+color: var(---second-Color, #797878);
+ font-size: 16px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word// Nike Air Max 270 React ENG
+color: var(--Text-Color, #1C1A25);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 18px;
+ word-wrap: break-word// $109.99
+color: var(--Text-Color, #1C1A25);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 700;
+ line-height: 18px;
+ letter-spacing: 0.50px;
+ word-wrap: break-word// $149,99
+color: var(---second-Color, #797878);
+ font-size: 10px;
+ font-family: Inter;
+ font-weight: 500;
+ text-decoration: line-through;
+ line-height: 15px;
+ letter-spacing: 0.50px;
+ word-wrap: break-word// Enter coupon code
+color: var(---second-Color, #797878);
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word// Apply
+color: var(--Text-Color, #1C1A25);
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 24px;
+ letter-spacing: 0.16px;
+ word-wrap: break-word// Address
+color: var(--Text-Color, #1C1A25);
+ font-size: 18px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 27px;
+ word-wrap: break-word// Default Address
+color: var(--Text-Color, #1C1A25);
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word// Items (1)
+color: var(---second-Color, #797878);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word// $658
+color: var(--Text-Color, #1C1A25);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 18px;
+ word-wrap: break-word// Game  Discussion 
+color: var(--Text-Color, #1C1A25);
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 21px;
+ word-wrap: break-word// I mean he wrecked it! 😶😶
+color: var(---second-Color, #797878);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word// 15:58
+color: var(---second-Color, #797878);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word// 2
+color: var(--Text-Color, #1C1A25);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word// Hello, I want to the card but could you give me some extra money?
+color: var(--Text-Color, #1C1A25);
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 21px;
+ word-wrap: break-word// Yes, it possible, but i can’t give you more then 5$.
+color: #3D3D3D;
+ font-size: 13px;
+ font-family: Manrope;
+ font-weight: 500;
+ line-height: 19.50px;
+ word-wrap: break-word// Create Community Chat
+color: var(--Text-Color, #1C1A25);
+ font-size: 18px;
+ font-family: Inter;
+ font-weight: 500;
+ word-wrap: break-word// Create Community Chat
+color: var(--Text-Color, #1C1A25);
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 400;
+ word-wrap: break-word// Unread
+color: var(--Text-Color, #1C1A25);
+ font-size: 10px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 15px;
+ word-wrap: break-word// No Message
+color: var(--Text-Color, #1C1A25);
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 600;
+ word-wrap: break-word// We’ll let you know when there will be<br/>message for you.
+color: var(---second-Color, #797878);
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 400;
+ word-wrap: break-word// BJ Story
+color: var(--Text-Color, #1C1A25);
+ font-size: 10px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 15px;
+ word-wrap: break-word// Our concept
+color: var(--Text-Color, #1C1A25);
+ font-size: 18px;
+ font-family: Poppins;
+ font-weight: 500;
+ word-wrap: break-word// At BJ Positive Wear, it all started with a simple but powerful idea: to create a brand that celebrates female strength, confidence and solidarity .<br/>Born during the Covid crisis, BJ is the result of a fierce desire to transform mentalities and encourage women to flourish, love and respect themselves. What started as an Instagram account quickly evolved into a real movement , driven by a community of women determined to make a difference.
+color: var(---second-Color, #797878);
+ font-size: 16px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word// BJ Positive Wear: When Strength Becomes Revolution
+color: var(--Text-Color, #1C1A25);
+ font-size: 18px;
+ font-family: Poppins;
+ font-weight: 500;
+ word-wrap: break-word// Our short film
+color: var(---second-Color, #797878);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word// BJ TALKS PODCAST EPISODE 0
+color: var(--Text-Color, #1C1A25);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 18px;
+ word-wrap: break-word// 34 minutes
+color: var(---second-Color, #797878);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word// January 3, 2025
+color: var(---second-Color, #797878);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word// Valais Fair 2024- The Unmissable event of the year
+color: var(--Text-Color, #1C1A25);
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 21px;
+ word-wrap: break-word// Every year, the Valais Fair attracts
+thousands of visitors to the heart of the
+canton for a unique experience combining... 
+color: var(--Text-Color, #1C1A25);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word
+---
+// Learn more
+color: var(--Text-Color, #1C1A25);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 700;
+ text-decoration: underline;
+ line-height: 18px;
+ word-wrap: break-word// It's More Than a Role, It's a Mission
+color: var(---second-Color, #797878);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word// Why Become an Ambassador?
+color: var(--Text-Color, #1C1A25);
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 21px;
+ word-wrap: break-word// At BJ Positive Wear, we're looking for motivated and passionate women ready to embody our movement.<br/>Being a BJ Ambassador is more than a collaboration – it's an adventure, a way to share your values ​​while enjoying exclusive benefits.
+color: var(--Text-Color, #1C1A25);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word// Your Personal Promo Code
+color: var(--Text-Color, #1C1A25);
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 21px;
+ word-wrap: break-word// Receive  1 10% off code just for you to share with your community.
+color: var(--Text-Color, #1C1A25);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word// M.R.SIfat
+color: var(--Text-Color, #1C1A25);
+ font-size: 20px;
+ font-family: Poppins;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word// My Profile
+color: var(--Text-Color, #1C1A25);
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word// Personal Information
+color: var(--Text-Color, #1C1A25);
+ font-size: 18px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 22px;
+ word-wrap: break-word// shlghslkgs@gmail.com
+color: var(--Text-Color, #1C1A25);
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 24px;
+ letter-spacing: 0.07px;
+ word-wrap: break-word// Male
+color: var(--Text-Color, #1C1A25);
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 25.20px;
+ letter-spacing: 0.50px;
+ word-wrap: break-word// Female
+color: var(---second-Color, #797878);
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 25.20px;
+ letter-spacing: 0.50px;
+ word-wrap: break-word// September 2020
+color: var(--PM-Color, #CABEF9);
+ font-size: 13.67px;
+ font-family: Poppins;
+ font-weight: 700;
+ line-height: 20.51px;
+ letter-spacing: 0.07px;
+ word-wrap: break-word// Sun
+color: #FB7181;
+ font-size: 11.72px;
+ font-family: Poppins;
+ font-weight: 700;
+ line-height: 17.58px;
+ letter-spacing: 0.06px;
+ word-wrap: break-word// Mon
+color: var(---second-Color, #797878);
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 18px;
+ letter-spacing: 0.06px;
+ word-wrap: break-word// 1
+color: var(---second-Color, #797878);
+ font-size: 11.72px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 17.58px;
+ letter-spacing: 0.06px;
+ word-wrap: break-word// 1
+color: #EBF0FF;
+ font-size: 11.72px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 17.58px;
+ letter-spacing: 0.06px;
+ word-wrap: break-word// Delivery Address
+color: var(--Text-Color, #1C1A25);
+ font-size: 18px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 27px;
+ word-wrap: break-word// Country or region
+color: var(--Text-Color, #1C1A25);
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 22px;
+ word-wrap: break-word// Bangladesh
+color: var(--Text-Color, #1C1A25);
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 24px;
+ letter-spacing: 0.07px;
+ word-wrap: break-word// Change Password
+color: var(--Primary-Color, #004A6E);
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ word-wrap: break-word// Change Password
+color: var(--Primary-Color, #004A6E);
+ font-size: 18px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 27px;
+ word-wrap: break-word// Old Password
+color: var(--Text-Color, #1C1A25);
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 22px;
+ word-wrap: break-word// Enter your password
+color: var(---second-Color, #797878);
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 24px;
+ letter-spacing: 0.07px;
+ word-wrap: break-word// New Password
+color: var(--Primary-Color, #004A6E);
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 22px;
+ word-wrap: break-word// Oops! Your Password Is Not Correct
+color: #E63D3D;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word// My Order
+color: var(--Text-Color, #1C1A25);
+ font-size: 18px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 27px;
+ word-wrap: break-word// In Progress
+color: var(--Text-Color, #1C1A25);
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 27px;
+ word-wrap: break-word// Completed 
+color: var(---second-Color, #797878);
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 27px;
+ word-wrap: break-word// Nike Air Zoom Pegasus 36 Miami
+color: var(--Text-Color, #1C1A25);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 18px;
+ word-wrap: break-word// $299,43
+color: var(--Text-Color, #1C1A25);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 700;
+ line-height: 18px;
+ word-wrap: break-word// Canceled
+color: #E63D3D;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 18px;
+ letter-spacing: 0.12px;
+ word-wrap: break-word// Enter coupon code
+color: var(---second-Color, #797878);
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word// Apply
+color: var(--Text-Color, #1C1A25);
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 24px;
+ letter-spacing: 0.16px;
+ word-wrap: break-word// Items (1)
+color: var(---second-Color, #797878);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word// $658
+color: var(--Text-Color, #1C1A25);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 18px;
+ word-wrap: break-word// Total Price
+color: var(--Text-Color, #1C1A25);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 18px;
+ word-wrap: break-word// $658.00
+color: var(--Text-Color, #1C1A25);
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 18px;
+ word-wrap: break-word// Shipping Details
+color: var(--Text-Color, #1C1A25);
+ font-size: 16px;
+ font-family: Inter;
+ font-weight: 600;
+ line-height: 24px;
+ word-wrap: break-word// Road 250,Demra, Dhaka, Bangladesh
+color: var(--Text-Color, #1C1A25);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 18px;
+ word-wrap: break-word// Number
+color: var(---second-Color, #797878);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word// Your order has been completed!
+color: var(--Text-Color, #1C1A25);
+ font-size: 22px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 28px;
+ word-wrap: break-word// Please write Overall level of satisfaction with your shipping / Delivery Service
+color: var(---second-Color, #797878);
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word// Write your review...
+color: var(---second-Color, #797878);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ line-height: 24px;
+ letter-spacing: 0.06px;
+ word-wrap: break-word// Select Size
+color: var(--Text-Color, #1C1A25);
+ font-size: 18px;
+ font-family: Poppins;
+ font-weight: 500;
+ word-wrap: break-word// Are you sure you want to delete<br/>your account?
+color: var(--Text-Color, #1C1A25);
+ font-size: 14px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 21px;
+ word-wrap: break-word// No
+color: var(--Text-Color, #1C1A25);
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 20px;
+ word-wrap: break-word// Yes
+color: white;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 500;
+ line-height: 20px;
+ word-wrap: break-word
+
+

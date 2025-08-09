@@ -1,0 +1,123 @@
+// Good morning!
+color: #7E7E7E;
+ font-size: 14px;
+ font-family: Lufga;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word
+
+// William Anderson
+color: #0F1215;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word
+
+// Today's Lesson
+color: white;
+ font-size: 20px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 28px;
+ word-wrap: break-word
+
+// Mindful Eating Basics
+color: white;
+ font-size: 16px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word
+
+// 15 Mins
+color: white;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 300;
+ line-height: 16.80px;
+ word-wrap: break-word
+
+// Start Lesson
+color: white;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+
+// Daily Check-ins
+color: #0F1215;
+ font-size: 20px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 28px;
+ word-wrap: break-word
+
+// Nutrition
+color: #7E7E7E;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word
+// Start Lesson
+color: white;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 600;
+ line-height: 19.60px;
+ word-wrap: break-word
+// Today  7:30pm
+color: #0F1215;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ word-wrap: break-word
+// Evening Reflection
+color: #0F1215;
+ font-size: 20px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+// Had a peaceful morning meditation followed by a healthy breakfast. Feeling centered and ready for the day ahead...
+color: #7E7E7E;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+// Tomorrow  8:00am
+color: #0F1215;
+ font-size: 12px;
+ font-family: Inter;
+ font-weight: 400;
+ word-wrap: break-word
+// Plan to tackle priorities after a workout and smoothie. Excited for a productive day!
+color: #7E7E7E;
+ font-size: 16px;
+ font-family: Lufga;
+ font-weight: 400;
+ word-wrap: break-word
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

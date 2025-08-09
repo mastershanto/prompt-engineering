@@ -1,0 +1,1704 @@
+// Loading...
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 22px;
+ word-wrap: break-word// 0%
+color: #02505F;
+ font-size: 48px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 56px;
+ word-wrap: break-word
+---
+// 3:14
+color: var(--Background-bg-bold, #121212);
+ font-size: 18px;
+ font-family: SF Compact Display;
+ font-weight: 600;
+ letter-spacing: 0.50px;
+ word-wrap: break-word// Loading...
+color: #02505F;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ text-transform: uppercase;
+ line-height: 20px;
+ letter-spacing: 1.40px;
+ word-wrap: break-word// calmli AI is preparing your health data...
+color: #1F2937;
+ font-size: 24px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 32px;
+ word-wrap: break-word// 50%
+color: #02505F;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ text-transform: uppercase;
+ line-height: 20px;
+ letter-spacing: 1.40px;
+ word-wrap: break-word// Let’s sign up to get intelligent health.
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 25.60px;
+ word-wrap: break-word// Enter your full name...
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 22px;
+ word-wrap: break-word// Full Name
+color: #1F2937;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 20px;
+ word-wrap: break-word// Sign Up
+color: white;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 22px;
+ word-wrap: break-word// or
+color: #4B5563;
+ font-size: 10px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ text-transform: uppercase;
+ line-height: 14px;
+ letter-spacing: 1px;
+ word-wrap: break-word// Sign Up With Google
+color: white;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 22px;
+ word-wrap: break-word// I already have
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word
+---
+//  
+color: #4B5563;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word
+---
+// an account
+color: #02505F;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ text-decoration: underline;
+ line-height: 20px;
+ word-wrap: break-word
+// I already have
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word
+---
+//  
+color: #4B5563;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word
+---
+// an account
+color: #02505F;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ text-decoration: underline;
+ line-height: 20px;
+ word-wrap: break-word// Keep me signed in
+color: #1F2937;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 22px;
+ word-wrap: break-word// Forgot Password
+color: #02505F;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ text-decoration: underline;
+ line-height: 20px;
+ word-wrap: break-word// awsdR$%
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 22px;
+ word-wrap: break-word// ERROR: Incorrect password!
+color: #FF5630;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 22px;
+ word-wrap: break-word// Forgot Password
+color: #1F2937;
+ font-size: 24px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 32px;
+ word-wrap: break-word// Please enter your email address to reset your password.
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 25.60px;
+ word-wrap: break-word// Verification
+color: #1F2937;
+ font-size: 24px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 32px;
+ word-wrap: break-word// To ensure the safety and reliability of our community, please verify your account
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 25.60px;
+ word-wrap: break-word// OTP Verification
+color: #1F2937;
+ font-size: 24px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 32px;
+ word-wrap: break-word// Enter the OTP sent to md***@gmail.com
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 25.60px;
+ word-wrap: break-word// 4
+color: #1F2937;
+ font-size: 24px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 32px;
+ word-wrap: break-word// 00:20 Sec<br/>Don’t receive code? 
+color: #4B5563;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Re-send
+color: #02505F;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ text-decoration: underline;
+ line-height: 20px;
+ word-wrap: break-word// 116 123
+color: #02505F;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 20px;
+ word-wrap: break-word// Support 24/7
+color: #4B5563;
+ font-size: 12px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 19.20px;
+ word-wrap: break-word// How are you doing today?
+color: var(--White, white);
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 22px;
+ word-wrap: break-word// Chatbot - AI Assistant
+color: #02505F;
+ font-size: 18px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 28.80px;
+ word-wrap: break-word// GPT-7 • 241 chats left
+color: #4B5563;
+ font-size: 12px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 19.20px;
+ word-wrap: break-word// How are you doing today?
+color: var(--White, white);
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 22px;
+ word-wrap: break-word// Good, who is this?
+color: #02505F;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 25.60px;
+ word-wrap: break-word// Type to start chatting...
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word// Start typing...
+color: rgba(75, 85, 99, 0.60);
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 22px;
+ word-wrap: break-word// Use my current location
+color: #02505F;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 20px;
+ word-wrap: break-word// Self Referral
+color: white;
+ font-size: 10px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ text-transform: capitalize;
+ line-height: 11.60px;
+ word-wrap: break-word// East
+color: #02505F;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 22px;
+ word-wrap: break-word// Use my current location
+color: #02505F;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 20px;
+ word-wrap: break-word// New York, NY, USA
+color: #4B5563;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word// 1223 Easton Street, New York, NY, USA
+color: #02505F;
+ font-size: 18px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 28.80px;
+ word-wrap: break-word// Dr. Mufasa White
+color: #02505F;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 22px;
+ word-wrap: break-word// Counselor
+color: #1F2937;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 20px;
+ word-wrap: break-word// 1.5
+color: #1F2937;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 20px;
+ word-wrap: break-word// (500)
+color: #4B5563;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word// Available Remotely
+color: #10B981;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 20px;
+ word-wrap: break-word// Available Remotely
+color: #10B981;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 20px;
+ word-wrap: break-word// ABC General Hospital
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 25.60px;
+ word-wrap: break-word// ABC General Hospital
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 25.60px;
+ word-wrap: break-word// ABC General Hospital
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 25.60px;
+ word-wrap: break-word// Experience:
+color: #02505F;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 25.60px;
+ word-wrap: break-word// 12+ years
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 25.60px;
+ word-wrap: break-word// 4.7 (542 Reviews)
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 25.60px;
+ word-wrap: break-word // About:
+color: #02505F;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 25.60px;
+ word-wrap: break-word// Lorem ipsum dolor sit amet consectetur. Sed praesent duis tortor pretium interdum at. Dictum pharetra pulvinar dolor morbi proin ut sit. Ipsum amet donec nisl maecenas fermentum. Habitant sed euismod integer viverra.
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 25.60px;
+ word-wrap: break-word // Patient Data:
+color: #02505F;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 25.60px;
+ word-wrap: break-word// 2000
+color: #4B5563;
+ font-size: 10px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 14px;
+ word-wrap: break-word// Recovered
+color: #4B5563;
+ font-size: 12px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 16px;
+ word-wrap: break-word// Available:
+color: #02505F;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 25.60px;
+ word-wrap: break-word// Mon - Fri (9 AM - 5 PM)
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 25.60px;
+ word-wrap: break-word// Book Now
+color: white;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 22px;
+ word-wrap: break-word  // Notification
+color: #02505F;
+ font-size: 18px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 28.80px;
+ word-wrap: break-word// Recent Notification
+color: #1F2937;
+ font-size: 20px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 32px;
+ word-wrap: break-word// Clear All
+color: #02505F;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 20px;
+ word-wrap: break-word// Your next medicine time is near
+color: #1F2937;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 22px;
+ word-wrap: break-word// Lorem ipsum dolor sit amet consectetur. Egest as porta consequat imperdiet...
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word// 2:45 PM
+color: #7C3AED;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 20px;
+ word-wrap: break-word // General
+color: #1F2937;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 20px;
+ word-wrap: break-word      // User Name
+color: #1F2937;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 20px;
+ word-wrap: break-word// marzia
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 22px;
+ word-wrap: break-word// Save Changes
+color: white;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 22px;
+ word-wrap: break-word// Delete Account
+color: #1F2937;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 20px;
+ word-wrap: break-word // Do you have any medical conditions?
+color: #1F2937;
+ font-size: 32px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 42px;
+ word-wrap: break-word// Yes, I have them
+color: white;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 22px;
+ word-wrap: break-word// I don’t have any
+color: #02505F;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 22px;
+ word-wrap: break-word // Medication
+color: white;
+ font-size: 10px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ text-transform: capitalize;
+ line-height: 11.60px;
+ word-wrap: break-word                   // Most Common
+color: #4B5563;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 20px;
+ word-wrap: break-word// Search
+color: #02505F;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 20px;
+ word-wrap: break-word// Hypertension
+color: #02505F;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 20px;
+ word-wrap: break-word// Asthma
+color: #4B5563;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 20px;
+ word-wrap: break-word// Hypertension
+color: #4B5563;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 20px;
+ word-wrap: break-word// Selected:
+color: #4B5563;
+ font-size: 12px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 16px;
+ word-wrap: break-word// I don’t have any
+color: #02505F;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 22px;
+ word-wrap: break-word// Continue
+color: white;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 22px;
+ word-wrap: break-word // We are asking this to get accurate result.
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 25.60px;
+ word-wrap: break-word // General
+color: #1F2937;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 22px;
+ word-wrap: break-word// Name
+color: #1F2937;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 20px;
+ word-wrap: break-word// Amoxicillin
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 22px;
+ word-wrap: break-word // Total Amount
+color: #1F2937;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 20px;
+ word-wrap: break-word// 3
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 22px;
+ word-wrap: break-word   // M
+color: #7C3AED;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 22px;
+ word-wrap: break-word// Monday, Wednesday, Thursday
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 22px;
+ word-wrap: break-word  // Reminder
+color: #1F2937;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 22px;
+ word-wrap: break-word// Reminder to reorder item
+color: #1F2937;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 20px;
+ word-wrap: break-word// Refill Drug
+color: #1F2937;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 20px;
+ word-wrap: break-word// Choose the remaining drug amount to trigger a reorder alert:
+color: #4B5563;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word// Alarm set
+color: #1F2937;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 20px;
+ word-wrap: break-word// Add Medication
+color: #02505F;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 22px;
+ word-wrap: break-word // 3
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 22px;
+ word-wrap: break-word // Add Medication
+color: #02505F;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 22px;
+ word-wrap: break-word // Add Medication
+color: #02505F;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 22px;
+ word-wrap: break-word// 8
+color: #94A3B8;
+ font-size: 12px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 16px;
+ word-wrap: break-word // Dosage
+color: #4B5563;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 20px;
+ word-wrap: break-word// 12:25 AM
+color: #1F2937;
+ font-size: 24px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 32px;
+ word-wrap: break-word  // Add new
+color: #02505F;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 22px;
+ word-wrap: break-word  // Alarm Set
+color: #1F2937;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 22px;
+ word-wrap: break-word// Repeat Alarm
+color: #1F2937;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 20px;
+ word-wrap: break-word// One-Time
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 22px;
+ word-wrap: break-word // Any medical or health notes will be helpful for calmli AI. Feel free to write any.
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 25.60px;
+ word-wrap: break-word// Enter your note...
+color: #4B5563;
+ font-size: 20px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 32px;
+ word-wrap: break-word// 0/100
+color: #4B5563;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 20px;
+ word-wrap: break-word // Please wait while we prepare  your Medications...
+color: #1F2937;
+ font-size: 24px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 32px;
+ word-wrap: break-word // You have 2 medications for today.
+color: #4B5563;
+ font-size: 18px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word// Add New Medicine
+color: white;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 22px;
+ word-wrap: break-word // Today Medication
+color: #1F2937;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 22px;
+ word-wrap: break-word// Amoxiciline
+color: #1F2937;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 20px;
+ word-wrap: break-word// Levothryoxine Sodium - Tablet
+color: #4B5563;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word// 1 tablet at 12:22 am
+color: #7C3AED;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 20px;
+ word-wrap: break-word// After Meal
+color: #4B5563;
+ font-size: 12px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 16px;
+ word-wrap: break-word// Skipped
+color: #02505F;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 20px;
+ word-wrap: break-word// Taken
+color: var(--White, white);
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 20px;
+ word-wrap: break-word // Daily Reminder
+color: #1F2937;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 22px;
+ word-wrap: break-word// Next reminder on 09:00 AM
+color: #4B5563;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word// Our Recommendations
+color: #1F2937;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 22px;
+ word-wrap: break-word// See All
+color: #02505F;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 20px;
+ word-wrap: break-word// Drug
+color: #02505F;
+ font-size: 12px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 16px;
+ word-wrap: break-word// Maintaining Sleep Hygeine
+color: #1F2937;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 20px;
+ word-wrap: break-word// The Science Behind Sleep: How Better Rest Improves Your Health In Long Term...
+color: #4B5563;
+ font-size: 12px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 19.20px;
+ word-wrap: break-word// Log Happy 5x
+color: #1F2937;
+ font-size: 12px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 16px;
+ word-wrap: break-word // ** Please the bot is for advice and it can make mistakes. Consult a healthcare professional if you are having any issues.
+color: #4B5563;
+ font-size: 12px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 19.20px;
+ word-wrap: break-word// Consult AI Assistant
+color: white;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 22px;
+ word-wrap: break-word // Article Detail
+color: white;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 22px;
+ word-wrap: break-word// Medicine
+color: #7C3AED;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 20px;
+ word-wrap: break-word// Sleep Better & Live Your Live Healthier
+color: #1F2937;
+ font-size: 24px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 32px;
+ word-wrap: break-word// Sep 25, 2024
+color: #4B5563;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word// 1min read
+color: #4B5563;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word// Gulliermo White
+color: #4B5563;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 20px;
+ word-wrap: break-word// Overview
+color: #1F2937;
+ font-size: 18px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 24px;
+ word-wrap: break-word// Sleep is not just a daily reset; it’s a fundamental pillar of health that affects nearly every aspect of your body and mind. Yet, in a world driven by productivity, sleep often takes a back seat. This article explores the science of sleep and its profound long-term effects on your overall health and well-being.
+color: #4B5563;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word// Jun 2, 2025
+color: #4B5563;
+ font-size: 12px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 16px;
+ word-wrap: break-word// Sleeping meditation for beginners 101
+color: #1F2937;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 20px;
+ word-wrap: break-word// Nature
+color: #959EA5;
+ font-size: 12px;
+ font-family: Lato;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word// Mood
+color: #1F2937;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 22px;
+ word-wrap: break-word // Track your feelings
+color: #4B5563;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 20px;
+ word-wrap: break-word// Peace
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 25.60px;
+ word-wrap: break-word// Awe
+color: white;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 25.60px;
+ word-wrap: break-word// Add emotions
+color: #02505F;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 25.60px;
+ word-wrap: break-word// Happy
+color: #1F2937;
+ font-size: 50px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 50px;
+ word-wrap: break-word// Logged today at 10:22 AM
+color: #4B5563;
+ font-size: 18px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word// December 2025
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 22px;
+ word-wrap: break-word // M
+color: #1F2937;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 20px;
+ word-wrap: break-word// 29
+color: #CBD5E1;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 20px;
+ word-wrap: break-word// 1
+color: #4B5563;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 20px;
+ word-wrap: break-word // December 2025
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 22px;
+ word-wrap: break-word // Logged today at 10:22 AM
+color: #4B5563;
+ font-size: 18px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word// Tag Name
+color: #1F2937;
+ font-size: 12px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 16px;
+ word-wrap: break-word// Happy
+color: #1F2937;
+ font-size: 30px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 38px;
+ word-wrap: break-word// Just got a promotion today
+color: #1F2937;
+ font-size: 18px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word// Friday, Dec 23, 2028
+color: #4B5563;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word// Today
+color: #1F2937;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 22px;
+ word-wrap: break-word// Morning
+color: #4B5563;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word// See All
+color: #02505F;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 20px;
+ word-wrap: break-word// Neutral
+color: #4B5563;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 20px;
+ word-wrap: break-word// Chart View
+color: #02505F;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 22px;
+ word-wrap: break-word // Chart View
+color: #1F2937;
+ font-size: 30px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 38px;
+ word-wrap: break-word// A closer look at your mood analysis
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 25.60px;
+ word-wrap: break-word// Most Logged Mood
+color: #1F2937;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 22px;
+ word-wrap: break-word// Monthly
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 22px;
+ word-wrap: break-word// Y (Mood)
+color: #4B5563;
+ font-size: 12px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 16px;
+ word-wrap: break-word  // 19
+color: #4B5563;
+ font-size: 12px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 16px;
+ word-wrap: break-word// Most Logged Tags
+color: #1F2937;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 22px;
+ word-wrap: break-word// Tired
+color: #1F2937;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 22px;
+ word-wrap: break-word// Fine
+color: #A855F7;
+ font-size: 10px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 14px;
+ word-wrap: break-word// Stress
+color: #10B981;
+ font-size: 18px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 24px;
+ word-wrap: break-word// Joyful
+color: #7C3AED;
+ font-size: 20px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 28px;
+ word-wrap: break-word// Normal
+color: #F43F5E;
+ font-size: 12px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 16px;
+ word-wrap: break-word// Lonely
+color: #F59E0B;
+ font-size: 18px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 24px;
+ word-wrap: break-word// Your most logged tags is “joyful” with around 33 logs this month
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 25.60px;
+ word-wrap: break-word // Morning
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 22px;
+ word-wrap: break-word// On 09:00 AM
+color: #4B5563;
+ font-size: 12px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 19.20px;
+ word-wrap: break-word // Mood
+color: #7C3AED;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 20px;
+ word-wrap: break-word// The Science Behind Sleep: How Better Rest Improves Your Health In Long Term
+color: #1F2937;
+ font-size: 24px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 32px;
+ word-wrap: break-word// Sep 25, 2024
+color: #4B5563;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word // Overview
+color: #1F2937;
+ font-size: 18px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 24px;
+ word-wrap: break-word// Sleep is not just a daily reset; it’s a fundamental pillar of health that affects nearly every aspect of your body and mind. Yet, in a world driven by productivity, sleep often takes a back seat. This article explores the science of sleep and its profound long-term effects on your overall health and well-being.
+color: #4B5563;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word // Improved Cardiovascular Health
+color: #4B5563;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 20px;
+ word-wrap: break-word // You might also like
+color: #1F2937;
+ font-size: 18px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 24px;
+ word-wrap: break-word// Tracking Your Health: Why Metrics Matter
+color: #1F2937;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 20px;
+ word-wrap: break-word// Jun 2, 2025
+color: #4B5563;
+ font-size: 12px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 16px;
+ word-wrap: break-word // How many hours of sleep do you usually aim for each night?
+color: #1F2937;
+ font-size: 32px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 42px;
+ word-wrap: break-word// 8
+color: #1F2937;
+ font-size: 96px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 104px;
+ word-wrap: break-word// I usually sleep around 8 hours daily
+color: #4B5563;
+ font-size: 20px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 28px;
+ word-wrap: break-word// Continue
+color: white;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 22px;
+ word-wrap: break-word// 5 - 6 AM
+color: #1F2937;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 22px;
+ word-wrap: break-word // 08
+color: #94A3B8;
+ font-size: 24px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 32px;
+ word-wrap: break-word// 09
+color: #4B5563;
+ font-size: 24px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 32px;
+ word-wrap: break-word// 10
+color: #02505F;
+ font-size: 24px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 32px;
+ word-wrap: break-word// I go to bed at 10:34 PM
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 25.60px;
+ word-wrap: break-word // Enter your description...
+color: #94A3B8;
+ font-size: 24px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 32px;
+ word-wrap: break-word // Please wait while we prepare  best sleep recommendation...
+color: #1F2937;
+ font-size: 24px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 32px;
+ word-wrap: break-word // OK Kaori, here is your recommended sleep schedule based on your input.
+color: #1F2937;
+ font-size: 24px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 32px;
+ word-wrap: break-word// Bedtime
+color: #4B5563;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 20px;
+ word-wrap: break-word// 10:00 PM
+color: #1F2937;
+ font-size: 24px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 32px;
+ word-wrap: break-word// Next bedtime: 
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 22px;
+ word-wrap: break-word
+---
+// 7h 20m
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 22px;
+ word-wrap: break-word
+---
+//  from now
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 22px;
+ word-wrap: break-word// 3 active reminder
+color: #4B5563;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word // M
+color: #7C3AED;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 22px;
+ word-wrap: break-word// T
+color: #7C3AED;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 22px;
+ word-wrap: break-word// Bedtime & Wakeup
+color: #1F2937;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 22px;
+ word-wrap: break-word   // One-Time
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 22px;
+ word-wrap: break-word // Logged today at 10:22 AM
+color: #4B5563;
+ font-size: 18px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word// December 2025
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 22px;
+ word-wrap: break-word// W
+color: #1F2937;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 20px;
+ word-wrap: break-word// 1
+color: #4B5563;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 20px;
+ word-wrap: break-word// 30
+color: #CBD5E1;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 20px;
+ word-wrap: break-word// Good Sleep
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 22px;
+ word-wrap: break-word // Sleep Reminder
+color: #1F2937;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 22px;
+ word-wrap: break-word// Next reminder on 09:00 AM
+color: #4B5563;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word// Daily Reminder
+color: #1F2937;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 22px;
+ word-wrap: break-word// Our Recommendations
+color: #1F2937;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 22px;
+ word-wrap: break-word// See All
+color: #02505F;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 20px;
+ word-wrap: break-word// Sleep
+color: #02505F;
+ font-size: 12px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 16px;
+ word-wrap: break-word// Maintaining Sleep Hygeine
+color: #1F2937;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 20px;
+ word-wrap: break-word// The Science Behind Sleep: How Better Rest Improves Your Health In Long Term...
+color: #4B5563;
+ font-size: 12px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 19.20px;
+ word-wrap: break-word// Log Happy 5x
+color: #1F2937;
+ font-size: 12px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 16px;
+ word-wrap: break-word// Jan 16, 2025
+color: #1F2937;
+ font-size: 12px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 16px;
+ word-wrap: break-word // 8h 22m
+color: #1F2937;
+ font-size: 30px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 38px;
+ word-wrap: break-word// Decent Sleep
+color: #1F2937;
+ font-size: 18px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word// Friday, Dec 16, 2028
+color: #4B5563;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word// Your slept quite well today
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 25.60px;
+ word-wrap: break-word// Key Metrics
+color: #1F2937;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 22px;
+ word-wrap: break-word// See All
+color: #02505F;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 20px;
+ word-wrap: break-word// Go to Bed
+color: #4B5563;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word// 11:30 PM
+color: #4B5563;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 20px;
+ word-wrap: break-word // Consult AI Assistant
+color: white;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 22px;
+ word-wrap: break-word// Chart View
+color: #02505F;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 22px;
+ word-wrap: break-word // Chart View
+color: #1F2937;
+ font-size: 30px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 38px;
+ word-wrap: break-word// A closer look at your Sleep analysis
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 25.60px;
+ word-wrap: break-word // Most Logged Sleep
+color: #1F2937;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 22px;
+ word-wrap: break-word// Monthly
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 22px;
+ word-wrap: break-word// 15
+color: #4B5563;
+ font-size: 12px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 16px;
+ word-wrap: break-word// Good Sleep
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 22px;
+ word-wrap: break-word // How many meals did you eat daily?
+color: #1F2937;
+ font-size: 32px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 42px;
+ word-wrap: break-word// One Time
+color: #94A3B8;
+ font-size: 24px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 32px;
+ word-wrap: break-word// Two Times
+color: #4B5563;
+ font-size: 24px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 32px;
+ word-wrap: break-word// Three Times
+color: #02505F;
+ font-size: 24px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 32px;
+ word-wrap: break-word  // Active Days
+color: #1F2937;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 22px;
+ word-wrap: break-word// 1st Meal 
+color: #1F2937;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 20px;
+ word-wrap: break-word// 10:30 AM
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 22px;
+ word-wrap: break-word // Active reminder
+color: #1F2937;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 22px;
+ word-wrap: break-word // Your 2nd meal time is near
+color: #4B5563;
+ font-size: 18px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word// Add New food time
+color: white;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 22px;
+ word-wrap: break-word// Todays food time
+color: #1F2937;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 22px;
+ word-wrap: break-word// 2nd Meal
+color: #1F2937;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 20px;
+ word-wrap: break-word// Its a heavy food
+color: #4B5563;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word// Its a heavy food
+color: #4B5563;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 20px;
+ word-wrap: break-word// at 12:22 am
+color: #7C3AED;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 20px;
+ word-wrap: break-word// Skipped
+color: #02505F;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 20px;
+ word-wrap: break-word// Taken
+color: var(--White, white);
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 20px;
+ word-wrap: break-word // December 2025
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 22px;
+ word-wrap: break-word// M
+color: #1F2937;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 20px;
+ word-wrap: break-word// 1
+color: #4B5563;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 20px;
+ word-wrap: break-word // Be sure to log your food metrics everyday to get accurate heath result!
+color: #4B5563;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 22px;
+ word-wrap: break-word// Food Reminder
+color: #1F2937;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 22px;
+ word-wrap: break-word// Next reminder on 09:00 AM
+color: #4B5563;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 22.40px;
+ word-wrap: break-word// Daily Reminder
+color: #1F2937;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 22px;
+ word-wrap: break-word// See All
+color: #02505F;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 20px;
+ word-wrap: break-word// Food Information
+color: #1F2937;
+ font-size: 16px;
+ font-family: Chakra Petch;
+ font-weight: 700;
+ line-height: 22px;
+ word-wrap: break-word // Food
+color: #02505F;
+ font-size: 12px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 16px;
+ word-wrap: break-word// Benefit of taken Dates
+color: #1F2937;
+ font-size: 14px;
+ font-family: Chakra Petch;
+ font-weight: 600;
+ line-height: 20px;
+ word-wrap: break-word// The Science Behind Sleep: How Better Rest Improves Your Health In Long Term...
+color: #4B5563;
+ font-size: 12px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 19.20px;
+ word-wrap: break-word// Log Happy 5x
+color: #1F2937;
+ font-size: 12px;
+ font-family: Chakra Petch;
+ font-weight: 500;
+ line-height: 16px;
+ word-wrap: break-word// ** Please the bot is for advice and it can make mistakes. Consult a healthcare professional if you are having any issues.
+color: #4B5563;
+ font-size: 12px;
+ font-family: Chakra Petch;
+ font-weight: 400;
+ line-height: 19.20px;
+ word-wrap: break-word 

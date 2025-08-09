@@ -1,0 +1,122 @@
+🔧 Install Mason
+bash
+Copy
+Edit
+dart pub global activate mason_cli
+Make sure ~/.pub-cache/bin is in your PATH.
+
+
+* 1️⃣ Create a brick from your old project
+mason new brick old_project_template
+
+2️⃣ Bundle your old project as a brick
+mason bundle old_project_template
+
+
+3️⃣ Generate a new project
+mason make old_project_template --name new_project
+
+Docs → https://mason.dev/docs
+
+
+
+✅ 1. Write a custom Mason brick (from your old Flutter project)
+We will turn your old Flutter project into a Mason brick.
+
+✨ Step A: Install Mason CLI
+dart pub global activate mason_cli
+Make sure ~/.pub-cache/bin is in your PATH:
+
+export PATH="$PATH":"$HOME/.pub-cache/bin"
+Check:
+mason --version
+✨ Step B: Create a new brick
+mason new brick old_project_template
+This creates:
+
+markdown
+old_project_template/
+├── brick.yaml
+├── __brick__/
+│   └── example.dart
+✨ Step C: Copy your old project into the __brick__ folder
+✅ Go into your old Flutter project, copy everything
+✅ Paste it inside:
+
+old_project_template/__brick__/
+✨ Step D: Add Mason variables
+Inside brick.yaml:
+
+name: old_project_template
+description: A Flutter project template based on old project
+vars:
+  project_name:
+    type: string
+    description: The name of the project
+  org:
+    type: string
+    description: Organization name
+In your pubspec.yaml and files, replace things like:
+
+name: {{project_name}}
+And inside Dart files:
+
+// Example main.dart
+void main() {
+  print('Hello from {{project_name}}');
+}
+✅ 2. Give ready-to-use command set to turn old project into Mason template
+Here’s a shell command sequence you can run:
+
+# 1. Install Mason
+dart pub global activate mason_cli
+
+# 2. Create a brick
+mason new brick old_project_template
+
+# 3. Copy old project into the brick
+cp -r ../old_project/* old_project_template/__brick__/
+
+# 4. Add variables manually in brick.yaml and update files (you’ll need to edit)
+nano old_project_template/brick.yaml
+
+# 5. Bundle the brick (optional but recommended for sharing)
+mason bundle old_project_template
+
+# 6. Use the brick
+mason add old_project_template --path ./old_project_template
+mason make old_project_template --project_name new_project --org com.example
+✅ Example brick.yaml
+yaml
+Copy
+Edit
+name: old_project_template
+description: A Flutter project template
+vars:
+  project_name:
+    type: string
+    description: The new project name
+  org:
+    type: string
+    description: The organization identifier
+✅ Example replacements inside Flutter files
+In pubspec.yaml:
+
+yaml
+Copy
+Edit
+name: {{project_name}}
+In AndroidManifest:
+
+xml
+Copy
+Edit
+package="{{org}}.{{project_name}}"
+🚀 Summary
+✅ Create a brick → mason new brick old_project_template
+✅ Copy old project → into __brick__/
+✅ Add variables → with {{project_name}} etc.
+✅ Bundle (optional) → mason bundle old_project_template
+✅ Generate new project → mason make old_project_template --project_name new_project --org com.example
+
+If you want, I can write you the full example brick.yaml + folder template — would you like me to prepare a ready-to-paste example? 💥 Let me know!
