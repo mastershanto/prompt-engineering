@@ -1,0 +1,284 @@
+# State Making Command: 
+
+make quality state ->  AllChatUserState with equatable for provider with 
+bool isLoading, 
+AppError error,
+GetAllUserResModel allChatUserData 
+____________________________________________
+
+# Provider making: 
+
+* follow the above code for only the provider class : 
+
+import 'package:flutter/material.dart';
+import 'package:grasshopper99_app/api_res_models/auth/coach_and_user_data/get_user_data_res_model.dart';
+import 'package:grasshopper99_app/core/helpers/state_members/app_erros.dart';
+import 'package:grasshopper99_app/core/networks/api_client/get/rx.dart';
+import 'package:grasshopper99_app/core/networks/api_client/post/rx.dart';
+import '../../../../core/helpers/state_members/state_members.dart';
+
+// ==================== IMMUTABLE STATE ====================
+// 🎓 LEARNING: Uses shared AppError instead of ProfileError
+class ProfileState {
+  final bool isLoading;
+  final AppError? error; // ✅ Uses shared AppError
+  final UserData? userData;
+  final bool isLoggedOut;
+
+  const ProfileState({
+    this.isLoading = false,
+    this.error,
+    this.userData,
+    this.isLoggedOut = false,
+  });
+
+  bool get hasError => error != null;
+  bool get hasData => userData != null;
+  bool get isIdle => !isLoading && error == null && userData == null;
+
+  ProfileState copyWith({
+    bool? isLoading,
+    AppError? error,
+    UserData? userData,
+    bool clearError = false,
+    bool clearUserData = false,
+    bool? isLoggedOut,
+  }) {
+    return ProfileState(
+      isLoading: isLoading ?? this.isLoading,
+      error: clearError ? null : (error ?? this.error),
+      userData: clearUserData ? null : (userData ?? this.userData),
+      isLoggedOut: isLoggedOut ?? this.isLoggedOut,
+    );
+  }
+
+  @override
+  bool operator ==(Object other) {
+    if (identical(this, other)) return true;
+    return other is ProfileState &&
+        other.isLoading == isLoading &&
+        other.error == error &&
+        other.userData == userData &&
+        other.isLoggedOut == isLoggedOut;
+  }
+
+  @override
+  int get hashCode =>
+      isLoading.hashCode ^
+      error.hashCode ^
+      userData.hashCode ^
+      isLoggedOut.hashCode;
+
+  @override
+  String toString() =>
+      'ProfileState(isLoading: $isLoading, error: $error, userData: $userData, isLoggedOut: $isLoggedOut)';
+}
+
+// ==================== BUSINESS LOGIC LAYER ====================
+class ProfileProvider extends ChangeNotifier {
+  final GetRx _userDataApi;
+  final PostRx _logoutApi;
+  ProfileProvider(this._userDataApi, this._logoutApi);
+
+  ProfileState _state = const ProfileState();
+  ProfileState get state => _state;
+
+  bool get isLoading => _state.isLoading;
+  bool get hasError => _state.hasError;
+  bool get hasData => _state.hasData;
+  bool get isIdle => _state.isIdle;
+  AppError? get error => _state.error; // ✅ Shared AppError
+  UserData? get userData => _state.userData;
+  String? get userEmail => _state.userData?.email;
+  String? get userName => _state.userData?.name;
+  String? get userRole => _state.userData?.role;
+  String? get userAvatar => _state.userData?.avatar;
+  String? get userLocation => _state.userData?.location;
+  String? get userBio => _state.userData?.bio;
+  bool? get isPremium => _state.userData?.isPremium;
+  int? get userId => _state.userData?.id;
+  String? get userGender => _state.userData?.gender;
+  String? get userAge => _state.userData?.age;
+  String? get topWellnessGoal => _state.userData?.topWellnessGoal;
+  String? get preferredCoachGender => _state.userData?.preferredCoachGender;
+  String? get healthConcern => _state.userData?.healthConcern;
+  String? get additionalInfo => _state.userData?.additionalInfo;
+  bool get isLoggedOut => _state.isLoggedOut;
+  AppError? get appError => _state.error;
+
+  void clearError() => _setState(_state.copyWith(clearError: true));
+  void clearUserData() => _setState(_state.copyWith(clearUserData: true));
+  void reset() => _setState(const ProfileState());
+
+  /// 🎓 LEARNING: Update user data locally without API call
+  /// Use this to immediately reflect changes from edit screen
+  void updateUserDataLocally(UserData updatedData) {
+    _setState(_state.copyWith(userData: updatedData));
+  }
+
+  void _setState(ProfileState newState) {
+    if (_state == newState) return;
+    _state = newState;
+    notifyListeners();
+  }
+
+@override
+  void dispose() {
+    super.dispose();
+    _updatedData.dispose();
+  }
+
+  /// 🎓 LEARNING: Uses shared AppError types
+  Future<Either<AppError, UserData>> getUserData() async {
+    _setState(_state.copyWith(
+      isLoading: true,
+      clearError: true,
+      clearUserData: true,
+    ));
+
+    try {
+      final bool isSuccess = await _userDataApi.fetch();
+
+      if (isSuccess) {
+        final response = _userDataApi.getStream.value;
+        final userData = response.data;
+
+        if (userData != null) {
+          _setState(_state.copyWith(
+            isLoading: false,
+            userData: userData,
+          ));
+          return Either.right(userData);
+        } else {
+          const error = ProfileNotFoundError();
+          _setState(_state.copyWith(
+            isLoading: false,
+            error: error,
+          ));
+          return Either.left(error);
+        }
+      } else {
+        const error = ServerError();
+        _setState(_state.copyWith(
+          isLoading: false,
+          error: error,
+        ));
+        return Either.left(error);
+      }
+    } catch (e) {
+      final error = UnknownError(e.toString());
+      _setState(_state.copyWith(
+        isLoading: false,
+        error: error,
+      ));
+      return Either.left(error);
+    }
+  }
+
+  /// Business logic: Perform logout operation
+  Future<Either<AppError, bool>> logout({Map<String, dynamic>? params}) async {
+    _setState(_state.copyWith(isLoading: true));
+    try {
+      final bool isSuccess = await _logoutApi.postData(data: params ?? {});
+      if (isSuccess) {
+        _setState(_state.copyWith(isLoading: false, isLoggedOut: true));
+        return Either.right(true);
+      } else {
+        const error = LogoutError();
+        _setState(_state.copyWith(isLoading: false));
+        return Either.left(error);
+      }
+    } catch (e) {
+      final error = UnknownError('Logout failed: ${e.toString()}');
+      _setState(_state.copyWith(isLoading: false));
+      return Either.left(error);
+    }
+  }
+}
+
+___or__
+class CreateGoalProvider extends ChangeNotifier {
+  final PostRx _apiCrateGoal;
+
+  CreateGoalProvider({required PostRx apiCrateGoal})
+      : _apiCrateGoal = apiCrateGoal;
+
+  CreateGoalState _state = CreateGoalState();
+
+  CreateGoalState get state => _state;
+  bool get isLoading => _state.isLoading;
+  AppError? get error => _state.error;
+  PostAddGoalResModel? get addGoalResData => _state.addGoalResData;
+  bool get isGoalCreated => _state.isGoalCreated;
+
+  void clearError() => _setState(_state.copyWith(error: null));
+  void reset() => _setState(CreateGoalState());
+
+  void _setState(CreateGoalState newState) {
+    if (_state == newState) return;
+    _state = newState;
+    notifyListeners();
+  }
+
+  Future<Either<AppError, PostAddGoalResModel>> createGoal({
+    String? pillarCategory,
+    String? title,
+    String? description,
+    String? onSuccess,
+    bool? addToDailyTasks,
+    String? frequency,
+    String? dailyTasksDescription,
+    String? startDate,
+    String? endDate,
+    bool? isAssignedByCoach,
+    String? status,
+  }) async {
+    _setState(_state.copyWith(isLoading: true, error: null));
+
+    try {
+      final isSuccess = await _apiCrateGoal.postData(data: {
+        "pillar_category": pillarCategory,
+        "title": title,
+        "description": description,
+        "frequency": frequency,
+        "add_to_daily_tasks": addToDailyTasks == true ? "1" : "0",
+        "daily_tasks_description": dailyTasksDescription,
+        "start_date": startDate,
+        "end_date": endDate,
+        "is_assigned_by_coach": isAssignedByCoach == true ? "1" : "0",
+        "status": status ?? "pending",
+      });
+
+      if (isSuccess) {
+        PostAddGoalResModel responseData =
+            PostAddGoalResModel.fromJson(_apiCrateGoal.dataFetcher.value);
+        _setState(
+          _state.copyWith(
+            isLoading: false,
+            addGoalResData: responseData,
+            isGoalCreated: true,
+          ),
+        );
+        return Either.right(responseData);
+      } else {
+        const error = ServerError();
+        _setState(_state.copyWith(
+          isLoading: false,
+          error: error,
+        ));
+        return Either.left(error);
+      }
+    } catch (e) {
+      final error = UnknownError('Failed to create goal: ${e.toString()}');
+      _setState(_state.copyWith(
+        isLoading: false,
+        error: error,
+      ));
+      return Either.left(error);
+    }
+  }
+}
+
+
+
+

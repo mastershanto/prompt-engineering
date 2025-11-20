@@ -1,0 +1,778 @@
+ // Check your email
+color: #333333;
+ font-size: 24px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 36px;
+ word-wrap: break-word// We sent a 6-digit code to
+color: #767676;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word// j•••d@gmail.com
+color: #333333;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word// Enter verification code
+color: #333333;
+ font-size: 18px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 27px;
+ word-wrap: break-word// 09:34
+color: #333333;
+ font-size: 18px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 27px;
+ word-wrap: break-word// 8
+color: #333333;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word// Didn’t receive the email? 
+color: #767676;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word// Tap to resend
+color: #333333;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ text-decoration: underline;
+ line-height: 24px;
+ word-wrap: break-word// Verify 
+color: #FEFEFE;
+ font-size: 18px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 27px;
+ word-wrap: break-word  // 4
+color: #EB1F27;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word// The code you entered is incorrect. Please try again
+color: #EB1F27;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word// Try again
+color: #FEFEFE;
+ font-size: 18px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 27px;
+ word-wrap: break-word // Send parcels, the smart way
+color: #333333;
+ font-size: 24px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 36px;
+ word-wrap: break-word// Get fast, reliable deliveries for your parcels and documents.
+color: #767676;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word // Number
+color: #333333;
+ font-size: 18px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 27px;
+ word-wrap: break-word// Email
+color: #EB1F27;
+ font-size: 18px;
+ font-family: Helvetica Neue;
+ font-weight: 700;
+ line-height: 27px;
+ word-wrap: break-word// you@example.com
+color: #C0C0C0;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word// Send OTP
+color: #FEFEFE;
+ font-size: 18px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 27px;
+ word-wrap: break-word// Bangladesh
+color: #FEFEFE;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word // Bahrain
+color: #333333;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word// B
+color: #333333;
+ font-size: 14px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 21px;
+ word-wrap: break-word // Location Access Required
+color: #333333;
+ font-size: 24px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 36px;
+ word-wrap: break-word// Your location helps us show you relevant delivery options and track your packages without having to enter your address repeatedly.
+color: #767676;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word// Enable Location
+color: #FEFEFE;
+ font-size: 18px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 27px;
+ word-wrap: break-word// Learn more
+color: #333333;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ text-decoration: underline;
+ line-height: 24px;
+ word-wrap: break-word // John Smith
+color: #333333;
+ font-size: 18px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 27px;
+ word-wrap: break-word// Esteban Landing, North Liane
+color: #767676;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word// 20 rider available in your location
+color: #00B63D;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word// Deliver with Duaba!
+color: #FEFEFE;
+ font-size: 20px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word// Our reliable riders are ready for your request, right now !
+color: #FDE9E9;
+ font-size: 14px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 21px;
+ word-wrap: break-word// Send a Parcel
+color: #EB1F27;
+ font-size: 14px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 21px;
+ word-wrap: break-word// Create a delivery
+color: #333333;
+ font-size: 20px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word// Pick-up address
+color: #767676;
+ font-size: 14px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 21px;
+ word-wrap: break-word// Suite 910 1871 Esteban Landing, North Liane, WV 74817
+color: #767676;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word// Search dropoff location
+color: #C0C0C0;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word// What are you sending today?
+color: #333333;
+ font-size: 12px;
+ font-family: Helvetica Neue;
+ font-weight: 700;
+ line-height: 18px;
+ word-wrap: break-word// Tap Here
+color: #EB1F27;
+ font-size: 12px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ text-decoration: underline;
+ line-height: 18px;
+ word-wrap: break-word
+---
+//  
+color: #A1A1A1;
+ font-size: 12px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word
+---
+// to get started on your first delivery
+color: #767676;
+ font-size: 12px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 18px;
+ word-wrap: break-word// Home
+color: #EB1F27;
+ font-size: 14px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 21px;
+ word-wrap: break-word// Activity
+color: #767676;
+ font-size: 14px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 21px;
+ word-wrap: break-word // No riders available right now
+color: #F5A51E;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word // Rider is on the way
+color: #333333;
+ font-size: 18px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 27px;
+ word-wrap: break-word// View Details
+color: #EB1F27;
+ font-size: 14px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ text-decoration: underline;
+ line-height: 21px;
+ word-wrap: break-word// Order no: 4922QgYUO45
+color: #767676;
+ font-size: 14px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 21px;
+ word-wrap: break-word// Suite 910 1871 Esteban Landing, North Liane, WV 74817
+color: #767676;
+ font-size: 14px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 21px;
+ word-wrap: break-word// Delivering by 
+color: #767676;
+ font-size: 14px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 21px;
+ word-wrap: break-word// Stephen Mathew 
+color: #333333;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word// Create a delivery
+color: #333333;
+ font-size: 20px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word// John Smith
+color: #333333;
+ font-size: 20px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word// Yourmail@gmail.com
+color: #767676;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word// Home
+color: #FEFEFE;
+ font-size: 18px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 27px;
+ word-wrap: break-word// My Addresses 
+color: #333333;
+ font-size: 18px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 27px;
+ word-wrap: break-word // Delivered 
+color: #333333;
+ font-size: 18px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 27px;
+ word-wrap: break-wordv// Order no: 4922QgYUO45
+color: #767676;
+ font-size: 14px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 21px;
+ word-wrap: break-word// Suite 910 1871 Esteban Landing, North Liane, WV 74817
+color: #767676;
+ font-size: 14px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 21px;
+ word-wrap: break-word// Activity
+color: #2E2C2C;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word // 08/24/25
+color: #767676;
+ font-size: 14px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ text-decoration: underline;
+ line-height: 21px;
+ word-wrap: break-word // Delivering by 
+color: #767676;
+ font-size: 14px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 21px;
+ word-wrap: break-word// Stephen Mathew 
+color: #333333;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word// Rate the rider
+color: #EB1F27;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word // Name
+color: #767676;
+ font-size: 12px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 16.80px;
+ word-wrap: break-word// Jane Cooper
+color: #333333;
+ font-size: 14px;
+ font-family: Poppins;
+ font-weight: 400;
+ line-height: 19.60px;
+ word-wrap: break-word // Home
+color: #333333;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word// Suite 910 1871 Esteban Landing, North Liane, WV 74817
+color: #767676;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word // Delivery Success Screen Design<br/>1. The Celebration (Top Section)<br/>This section should be visually rewarding and celebratory.<br/>
+color: #767676;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Header/Title: "Delivered! Parcel Arrived Safely."<br/>Visual: A large, friendly checkmark icon in your brand's primary color (e.g., green for success) or a simple, celebratory illustration of a successful drop-off.<br/>Time Confirmation: "Delivered at [Time, e.g., 2:35 PM]."<br/>
+color: #767676;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// 2. Service Summary (Middle Section)<br/>This provides all the necessary transactional and service details clearly.<br/>
+color: #767676;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Final Cost: "You were charged [Final Amount]." (This confirms the successful processing of the payment).<br/>Order Snapshot: A small card showing:<br/>
+color: #767676;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Order No: #[Order Number]<br/>Delivered To: [Recipient's Name/Drop-off Address]<br/>Total Time: The total time elapsed from booking to delivery.<br/>
+color: #767676;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Feedback/Rating: This is a crucial step to collect data and reward riders.<br/>
+color: #767676;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Action: A simple "How was your delivery?" with a 5-star rating system and an option to leave a tip.<br/>
+color: #767676;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// 3. Next Steps (Bottom Section)<br/>This guides the user on what to do next, encouraging them to stay engaged with the app.<br/>
+color: #767676;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Primary CTA (Call to Action): "Send Another Parcel" (This is the most direct way to generate repeat business).<br/>Secondary CTA: "View Receipt" (Takes them to a detailed receipt screen) or "View Activity" (Takes them to their order history).<br/>
+color: #767676;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// This screen is the perfect closing point for the user journey—it confirms the job is done, settles the transaction, and sets up the next booking.<br/> generate me coytent for terms and condition for this app<br/>Terms and Conditions for Duaba Delivery App<br/>These terms and conditions ("Terms") govern your use of the Duaba mobile application ("App") and the delivery services ("Services") provided by Duaba. By accessing or using the App and Services, you agree to be bound by these Terms.<br/>1. Acceptance of Terms<br/>By installing the App, accessing the Services, or clicking "I Agree," you confirm that you have read, understood, and agree to these Terms. If you do not agree, you may not use the App or Services.<br/>2. The Service<br/>Duaba is a technology platform that connects users ("Users," "you") who need to send parcels with independent third-party delivery contractors ("Riders") who provide the delivery service. Duaba does not provide transportation or logistics services itself. The Rider is an independent contractor, and Duaba is not responsible for their actions or omissions.<br/>3. User Accounts<br/>
+color: #767676;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Registration: To use the Services, you must register for and maintain an active personal user account. You must be at least 18 years old to obtain an Account.<br/>Accuracy: You agree to maintain accurate, complete, and up-to-date information in your Account. Failure to do so may result in your inability to access and use the Services or Duaba's termination of these Terms with you.<br/>Security: You are responsible for all activity that occurs under your Account and agree to maintain the security and secrecy of your Account password.<br/>
+color: #767676;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// 4. Ordering and Delivery<br/>
+color: #767676;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Parcel Content: You warrant that all parcels sent through the App comply with all applicable laws and regulations. You agree not to send any illegal, hazardous, flammable, explosive, or stolen goods. You are responsible for the contents of your parcel.<br/>Accuracy of Information: You are solely responsible for accurately providing the correct pickup and drop-off addresses, as well as the contact information for both the sender and the recipient. Duaba is not liable for delays or failed deliveries resulting from inaccurate address details.<br/>Parcel Size and Weight: Parcels must adhere to the maximum size and weight restrictions as defined within the App. Riders reserve the right to refuse oversized or overweight parcels.<br/>Delivery Attempt: If a Rider attempts a delivery but the recipient is unavailable, the Rider will attempt to contact the recipient or sender. If the delivery cannot be completed, the parcel may be returned to the sender at an additional cost, or held for pickup.<br/>
+color: #767676;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// 5. Payment and Fees<br/>
+color: #767676;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Pricing: All delivery fees are calculated based on distance, time, parcel details, and demand, and will be displayed on the final confirmation screen ("Review Order") before you confirm the booking.<br/>Payment Method: You agree to pay all fees for Services obtained under your Account. Payment will be processed through the payment method designated in your Account.<br/>Pre-authorization: Upon booking a delivery, Duaba will place a pre-authorization hold on your payment method for the full estimated fee.<br/>Final Charge: The final charge will be processed upon successful completion of the delivery. The final amount may vary slightly due to unexpected route changes, waiting time, or other minor adjustments.<br/>
+color: #767676;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// 6. Cancellation and Refunds<br/>
+color: #767676;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Cancellation by User: You may cancel a delivery request at any time.<br/>
+color: #767676;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// If you cancel before a Rider accepts the order, you will incur no charge.<br/>If you cancel after a Rider accepts the order, a cancellation fee may apply to compensate the Rider for time and distance traveled.<br/>
+color: #767676;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+// Refunds: Refunds for failed or cancelled deliveries will be processed according to Duaba's Refund Policy, which may be viewed within the App.<br/>
+color: #767676;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word
+---
+changes.
+color: #767676;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word// Recent Drop-off 
+color: #333333;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word// Saved
+color: #EB1F27;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word // Saved Address
+color: #333333;
+ font-size: 18px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 27px;
+ word-wrap: break-word// Home
+color: #333333;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word// Suite 910 1871 Esteban Landing, North Liane, WV 74817
+color: #767676;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word // Save address as?
+color: #333333;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word// Home
+color: #EB1F27;
+ font-size: 14px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 21px;
+ word-wrap: break-word// Save this Address
+color: #FEFEFE;
+ font-size: 18px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 27px;
+ word-wrap: break-word // Suite 910 1871 Esteban Landing, North Liane, WV 74817
+color: #333333;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ text-decoration: underline;
+ line-height: 24px;
+ word-wrap: break-word// Receiver Name
+color: #333333;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word// eg; Stephen
+color: #C0C0C0;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word // Custom
+color: #FEFEFE;
+ font-size: 14px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 21px;
+ word-wrap: break-word // Distance 46 KM
+color: #333333;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word// Where to drop ?
+color: #333333;
+ font-size: 18px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 27px;
+ word-wrap: break-word// Pick-up address
+color: #333333;
+ font-size: 14px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 21px;
+ word-wrap: break-word// Suite 910 1871 Esteban Landing, North Liane, WV 74817
+color: #767676;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word// Parcel Details
+color: #333333;
+ font-size: 18px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 27px;
+ word-wrap: break-word// Height
+color: #333333;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word// eg: 12 Inch
+color: #C0C0C0;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word // 17
+color: var(--Schemes-On-Primary, white);
+ font-size: 14px;
+ font-family: Roboto;
+ font-weight: 500;
+ line-height: 20px;
+ letter-spacing: 0.10px;
+ word-wrap: break-word// 16
+color: var(--Schemes-On-Surface, #1D1B20);
+ font-size: 16px;
+ font-family: Roboto;
+ font-weight: 400;
+ line-height: 24px;
+ letter-spacing: 0.50px;
+ word-wrap: break-word // PM
+color: var(--Schemes-On-Surface-Variant, #49454F);
+ font-size: 16px;
+ font-family: Roboto;
+ font-weight: 500;
+ line-height: 24px;
+ letter-spacing: 0.15px;
+ word-wrap: break-word // 5 min away
+color: #EB1F27;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word// Rider is on the way
+color: #333333;
+ font-size: 18px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 27px;
+ word-wrap: break-word// Delivering by 
+color: #767676;
+ font-size: 14px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 21px;
+ word-wrap: break-word// Stephen Mathew 
+color: #333333;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word// Confirm and pay
+color: #FEFEFE;
+ font-size: 18px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 27px;
+ word-wrap: break-word// No rider found !
+color: #FEFEFE;
+ font-size: 18px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 27px;
+ word-wrap: break-word // Payment method
+color: #333333;
+ font-size: 20px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 30px;
+ word-wrap: break-word// Make payment
+color: #2E2C2C;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 24px;
+ word-wrap: break-word // Delivering by 
+color: #767676;
+ font-size: 14px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 21px;
+ word-wrap: break-word// Stephen Mathew 
+color: #333333;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word // Delivered! <br/>Parcel Arrived Safely.
+color: #333333;
+ font-size: 18px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 27px;
+ word-wrap: break-word// Delivered by 
+color: #767676;
+ font-size: 14px;
+ font-family: Helvetica Neue;
+ font-weight: 400;
+ line-height: 21px;
+ word-wrap: break-word// Stephen Mathew 
+color: #333333;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word// Rate the rider
+color: #EB1F27;
+ font-size: 16px;
+ font-family: Helvetica Neue;
+ font-weight: 500;
+ line-height: 24px;
+ word-wrap: break-word 
